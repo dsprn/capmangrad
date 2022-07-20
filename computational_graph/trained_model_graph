@@ -1,0 +1,3510 @@
+digraph {
+	graph [rankdir=TB]
+	139674133692480 [label="{ ADD_RESULT | data -0.9506 | grad 0.0000 }" shape=record]
+	"139674133692480+" [label="+"]
+	"139674133692480+" -> 139674133692480
+	139674133823696 [label="{ MUL_RESULT | data 0.0035 | grad 0.0000 }" shape=record]
+	"139674133823696*" [label="*"]
+	"139674133823696*" -> 139674133823696
+	139674133692672 [label="{ ADD_RESULT | data -0.9506 | grad 0.0000 }" shape=record]
+	"139674133692672+" [label="+"]
+	"139674133692672+" -> 139674133692672
+	139674133823888 [label="{ MUL_RESULT | data -0.3832 | grad 0.0000 }" shape=record]
+	"139674133823888*" [label="*"]
+	"139674133823888*" -> 139674133823888
+	139674133692864 [label="{ ADD_RESULT | data -0.9506 | grad 0.0000 }" shape=record]
+	"139674133692864+" [label="+"]
+	"139674133692864+" -> 139674133692864
+	139674133824080 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133824080*" [label="*"]
+	"139674133824080*" -> 139674133824080
+	139674133693056 [label="{ ADD_RESULT | data -0.9506 | grad 0.0000 }" shape=record]
+	"139674133693056+" [label="+"]
+	"139674133693056+" -> 139674133693056
+	139674133824272 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133824272*" [label="*"]
+	"139674133824272*" -> 139674133824272
+	139674133693248 [label="{ ADD_RESULT | data -0.9642 | grad 0.0000 }" shape=record]
+	"139674133693248+" [label="+"]
+	"139674133693248+" -> 139674133693248
+	139674133824464 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133824464*" [label="*"]
+	"139674133824464*" -> 139674133824464
+	139674133693440 [label="{ ADD_RESULT | data -1.9878 | grad 0.0000 }" shape=record]
+	"139674133693440+" [label="+"]
+	"139674133693440+" -> 139674133693440
+	139674133824656 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133824656*" [label="*"]
+	"139674133824656*" -> 139674133824656
+	139674133693632 [label="{ ADD_RESULT | data -1.9922 | grad 0.0000 }" shape=record]
+	"139674133693632+" [label="+"]
+	"139674133693632+" -> 139674133693632
+	139674133824800 [label="{ ADD_RESULT | data -0.3081 | grad 0.0000 }" shape=record]
+	"139674133824800+" [label="+"]
+	"139674133824800+" -> 139674133824800
+	139674133693824 [label="{ ADD_RESULT | data -1.9922 | grad 0.0000 }" shape=record]
+	"139674133693824+" [label="+"]
+	"139674133693824+" -> 139674133693824
+	139674133824992 [label="{ ADD_RESULT | data -0.3541 | grad 0.0000 }" shape=record]
+	"139674133824992+" [label="+"]
+	"139674133824992+" -> 139674133824992
+	139674133694016 [label="{ ADD_RESULT | data -1.9961 | grad 0.0000 }" shape=record]
+	"139674133694016+" [label="+"]
+	"139674133694016+" -> 139674133694016
+	139674133825184 [label="{ ADD_RESULT | data -0.3541 | grad 0.0000 }" shape=record]
+	"139674133825184+" [label="+"]
+	"139674133825184+" -> 139674133825184
+	139674133694208 [label="{ ADD_RESULT | data -1.9916 | grad 0.0000 }" shape=record]
+	"139674133694208+" [label="+"]
+	"139674133694208+" -> 139674133694208
+	139674133825376 [label="{ ADD_RESULT | data -0.3541 | grad 0.0000 }" shape=record]
+	"139674133825376+" [label="+"]
+	"139674133825376+" -> 139674133825376
+	139674133694400 [label="{ ADD_RESULT | data -2.0265 | grad 0.0000 }" shape=record]
+	"139674133694400+" [label="+"]
+	"139674133694400+" -> 139674133694400
+	139674133825568 [label="{ ADD_RESULT | data -0.3541 | grad 0.0000 }" shape=record]
+	"139674133825568+" [label="+"]
+	"139674133825568+" -> 139674133825568
+	139674133694592 [label="{ ADD_RESULT | data -2.0265 | grad 0.0000 }" shape=record]
+	"139674133694592+" [label="+"]
+	"139674133694592+" -> 139674133694592
+	139674133825760 [label="{ ADD_RESULT | data -0.3704 | grad 0.0000 }" shape=record]
+	"139674133825760+" [label="+"]
+	"139674133825760+" -> 139674133825760
+	139674133694784 [label="{ ADD_RESULT | data -2.0265 | grad 0.0000 }" shape=record]
+	"139674133694784+" [label="+"]
+	"139674133694784+" -> 139674133694784
+	139674133825952 [label="{ ADD_RESULT | data -1.0781 | grad 0.0000 }" shape=record]
+	"139674133825952+" [label="+"]
+	"139674133825952+" -> 139674133825952
+	139674133694976 [label="{ ADD_RESULT | data -2.0265 | grad 0.0000 }" shape=record]
+	"139674133694976+" [label="+"]
+	"139674133694976+" -> 139674133694976
+	139674133826144 [label="{ ADD_RESULT | data -1.0755 | grad 0.0000 }" shape=record]
+	"139674133826144+" [label="+"]
+	"139674133826144+" -> 139674133826144
+	139674133695168 [label="{ ADD_RESULT | data -2.0265 | grad 0.0000 }" shape=record]
+	"139674133695168+" [label="+"]
+	"139674133695168+" -> 139674133695168
+	139674133695264 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133695264ReLU" [label=ReLU]
+	"139674133695264ReLU" -> 139674133695264
+	139674133826336 [label="{ ADD_RESULT | data -1.0755 | grad 0.0000 }" shape=record]
+	"139674133826336+" [label="+"]
+	"139674133826336+" -> 139674133826336
+	139674133826528 [label="{ ADD_RESULT | data -1.0755 | grad 0.0000 }" shape=record]
+	"139674133826528+" [label="+"]
+	"139674133826528+" -> 139674133826528
+	139674133695552 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133695552*" [label="*"]
+	"139674133695552*" -> 139674133695552
+	139674133826720 [label="{ ADD_RESULT | data -1.0719 | grad 0.0000 }" shape=record]
+	"139674133826720+" [label="+"]
+	"139674133826720+" -> 139674133826720
+	139674133695744 [label="{ MUL_RESULT | data 0.7855 | grad 0.0000 }" shape=record]
+	"139674133695744*" [label="*"]
+	"139674133695744*" -> 139674133695744
+	139674133826912 [label="{ ADD_RESULT | data -1.4552 | grad 0.0000 }" shape=record]
+	"139674133826912+" [label="+"]
+	"139674133826912+" -> 139674133826912
+	139674133695936 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133695936*" [label="*"]
+	"139674133695936*" -> 139674133695936
+	139674133827104 [label="{ ADD_RESULT | data -1.4552 | grad 0.0000 }" shape=record]
+	"139674133827104+" [label="+"]
+	"139674133827104+" -> 139674133827104
+	139674133696128 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133696128*" [label="*"]
+	"139674133696128*" -> 139674133696128
+	139674133827296 [label="{ ADD_RESULT | data -1.4552 | grad 0.0000 }" shape=record]
+	"139674133827296+" [label="+"]
+	"139674133827296+" -> 139674133827296
+	139674133696320 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133696320*" [label="*"]
+	"139674133696320*" -> 139674133696320
+	139674133827488 [label="{ ADD_RESULT | data -1.4552 | grad 0.0000 }" shape=record]
+	"139674133827488+" [label="+"]
+	"139674133827488+" -> 139674133827488
+	139674184978496 [label="{ WEIGHT | data 0.4625 | grad 0.0005 }" shape=record]
+	139674212667504 [label="{ ADD_RESULT | data 0.0303 | grad 0.0000 }" shape=record]
+	"139674212667504+" [label="+"]
+	"139674212667504+" -> 139674212667504
+	139674184978544 [label="{ WEIGHT | data 0.5066 | grad 0.0005 }" shape=record]
+	139674145558640 [label="{ ADD_RESULT | data -0.9481 | grad 0.0000 }" shape=record]
+	"139674145558640+" [label="+"]
+	"139674145558640+" -> 139674145558640
+	139674184978592 [label="{ WEIGHT | data -0.9398 | grad -0.0009 }" shape=record]
+	139674145689760 [label="{ ADD_RESULT | data -1.4552 | grad 0.0000 }" shape=record]
+	"139674145689760+" [label="+"]
+	"139674145689760+" -> 139674145689760
+	139674145657040 [label="{ MUL_RESULT | data -0.0229 | grad 0.0000 }" shape=record]
+	"139674145657040*" [label="*"]
+	"139674145657040*" -> 139674145657040
+	139674133926096 [label="{ ADD_RESULT | data 0.2026 | grad 0.0000 }" shape=record]
+	"139674133926096+" [label="+"]
+	"139674133926096+" -> 139674133926096
+	139674184978688 [label="{ WEIGHT | data 0.4967 | grad 0.0107 }" shape=record]
+	139674145689856 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145689856ReLU" [label=ReLU]
+	"139674145689856ReLU" -> 139674145689856
+	139674212667696 [label="{ ADD_RESULT | data -0.3240 | grad 0.0000 }" shape=record]
+	"139674212667696+" [label="+"]
+	"139674212667696+" -> 139674212667696
+	139674184978736 [label="{ WEIGHT | data -0.1119 | grad -0.0001 }" shape=record]
+	139674145558832 [label="{ ADD_RESULT | data -0.9481 | grad 0.0000 }" shape=record]
+	"139674145558832+" [label="+"]
+	"139674145558832+" -> 139674145558832
+	139674184978784 [label="{ WEIGHT | data -0.5137 | grad -0.0005 }" shape=record]
+	139674212667792 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674212667792ReLU" [label=ReLU]
+	"139674212667792ReLU" -> 139674212667792
+	139674145657232 [label="{ MUL_RESULT | data -1.4107 | grad 0.0000 }" shape=record]
+	"139674145657232*" [label="*"]
+	"139674145657232*" -> 139674145657232
+	139674133926288 [label="{ ADD_RESULT | data 0.2254 | grad 0.0000 }" shape=record]
+	"139674133926288+" [label="+"]
+	"139674133926288+" -> 139674133926288
+	139674184978880 [label="{ WEIGHT | data 0.8185 | grad -0.0267 }" shape=record]
+	139674184978832 [label="{ WEIGHT | data 0.1286 | grad 0.0001 }" shape=record]
+	139674184978928 [label="{ WEIGHT | data 0.8353 | grad 0.0008 }" shape=record]
+	139674145559024 [label="{ ADD_RESULT | data -0.9719 | grad 0.0000 }" shape=record]
+	"139674145559024+" [label="+"]
+	"139674145559024+" -> 139674145559024
+	139674184978976 [label="{ WEIGHT | data 0.9829 | grad 0.0010 }" shape=record]
+	139674145690144 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145690144*" [label="*"]
+	"139674145690144*" -> 139674145690144
+	139674145657424 [label="{ MUL_RESULT | data -0.0074 | grad 0.0000 }" shape=record]
+	"139674145657424*" [label="*"]
+	"139674145657424*" -> 139674145657424
+	139674133926480 [label="{ ADD_RESULT | data 0.2254 | grad 0.0000 }" shape=record]
+	"139674133926480+" [label="+"]
+	"139674133926480+" -> 139674133926480
+	139674184979024 [label="{ BIAS | data -0.2459 | grad -0.0424 }" shape=record]
+	139674212668080 [label="{ MUL_RESULT | data -0.0272 | grad 0.0000 }" shape=record]
+	"139674212668080*" [label="*"]
+	"139674212668080*" -> 139674212668080
+	139674184979120 [label="{ WEIGHT | data 0.5787 | grad 0.0006 }" shape=record]
+	139674145559216 [label="{ ADD_RESULT | data -1.2001 | grad 0.0000 }" shape=record]
+	"139674145559216+" [label="+"]
+	"139674145559216+" -> 139674145559216
+	139674184979168 [label="{ WEIGHT | data 0.1644 | grad -0.0413 }" shape=record]
+	139674145690336 [label="{ MUL_RESULT | data -0.6602 | grad 0.0000 }" shape=record]
+	"139674145690336*" [label="*"]
+	"139674145690336*" -> 139674145690336
+	139674145657616 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145657616*" [label="*"]
+	"139674145657616*" -> 139674145657616
+	139674133926672 [label="{ ADD_RESULT | data 0.2348 | grad 0.0000 }" shape=record]
+	"139674133926672+" [label="+"]
+	"139674133926672+" -> 139674133926672
+	139674184979216 [label="{ WEIGHT | data -0.6359 | grad -0.0006 }" shape=record]
+	139674184979264 [label="{ WEIGHT | data -0.0768 | grad -0.0001 }" shape=record]
+	139674212668272 [label="{ MUL_RESULT | data 0.3474 | grad 0.0000 }" shape=record]
+	"139674212668272*" [label="*"]
+	"139674212668272*" -> 139674212668272
+	139674184979312 [label="{ WEIGHT | data -0.5284 | grad -0.0005 }" shape=record]
+	139674145559408 [label="{ ADD_RESULT | data -1.1972 | grad 0.0000 }" shape=record]
+	"139674145559408+" [label="+"]
+	"139674145559408+" -> 139674145559408
+	139674184979360 [label="{ WEIGHT | data 0.1105 | grad 0.0010 }" shape=record]
+	139674145690528 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145690528*" [label="*"]
+	"139674145690528*" -> 139674145690528
+	139674145657808 [label="{ MUL_RESULT | data -0.0025 | grad 0.0000 }" shape=record]
+	"139674145657808*" [label="*"]
+	"139674145657808*" -> 139674145657808
+	139674133926864 [label="{ ADD_RESULT | data 0.2591 | grad 0.0000 }" shape=record]
+	"139674133926864+" [label="+"]
+	"139674133926864+" -> 139674133926864
+	139674212668416 [label="{ ADD_RESULT | data -0.3217 | grad 0.0000 }" shape=record]
+	"139674212668416+" [label="+"]
+	"139674212668416+" -> 139674212668416
+	139674184979456 [label="{ WEIGHT | data -0.2588 | grad -0.0078 }" shape=record]
+	139674184979504 [label="{ WEIGHT | data -0.6123 | grad -0.0006 }" shape=record]
+	139674145559600 [label="{ ADD_RESULT | data -1.1972 | grad 0.0000 }" shape=record]
+	"139674145559600+" [label="+"]
+	"139674145559600+" -> 139674145559600
+	139674184979552 [label="{ WEIGHT | data -0.2047 | grad -0.0002 }" shape=record]
+	139674145690720 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145690720*" [label="*"]
+	"139674145690720*" -> 139674145690720
+	139674145658000 [label="{ MUL_RESULT | data -0.0011 | grad 0.0000 }" shape=record]
+	"139674145658000*" [label="*"]
+	"139674145658000*" -> 139674145658000
+	139674184979600 [label="{ WEIGHT | data 0.7206 | grad -0.0043 }" shape=record]
+	139674133927056 [label="{ ADD_RESULT | data 0.7494 | grad 0.0000 }" shape=record]
+	"139674133927056+" [label="+"]
+	"139674133927056+" -> 139674133927056
+	139674212668608 [label="{ ADD_RESULT | data 0.0257 | grad 0.0000 }" shape=record]
+	"139674212668608+" [label="+"]
+	"139674212668608+" -> 139674212668608
+	139674184979648 [label="{ WEIGHT | data 0.1072 | grad 0.0001 }" shape=record]
+	139674184979696 [label="{ WEIGHT | data -0.3023 | grad -0.0003 }" shape=record]
+	139674145559792 [label="{ ADD_RESULT | data -1.2049 | grad 0.0000 }" shape=record]
+	"139674145559792+" [label="+"]
+	"139674145559792+" -> 139674145559792
+	139674212668704 [label="{ RELU_RESULT | data 0.0257 | grad 0.0000 }" shape=record]
+	"139674212668704ReLU" [label=ReLU]
+	"139674212668704ReLU" -> 139674212668704
+	139674184979744 [label="{ WEIGHT | data -0.0999 | grad 0.0010 }" shape=record]
+	139674145690912 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145690912*" [label="*"]
+	"139674145690912*" -> 139674145690912
+	139674145658192 [label="{ MUL_RESULT | data 0.0925 | grad 0.0000 }" shape=record]
+	"139674145658192*" [label="*"]
+	"139674145658192*" -> 139674145658192
+	139674184979792 [label="{ WEIGHT | data -1.1609 | grad -0.0012 }" shape=record]
+	139674133927248 [label="{ ADD_RESULT | data 0.7494 | grad 0.0000 }" shape=record]
+	"139674133927248+" [label="+"]
+	"139674133927248+" -> 139674133927248
+	139674184979840 [label="{ WEIGHT | data -0.3823 | grad -0.0043 }" shape=record]
+	139674184979888 [label="{ WEIGHT | data -0.1954 | grad -0.0003 }" shape=record]
+	139674145559984 [label="{ ADD_RESULT | data -1.2077 | grad 0.0000 }" shape=record]
+	"139674145559984+" [label="+"]
+	"139674145559984+" -> 139674145559984
+	139674184979936 [label="{ WEIGHT | data -0.2168 | grad 0.0003 }" shape=record]
+	139674145691104 [label="{ MUL_RESULT | data -0.0238 | grad 0.0000 }" shape=record]
+	"139674145691104*" [label="*"]
+	"139674145691104*" -> 139674145691104
+	139674145658384 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145658384*" [label="*"]
+	"139674145658384*" -> 139674145658384
+	139674184979984 [label="{ WEIGHT | data 0.4575 | grad 0.0023 }" shape=record]
+	139674133927440 [label="{ ADD_RESULT | data 0.7494 | grad 0.0000 }" shape=record]
+	"139674133927440+" [label="+"]
+	"139674133927440+" -> 139674133927440
+	139674212668992 [label="{ MUL_RESULT | data 0.0190 | grad 0.0000 }" shape=record]
+	"139674212668992*" [label="*"]
+	"139674212668992*" -> 139674212668992
+	139674184980032 [label="{ WEIGHT | data -0.6898 | grad 0.0009 }" shape=record]
+	139674184980080 [label="{ BIAS | data 0.1824 | grad 0.0002 }" shape=record]
+	139674145560176 [label="{ ADD_RESULT | data -0.6796 | grad 0.0000 }" shape=record]
+	"139674145560176+" [label="+"]
+	"139674145560176+" -> 139674145560176
+	139674184980128 [label="{ WEIGHT | data 0.0580 | grad 0.0041 }" shape=record]
+	139674145691296 [label="{ MUL_RESULT | data -0.2282 | grad 0.0000 }" shape=record]
+	"139674145691296*" [label="*"]
+	"139674145691296*" -> 139674145691296
+	139674145658576 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145658576*" [label="*"]
+	"139674145658576*" -> 139674145658576
+	139674184980176 [label="{ WEIGHT | data -0.1336 | grad -0.0001 }" shape=record]
+	139674133927632 [label="{ ADD_RESULT | data 0.7494 | grad 0.0000 }" shape=record]
+	"139674133927632+" [label="+"]
+	"139674133927632+" -> 139674133927632
+	139674212669184 [label="{ MUL_RESULT | data 0.1500 | grad 0.0000 }" shape=record]
+	"139674212669184*" [label="*"]
+	"139674212669184*" -> 139674212669184
+	139674184980272 [label="{ WEIGHT | data -0.6032 | grad -0.0006 }" shape=record]
+	139674145560368 [label="{ ADD_RESULT | data -0.6796 | grad 0.0000 }" shape=record]
+	"139674145560368+" [label="+"]
+	"139674145560368+" -> 139674145560368
+	139674145691488 [label="{ MUL_RESULT | data 0.0029 | grad 0.0000 }" shape=record]
+	"139674145691488*" [label="*"]
+	"139674145691488*" -> 139674145691488
+	139674212669328 [label="{ ADD_RESULT | data 1.1894 | grad 0.0000 }" shape=record]
+	"139674212669328+" [label="+"]
+	"139674212669328+" -> 139674212669328
+	139674145658768 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145658768*" [label="*"]
+	"139674145658768*" -> 139674145658768
+	139674184980368 [label="{ WEIGHT | data 0.7435 | grad 0.0007 }" shape=record]
+	139674184980416 [label="{ WEIGHT | data 0.5411 | grad 0.0005 }" shape=record]
+	139674133927824 [label="{ ADD_RESULT | data 0.7494 | grad 0.0000 }" shape=record]
+	"139674133927824+" [label="+"]
+	"139674133927824+" -> 139674133927824
+	139674184980464 [label="{ WEIGHT | data -0.6446 | grad -0.0006 }" shape=record]
+	139674133927920 [label="{ RELU_RESULT | data 0.7494 | grad 0.0000 }" shape=record]
+	"139674133927920ReLU" [label=ReLU]
+	"139674133927920ReLU" -> 139674133927920
+	139674145560560 [label="{ ADD_RESULT | data -0.6796 | grad 0.0000 }" shape=record]
+	"139674145560560+" [label="+"]
+	"139674145560560+" -> 139674145560560
+	139674184980512 [label="{ WEIGHT | data -0.0995 | grad -0.0001 }" shape=record]
+	139674145691680 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145691680*" [label="*"]
+	"139674145691680*" -> 139674145691680
+	139674212669520 [label="{ ADD_RESULT | data 1.3394 | grad 0.0000 }" shape=record]
+	"139674212669520+" [label="+"]
+	"139674212669520+" -> 139674212669520
+	139674145658960 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145658960*" [label="*"]
+	"139674145658960*" -> 139674145658960
+	139674184980560 [label="{ WEIGHT | data -0.0471 | grad -0.0000 }" shape=record]
+	139674184980608 [label="{ WEIGHT | data 0.1848 | grad 0.0002 }" shape=record]
+	139674212669616 [label="{ RELU_RESULT | data 1.3394 | grad 0.0000 }" shape=record]
+	"139674212669616ReLU" [label=ReLU]
+	"139674212669616ReLU" -> 139674212669616
+	139674184980656 [label="{ WEIGHT | data -0.3147 | grad -0.0003 }" shape=record]
+	139674145560752 [label="{ ADD_RESULT | data -0.6796 | grad 0.0000 }" shape=record]
+	"139674145560752+" [label="+"]
+	"139674145560752+" -> 139674145560752
+	139674145659104 [label="{ ADD_RESULT | data -0.1807 | grad 0.0000 }" shape=record]
+	"139674145659104+" [label="+"]
+	"139674145659104+" -> 139674145659104
+	139674184980704 [label="{ WEIGHT | data -0.8101 | grad -0.0008 }" shape=record]
+	139674145691872 [label="{ MUL_RESULT | data -0.0077 | grad 0.0000 }" shape=record]
+	"139674145691872*" [label="*"]
+	"139674145691872*" -> 139674145691872
+	139674184980752 [label="{ WEIGHT | data 0.4139 | grad 0.0004 }" shape=record]
+	139674133928208 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133928208*" [label="*"]
+	"139674133928208*" -> 139674133928208
+	139674184980800 [label="{ WEIGHT | data 0.3252 | grad 0.0003 }" shape=record]
+	139674184980848 [label="{ WEIGHT | data -0.5099 | grad -0.0005 }" shape=record]
+	139674145560944 [label="{ ADD_RESULT | data -0.6796 | grad 0.0000 }" shape=record]
+	"139674145560944+" [label="+"]
+	"139674145560944+" -> 139674145560944
+	139674145659296 [label="{ ADD_RESULT | data -0.7980 | grad 0.0000 }" shape=record]
+	"139674145659296+" [label="+"]
+	"139674145659296+" -> 139674145659296
+	139674184980896 [label="{ WEIGHT | data 0.5172 | grad 0.0005 }" shape=record]
+	139674145692064 [label="{ MUL_RESULT | data -0.0028 | grad 0.0000 }" shape=record]
+	"139674145692064*" [label="*"]
+	"139674145692064*" -> 139674145692064
+	139674212669904 [label="{ MUL_RESULT | data 0.0345 | grad 0.0000 }" shape=record]
+	"139674212669904*" [label="*"]
+	"139674212669904*" -> 139674212669904
+	139674184980944 [label="{ WEIGHT | data -0.9071 | grad -0.0009 }" shape=record]
+	139674133928400 [label="{ MUL_RESULT | data -0.0459 | grad 0.0000 }" shape=record]
+	"139674133928400*" [label="*"]
+	"139674133928400*" -> 139674133928400
+	139674184980992 [label="{ BIAS | data -0.0935 | grad -0.0001 }" shape=record]
+	139674145561040 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145561040ReLU" [label=ReLU]
+	"139674145561040ReLU" -> 139674145561040
+	139674145659488 [label="{ ADD_RESULT | data -0.7980 | grad 0.0000 }" shape=record]
+	"139674145659488+" [label="+"]
+	"139674145659488+" -> 139674145659488
+	139674184981088 [label="{ WEIGHT | data -0.5544 | grad -0.0006 }" shape=record]
+	139674145692256 [label="{ MUL_RESULT | data 0.5280 | grad 0.0000 }" shape=record]
+	"139674145692256*" [label="*"]
+	"139674145692256*" -> 139674145692256
+	139674212670096 [label="{ MUL_RESULT | data 0.3149 | grad 0.0000 }" shape=record]
+	"139674212670096*" [label="*"]
+	"139674212670096*" -> 139674212670096
+	139674133928592 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133928592*" [label="*"]
+	"139674133928592*" -> 139674133928592
+	139674184981184 [label="{ WEIGHT | data -0.0517 | grad -0.0001 }" shape=record]
+	139674184981232 [label="{ WEIGHT | data 0.6493 | grad 0.0006 }" shape=record]
+	139674145561328 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145561328*" [label="*"]
+	"139674145561328*" -> 139674145561328
+	139674212670240 [label="{ ADD_RESULT | data -0.2917 | grad 0.0000 }" shape=record]
+	"139674212670240+" [label="+"]
+	"139674212670240+" -> 139674212670240
+	139674145659680 [label="{ ADD_RESULT | data -0.7980 | grad 0.0000 }" shape=record]
+	"139674145659680+" [label="+"]
+	"139674145659680+" -> 139674145659680
+	139674184981280 [label="{ WEIGHT | data -0.4823 | grad -0.0005 }" shape=record]
+	139674184981328 [label="{ WEIGHT | data -0.1617 | grad -0.0002 }" shape=record]
+	139674133928784 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133928784*" [label="*"]
+	"139674133928784*" -> 139674133928784
+	139674145692448 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145692448*" [label="*"]
+	"139674145692448*" -> 139674145692448
+	139674184981376 [label="{ WEIGHT | data 0.2334 | grad 0.0002 }" shape=record]
+	139674184981424 [label="{ WEIGHT | data -0.5789 | grad -0.0006 }" shape=record]
+	139674145561520 [label="{ MUL_RESULT | data -1.0333 | grad 0.0000 }" shape=record]
+	"139674145561520*" [label="*"]
+	"139674145561520*" -> 139674145561520
+	139674212670432 [label="{ ADD_RESULT | data 0.0232 | grad 0.0000 }" shape=record]
+	"139674212670432+" [label="+"]
+	"139674212670432+" -> 139674212670432
+	139674145659872 [label="{ ADD_RESULT | data -0.7980 | grad 0.0000 }" shape=record]
+	"139674145659872+" [label="+"]
+	"139674145659872+" -> 139674145659872
+	139674184981472 [label="{ WEIGHT | data -0.8123 | grad -0.0008 }" shape=record]
+	139674184981520 [label="{ WEIGHT | data -0.0256 | grad -0.0000 }" shape=record]
+	139674133928976 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133928976*" [label="*"]
+	"139674133928976*" -> 139674133928976
+	139674145692640 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145692640*" [label="*"]
+	"139674145692640*" -> 139674145692640
+	139674212670528 [label="{ RELU_RESULT | data 0.0232 | grad 0.0000 }" shape=record]
+	"139674212670528ReLU" [label=ReLU]
+	"139674212670528ReLU" -> 139674212670528
+	139674184981568 [label="{ WEIGHT | data -0.4962 | grad -0.0005 }" shape=record]
+	139674184981616 [label="{ WEIGHT | data 0.2927 | grad 0.0003 }" shape=record]
+	139674145561712 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145561712*" [label="*"]
+	"139674145561712*" -> 139674145561712
+	139674145660064 [label="{ ADD_RESULT | data -0.8209 | grad 0.0000 }" shape=record]
+	"139674145660064+" [label="+"]
+	"139674145660064+" -> 139674145660064
+	139674184981664 [label="{ WEIGHT | data 0.3662 | grad 0.0004 }" shape=record]
+	139674145692832 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145692832*" [label="*"]
+	"139674145692832*" -> 139674145692832
+	139674184981712 [label="{ WEIGHT | data -0.1545 | grad -0.0002 }" shape=record]
+	139674133929168 [label="{ MUL_RESULT | data -0.0163 | grad 0.0000 }" shape=record]
+	"139674133929168*" [label="*"]
+	"139674133929168*" -> 139674133929168
+	139674184981760 [label="{ BIAS | data -0.0169 | grad -0.0000 }" shape=record]
+	139674145561904 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145561904*" [label="*"]
+	"139674145561904*" -> 139674145561904
+	139674212670816 [label="{ MUL_RESULT | data -0.0131 | grad 0.0000 }" shape=record]
+	"139674212670816*" [label="*"]
+	"139674212670816*" -> 139674212670816
+	139674145660256 [label="{ ADD_RESULT | data -2.2317 | grad 0.0000 }" shape=record]
+	"139674145660256+" [label="+"]
+	"139674145660256+" -> 139674145660256
+	139674184981856 [label="{ WEIGHT | data -0.7462 | grad -0.0007 }" shape=record]
+	139674184981904 [label="{ WEIGHT | data -0.3180 | grad -0.0003 }" shape=record]
+	139674133929360 [label="{ MUL_RESULT | data -0.7077 | grad 0.0000 }" shape=record]
+	"139674133929360*" [label="*"]
+	"139674133929360*" -> 139674133929360
+	139674145693024 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145693024*" [label="*"]
+	"139674145693024*" -> 139674145693024
+	139674184981952 [label="{ WEIGHT | data 0.8743 | grad -0.0293 }" shape=record]
+	139674184982000 [label="{ WEIGHT | data -0.0551 | grad -0.0159 }" shape=record]
+	139674145693168 [label="{ ADD_RESULT | data -0.2879 | grad 0.0000 }" shape=record]
+	"139674145693168+" [label="+"]
+	"139674145693168+" -> 139674145693168
+	139674145562096 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145562096*" [label="*"]
+	"139674145562096*" -> 139674145562096
+	139674212671008 [label="{ MUL_RESULT | data 0.0805 | grad 0.0000 }" shape=record]
+	"139674212671008*" [label="*"]
+	"139674212671008*" -> 139674212671008
+	139674145660448 [label="{ ADD_RESULT | data -2.2391 | grad 0.0000 }" shape=record]
+	"139674145660448+" [label="+"]
+	"139674145660448+" -> 139674145660448
+	139674184982048 [label="{ WEIGHT | data -1.3635 | grad -0.0050 }" shape=record]
+	139674184982096 [label="{ WEIGHT | data 0.6185 | grad 0.0007 }" shape=record]
+	139674133929552 [label="{ MUL_RESULT | data 0.0026 | grad 0.0000 }" shape=record]
+	"139674133929552*" [label="*"]
+	"139674133929552*" -> 139674133929552
+	139674184982144 [label="{ WEIGHT | data 0.0591 | grad -0.0250 }" shape=record]
+	139674212671152 [label="{ ADD_RESULT | data -0.8974 | grad 0.0000 }" shape=record]
+	"139674212671152+" [label="+"]
+	"139674212671152+" -> 139674212671152
+	139674184982192 [label="{ WEIGHT | data 0.0957 | grad -0.0058 }" shape=record]
+	139674145693360 [label="{ ADD_RESULT | data -0.9481 | grad 0.0000 }" shape=record]
+	"139674145693360+" [label="+"]
+	"139674145693360+" -> 139674145693360
+	139674145660640 [label="{ ADD_RESULT | data -2.2391 | grad 0.0000 }" shape=record]
+	"139674145660640+" [label="+"]
+	"139674145660640+" -> 139674145660640
+	139674184982240 [label="{ WEIGHT | data 0.7339 | grad -0.0104 }" shape=record]
+	139674145562288 [label="{ MUL_RESULT | data 0.0245 | grad 0.0000 }" shape=record]
+	"139674145562288*" [label="*"]
+	"139674145562288*" -> 139674145562288
+	139674133929744 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133929744*" [label="*"]
+	"139674133929744*" -> 139674133929744
+	139674184982288 [label="{ WEIGHT | data -0.0457 | grad -0.0000 }" shape=record]
+	139674184982336 [label="{ WEIGHT | data 0.4983 | grad 0.0005 }" shape=record]
+	139674212671344 [label="{ ADD_RESULT | data -0.8169 | grad 0.0000 }" shape=record]
+	"139674212671344+" [label="+"]
+	"139674212671344+" -> 139674212671344
+	139674184982384 [label="{ WEIGHT | data 0.2581 | grad 0.0003 }" shape=record]
+	139674145693552 [label="{ ADD_RESULT | data -0.9481 | grad 0.0000 }" shape=record]
+	"139674145693552+" [label="+"]
+	"139674145693552+" -> 139674145693552
+	139674145660832 [label="{ ADD_RESULT | data -2.2416 | grad 0.0000 }" shape=record]
+	"139674145660832+" [label="+"]
+	"139674145660832+" -> 139674145660832
+	139674145562480 [label="{ MUL_RESULT | data -0.7666 | grad 0.0000 }" shape=record]
+	"139674145562480*" [label="*"]
+	"139674145562480*" -> 139674145562480
+	139674212671440 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674212671440ReLU" [label=ReLU]
+	"139674212671440ReLU" -> 139674212671440
+	139674184982480 [label="{ WEIGHT | data 0.7993 | grad 0.0008 }" shape=record]
+	139674133929936 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133929936*" [label="*"]
+	"139674133929936*" -> 139674133929936
+	139674133864560 [label="{ ADD_RESULT | data -0.2302 | grad 0.0000 }" shape=record]
+	"139674133864560+" [label="+"]
+	"139674133864560+" -> 139674133864560
+	139674133733488 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133733488*" [label="*"]
+	"139674133733488*" -> 139674133733488
+	139674145497296 [label="{ ADD_RESULT | data -0.6370 | grad 0.0000 }" shape=record]
+	"139674145497296+" [label="+"]
+	"139674145497296+" -> 139674145497296
+	139674133864752 [label="{ ADD_RESULT | data -0.2302 | grad 0.0000 }" shape=record]
+	"139674133864752+" [label="+"]
+	"139674133864752+" -> 139674133864752
+	139674145595744 [label="{ ADD_RESULT | data 1.4767 | grad 0.0000 }" shape=record]
+	"139674145595744+" [label="+"]
+	"139674145595744+" -> 139674145595744
+	139674133733728 [label="{ MUL_RESULT | data 0.0362 | grad 0.0000 }" shape=record]
+	"139674133733728*" [label="*"]
+	"139674133733728*" -> 139674133733728
+	139674145497488 [label="{ ADD_RESULT | data -0.6370 | grad 0.0000 }" shape=record]
+	"139674145497488+" [label="+"]
+	"139674145497488+" -> 139674145497488
+	139674133864944 [label="{ ADD_RESULT | data -0.2302 | grad 0.0000 }" shape=record]
+	"139674133864944+" [label="+"]
+	"139674133864944+" -> 139674133864944
+	139674145595936 [label="{ ADD_RESULT | data 1.4568 | grad 0.0000 }" shape=record]
+	"139674145595936+" [label="+"]
+	"139674145595936+" -> 139674145595936
+	139674133733920 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133733920*" [label="*"]
+	"139674133733920*" -> 139674133733920
+	139674145497680 [label="{ ADD_RESULT | data -0.6370 | grad 0.0000 }" shape=record]
+	"139674145497680+" [label="+"]
+	"139674145497680+" -> 139674145497680
+	139674133865040 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133865040ReLU" [label=ReLU]
+	"139674133865040ReLU" -> 139674133865040
+	139674145596128 [label="{ ADD_RESULT | data 1.5677 | grad 0.0000 }" shape=record]
+	"139674145596128+" [label="+"]
+	"139674145596128+" -> 139674145596128
+	139674133734112 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133734112*" [label="*"]
+	"139674133734112*" -> 139674133734112
+	139674145497872 [label="{ ADD_RESULT | data -0.6370 | grad 0.0000 }" shape=record]
+	"139674145497872+" [label="+"]
+	"139674145497872+" -> 139674145497872
+	139674133734256 [label="{ ADD_RESULT | data -0.0527 | grad 0.0000 }" shape=record]
+	"139674133734256+" [label="+"]
+	"139674133734256+" -> 139674133734256
+	139674133865328 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133865328*" [label="*"]
+	"139674133865328*" -> 139674133865328
+	139674145596320 [label="{ ADD_RESULT | data 1.5677 | grad 0.0000 }" shape=record]
+	"139674145596320+" [label="+"]
+	"139674145596320+" -> 139674145596320
+	139674145498064 [label="{ ADD_RESULT | data -0.6600 | grad 0.0000 }" shape=record]
+	"139674145498064+" [label="+"]
+	"139674145498064+" -> 139674145498064
+	139674133734448 [label="{ ADD_RESULT | data 0.7757 | grad 0.0000 }" shape=record]
+	"139674133734448+" [label="+"]
+	"139674133734448+" -> 139674133734448
+	139674133865520 [label="{ MUL_RESULT | data -0.7981 | grad 0.0000 }" shape=record]
+	"139674133865520*" [label="*"]
+	"139674133865520*" -> 139674133865520
+	139674145498256 [label="{ ADD_RESULT | data -0.9283 | grad 0.0000 }" shape=record]
+	"139674145498256+" [label="+"]
+	"139674145498256+" -> 139674145498256
+	139674133734640 [label="{ ADD_RESULT | data 0.7757 | grad 0.0000 }" shape=record]
+	"139674133734640+" [label="+"]
+	"139674133734640+" -> 139674133734640
+	139674133865712 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133865712*" [label="*"]
+	"139674133865712*" -> 139674133865712
+	139674145596656 [label="{ MUL_RESULT | data 0.1343 | grad 0.0000 }" shape=record]
+	"139674145596656*" [label="*"]
+	"139674145596656*" -> 139674145596656
+	139674145498448 [label="{ ADD_RESULT | data -0.9255 | grad 0.0000 }" shape=record]
+	"139674145498448+" [label="+"]
+	"139674145498448+" -> 139674145498448
+	139674133734784 [label="{ ADD_RESULT | data 0.7757 | grad 0.0000 }" shape=record]
+	"139674133734784+" [label="+"]
+	"139674133734784+" -> 139674133734784
+	139674185049520 [label="{ WEIGHT | data -0.3153 | grad -0.0003 }" shape=record]
+	139674133865904 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133865904*" [label="*"]
+	"139674133865904*" -> 139674133865904
+	139674145596848 [label="{ MUL_RESULT | data 0.4295 | grad 0.0000 }" shape=record]
+	"139674145596848*" [label="*"]
+	"139674145596848*" -> 139674145596848
+	139674185049616 [label="{ WEIGHT | data -0.7466 | grad -0.0007 }" shape=record]
+	139674145498640 [label="{ ADD_RESULT | data -0.9255 | grad 0.0000 }" shape=record]
+	"139674145498640+" [label="+"]
+	"139674145498640+" -> 139674145498640
+	139674185049664 [label="{ BIAS | data -0.3416 | grad -0.0003 }" shape=record]
+	139674133734976 [label="{ ADD_RESULT | data 0.7597 | grad 0.0000 }" shape=record]
+	"139674133734976+" [label="+"]
+	"139674133734976+" -> 139674133734976
+	139674133866096 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133866096*" [label="*"]
+	"139674133866096*" -> 139674133866096
+	139674145597040 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145597040*" [label="*"]
+	"139674145597040*" -> 139674145597040
+	139674185049760 [label="{ WEIGHT | data -0.6508 | grad -0.0234 }" shape=record]
+	139674145498832 [label="{ ADD_RESULT | data -0.9224 | grad 0.0000 }" shape=record]
+	"139674145498832+" [label="+"]
+	"139674145498832+" -> 139674145498832
+	139674185049856 [label="{ WEIGHT | data 1.2558 | grad -0.0039 }" shape=record]
+	139674133735168 [label="{ ADD_RESULT | data -0.0406 | grad 0.0000 }" shape=record]
+	"139674133735168+" [label="+"]
+	"139674133735168+" -> 139674133735168
+	139674185049904 [label="{ BIAS | data 0.4164 | grad -0.0169 }" shape=record]
+	139674133866288 [label="{ MUL_RESULT | data -0.0136 | grad 0.0000 }" shape=record]
+	"139674133866288*" [label="*"]
+	"139674133866288*" -> 139674133866288
+	139674145597232 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145597232*" [label="*"]
+	"139674145597232*" -> 139674145597232
+	139674185050000 [label="{ WEIGHT | data 0.2502 | grad 0.0003 }" shape=record]
+	139674145499024 [label="{ ADD_RESULT | data -0.9425 | grad 0.0000 }" shape=record]
+	"139674145499024+" [label="+"]
+	"139674145499024+" -> 139674145499024
+	139674133735360 [label="{ ADD_RESULT | data -0.0489 | grad 0.0000 }" shape=record]
+	"139674133735360+" [label="+"]
+	"139674133735360+" -> 139674133735360
+	139674185050096 [label="{ WEIGHT | data 0.1818 | grad 0.0002 }" shape=record]
+	139674133866480 [label="{ MUL_RESULT | data -1.0235 | grad 0.0000 }" shape=record]
+	"139674133866480*" [label="*"]
+	"139674133866480*" -> 139674133866480
+	139674145597424 [label="{ MUL_RESULT | data -0.8073 | grad 0.0000 }" shape=record]
+	"139674145597424*" [label="*"]
+	"139674145597424*" -> 139674145597424
+	139674185050144 [label="{ BIAS | data -0.6423 | grad -0.0006 }" shape=record]
+	139674145499216 [label="{ ADD_RESULT | data -0.9908 | grad 0.0000 }" shape=record]
+	"139674145499216+" [label="+"]
+	"139674145499216+" -> 139674145499216
+	139674185050240 [label="{ WEIGHT | data 0.9507 | grad 0.0353 }" shape=record]
+	139674133735552 [label="{ ADD_RESULT | data -0.0489 | grad 0.0000 }" shape=record]
+	"139674133735552+" [label="+"]
+	"139674133735552+" -> 139674133735552
+	139674133866672 [label="{ MUL_RESULT | data -0.0044 | grad 0.0000 }" shape=record]
+	"139674133866672*" [label="*"]
+	"139674133866672*" -> 139674133866672
+	139674145597616 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145597616*" [label="*"]
+	"139674145597616*" -> 139674145597616
+	139674185050336 [label="{ WEIGHT | data -1.0952 | grad -0.0013 }" shape=record]
+	139674185050384 [label="{ BIAS | data -0.9071 | grad 0.0314 }" shape=record]
+	139674145499408 [label="{ ADD_RESULT | data -0.9908 | grad 0.0000 }" shape=record]
+	"139674145499408+" [label="+"]
+	"139674145499408+" -> 139674145499408
+	139674133735744 [label="{ ADD_RESULT | data -0.0427 | grad 0.0000 }" shape=record]
+	"139674133735744+" [label="+"]
+	"139674133735744+" -> 139674133735744
+	139674185050480 [label="{ WEIGHT | data -0.2733 | grad -0.0003 }" shape=record]
+	139674133866864 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133866864*" [label="*"]
+	"139674133866864*" -> 139674133866864
+	139674145597808 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145597808*" [label="*"]
+	"139674145597808*" -> 139674145597808
+	139674185050576 [label="{ WEIGHT | data -0.7846 | grad -0.0008 }" shape=record]
+	139674145499600 [label="{ ADD_RESULT | data -0.9908 | grad 0.0000 }" shape=record]
+	"139674145499600+" [label="+"]
+	"139674145499600+" -> 139674145499600
+	139674185050624 [label="{ BIAS | data 0.0208 | grad 0.0000 }" shape=record]
+	139674133735936 [label="{ ADD_RESULT | data -0.0065 | grad 0.0000 }" shape=record]
+	"139674133735936+" [label="+"]
+	"139674133735936+" -> 139674133735936
+	139674133867056 [label="{ MUL_RESULT | data -0.0039 | grad 0.0000 }" shape=record]
+	"139674133867056*" [label="*"]
+	"139674133867056*" -> 139674133867056
+	139674145598000 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145598000*" [label="*"]
+	"139674145598000*" -> 139674145598000
+	139674185050720 [label="{ WEIGHT | data 0.7815 | grad -0.0021 }" shape=record]
+	139674145499792 [label="{ ADD_RESULT | data -0.9908 | grad 0.0000 }" shape=record]
+	"139674145499792+" [label="+"]
+	"139674145499792+" -> 139674145499792
+	139674145598144 [label="{ ADD_RESULT | data 0.4554 | grad 0.0000 }" shape=record]
+	"139674145598144+" [label="+"]
+	"139674145598144+" -> 139674145598144
+	139674185050816 [label="{ WEIGHT | data 0.7692 | grad 0.0106 }" shape=record]
+	139674133736128 [label="{ ADD_RESULT | data -0.2302 | grad 0.0000 }" shape=record]
+	"139674133736128+" [label="+"]
+	"139674133736128+" -> 139674133736128
+	139674185050864 [label="{ BIAS | data -0.2945 | grad 0.0028 }" shape=record]
+	139674133867248 [label="{ MUL_RESULT | data 0.0045 | grad 0.0000 }" shape=record]
+	"139674133867248*" [label="*"]
+	"139674133867248*" -> 139674133867248
+	139674185050960 [label="{ WEIGHT | data -0.5466 | grad -0.0436 }" shape=record]
+	139674145499984 [label="{ ADD_RESULT | data -0.9908 | grad 0.0000 }" shape=record]
+	"139674145499984+" [label="+"]
+	"139674145499984+" -> 139674145499984
+	139674145598336 [label="{ ADD_RESULT | data 1.5011 | grad 0.0000 }" shape=record]
+	"139674145598336+" [label="+"]
+	"139674145598336+" -> 139674145598336
+	139674133736320 [label="{ ADD_RESULT | data -0.2302 | grad 0.0000 }" shape=record]
+	"139674133736320+" [label="+"]
+	"139674133736320+" -> 139674133736320
+	139674185051056 [label="{ WEIGHT | data 0.3322 | grad -0.0173 }" shape=record]
+	139674145500080 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145500080ReLU" [label=ReLU]
+	"139674145500080ReLU" -> 139674145500080
+	139674133867440 [label="{ MUL_RESULT | data -0.0349 | grad 0.0000 }" shape=record]
+	"139674133867440*" [label="*"]
+	"139674133867440*" -> 139674133867440
+	139674185051104 [label="{ BIAS | data 1.1703 | grad -0.0488 }" shape=record]
+	139674185051200 [label="{ WEIGHT | data -0.9923 | grad -0.0010 }" shape=record]
+	139674145598576 [label="{ ADD_RESULT | data 1.4767 | grad 0.0000 }" shape=record]
+	"139674145598576+" [label="+"]
+	"139674145598576+" -> 139674145598576
+	139674133736560 [label="{ MUL_RESULT | data 0.0062 | grad 0.0000 }" shape=record]
+	"139674133736560*" [label="*"]
+	"139674133736560*" -> 139674133736560
+	139674133867632 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133867632*" [label="*"]
+	"139674133867632*" -> 139674133867632
+	139674185051296 [label="{ WEIGHT | data 0.6972 | grad 0.0007 }" shape=record]
+	139674185051344 [label="{ BIAS | data -0.3262 | grad -0.0003 }" shape=record]
+	139674145500368 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145500368*" [label="*"]
+	"139674145500368*" -> 139674145500368
+	139674145598768 [label="{ ADD_RESULT | data 1.4691 | grad 0.0000 }" shape=record]
+	"139674145598768+" [label="+"]
+	"139674145598768+" -> 139674145598768
+	139674185051440 [label="{ WEIGHT | data 0.3780 | grad 0.0004 }" shape=record]
+	139674133736752 [label="{ MUL_RESULT | data -0.2237 | grad 0.0000 }" shape=record]
+	"139674133736752*" [label="*"]
+	"139674133736752*" -> 139674133736752
+	139674133867824 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133867824*" [label="*"]
+	"139674133867824*" -> 139674133867824
+	139674185051536 [label="{ WEIGHT | data 0.1783 | grad 0.0002 }" shape=record]
+	139674145500560 [label="{ MUL_RESULT | data -0.6173 | grad 0.0000 }" shape=record]
+	"139674145500560*" [label="*"]
+	"139674145500560*" -> 139674145500560
+	139674185051584 [label="{ BIAS | data -0.8843 | grad -0.0009 }" shape=record]
+	139674145598960 [label="{ ADD_RESULT | data 1.5677 | grad 0.0000 }" shape=record]
+	"139674145598960+" [label="+"]
+	"139674145598960+" -> 139674145598960
+	139674133736944 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133736944*" [label="*"]
+	"139674133736944*" -> 139674133736944
+	139674133868016 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133868016*" [label="*"]
+	"139674133868016*" -> 139674133868016
+	139674185051680 [label="{ WEIGHT | data 0.7727 | grad -0.0040 }" shape=record]
+	139674145500752 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145500752*" [label="*"]
+	"139674145500752*" -> 139674145500752
+	139674185051776 [label="{ WEIGHT | data 0.8652 | grad 0.0110 }" shape=record]
+	139674145599152 [label="{ ADD_RESULT | data 1.5677 | grad 0.0000 }" shape=record]
+	"139674145599152+" [label="+"]
+	"139674145599152+" -> 139674145599152
+	139674185051824 [label="{ BIAS | data -0.3524 | grad 0.0073 }" shape=record]
+	139674133737136 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133737136*" [label="*"]
+	"139674133737136*" -> 139674133737136
+	139674133868208 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133868208*" [label="*"]
+	"139674133868208*" -> 139674133868208
+	139674145599248 [label="{ RELU_RESULT | data 1.5677 | grad 0.0000 }" shape=record]
+	"139674145599248ReLU" [label=ReLU]
+	"139674145599248ReLU" -> 139674145599248
+	139674185051920 [label="{ WEIGHT | data -1.5432 | grad -0.0015 }" shape=record]
+	139674145500944 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145500944*" [label="*"]
+	"139674145500944*" -> 139674145500944
+	139674133737280 [label="{ ADD_RESULT | data 0.7757 | grad 0.0000 }" shape=record]
+	"139674133737280+" [label="+"]
+	"139674133737280+" -> 139674133737280
+	139674133868352 [label="{ ADD_RESULT | data -0.1525 | grad 0.0000 }" shape=record]
+	"139674133868352+" [label="+"]
+	"139674133868352+" -> 139674133868352
+	139674145599344 [label="{ ADD_RESULT | data 1.5677 | grad 0.0000 }" shape=record]
+	"139674145599344+" [label="+"]
+	"139674145599344+" -> 139674145599344
+	139674185052016 [label="{ WEIGHT | data 0.3001 | grad 0.0003 }" shape=record]
+	139674185052064 [label="{ BIAS | data -0.1601 | grad -0.0002 }" shape=record]
+	139674145501136 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145501136*" [label="*"]
+	"139674145501136*" -> 139674145501136
+	139674145599440 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145599440*" [label="*"]
+	"139674145599440*" -> 139674145599440
+	139674184790080 [label="{ WEIGHT | data 0.0823 | grad -0.0671 }" shape=record]
+	139674145665088 [label="{ ADD_RESULT | data 0.6518 | grad 0.0000 }" shape=record]
+	"139674145665088+" [label="+"]
+	"139674145665088+" -> 139674145665088
+	139674133868656 [label="{ MUL_RESULT | data -0.2741 | grad 0.0000 }" shape=record]
+	"139674133868656*" [label="*"]
+	"139674133868656*" -> 139674133868656
+	139674184790176 [label="{ WEIGHT | data 0.8592 | grad -0.0047 }" shape=record]
+	139674145468576 [label="{ ADD_RESULT | data -1.1143 | grad 0.0000 }" shape=record]
+	"139674145468576+" [label="+"]
+	"139674145468576+" -> 139674145468576
+	139674145599648 [label="{ ADD_RESULT | data -2.2426 | grad 0.0000 }" shape=record]
+	"139674145599648+" [label="+"]
+	"139674145599648+" -> 139674145599648
+	139674184790224 [label="{ BIAS | data 0.2828 | grad -0.0564 }" shape=record]
+	139674145468624 [label="{ ADD_RESULT | data -1.1143 | grad 0.0000 }" shape=record]
+	"139674145468624+" [label="+"]
+	"139674145468624+" -> 139674145468624
+	139674133868800 [label="{ ADD_RESULT | data 0.0657 | grad 0.0000 }" shape=record]
+	"139674133868800+" [label="+"]
+	"139674133868800+" -> 139674133868800
+	139674145665280 [label="{ ADD_RESULT | data 0.6518 | grad 0.0000 }" shape=record]
+	"139674145665280+" [label="+"]
+	"139674145665280+" -> 139674145665280
+	139674184790320 [label="{ WEIGHT | data -0.0827 | grad 0.0012 }" shape=record]
+	139674145599840 [label="{ ADD_RESULT | data -2.1502 | grad 0.0000 }" shape=record]
+	"139674145599840+" [label="+"]
+	"139674145599840+" -> 139674145599840
+	139674184790416 [label="{ WEIGHT | data 0.9176 | grad 0.0080 }" shape=record]
+	139674145468816 [label="{ ADD_RESULT | data -2.5540 | grad 0.0000 }" shape=record]
+	"139674145468816+" [label="+"]
+	"139674145468816+" -> 139674145468816
+	139674133868992 [label="{ ADD_RESULT | data -0.2085 | grad 0.0000 }" shape=record]
+	"139674133868992+" [label="+"]
+	"139674133868992+" -> 139674133868992
+	139674184790464 [label="{ BIAS | data -0.5058 | grad 0.0124 }" shape=record]
+	139674145665472 [label="{ ADD_RESULT | data 0.6567 | grad 0.0000 }" shape=record]
+	"139674145665472+" [label="+"]
+	"139674145665472+" -> 139674145665472
+	139674133869088 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133869088ReLU" [label=ReLU]
+	"139674133869088ReLU" -> 139674133869088
+	139674184790560 [label="{ WEIGHT | data 0.4458 | grad 0.0040 }" shape=record]
+	139674145600032 [label="{ ADD_RESULT | data -2.1502 | grad 0.0000 }" shape=record]
+	"139674145600032+" [label="+"]
+	"139674145600032+" -> 139674145600032
+	139674145469008 [label="{ ADD_RESULT | data -2.5378 | grad 0.0000 }" shape=record]
+	"139674145469008+" [label="+"]
+	"139674145469008+" -> 139674145469008
+	139674184790656 [label="{ WEIGHT | data -0.6070 | grad -0.0011 }" shape=record]
+	139674145665664 [label="{ ADD_RESULT | data 0.6705 | grad 0.0000 }" shape=record]
+	"139674145665664+" [label="+"]
+	"139674145665664+" -> 139674145665664
+	139674184790704 [label="{ BIAS | data 0.0812 | grad 0.0047 }" shape=record]
+	139674145600224 [label="{ ADD_RESULT | data -2.1502 | grad 0.0000 }" shape=record]
+	"139674145600224+" [label="+"]
+	"139674145600224+" -> 139674145600224
+	139674184790800 [label="{ WEIGHT | data 0.2748 | grad -0.0083 }" shape=record]
+	139674145469200 [label="{ ADD_RESULT | data -2.5229 | grad 0.0000 }" shape=record]
+	"139674145469200+" [label="+"]
+	"139674145469200+" -> 139674145469200
+	139674133869376 [label="{ MUL_RESULT | data -0.0096 | grad 0.0000 }" shape=record]
+	"139674133869376*" [label="*"]
+	"139674133869376*" -> 139674133869376
+	139674145665856 [label="{ ADD_RESULT | data 0.7485 | grad 0.0000 }" shape=record]
+	"139674145665856+" [label="+"]
+	"139674145665856+" -> 139674145665856
+	139674184790896 [label="{ WEIGHT | data -0.9033 | grad -0.0029 }" shape=record]
+	139674184790944 [label="{ BIAS | data -0.0576 | grad -0.0063 }" shape=record]
+	139674145600416 [label="{ ADD_RESULT | data -2.1502 | grad 0.0000 }" shape=record]
+	"139674145600416+" [label="+"]
+	"139674145600416+" -> 139674145600416
+	139674145469392 [label="{ ADD_RESULT | data -2.7132 | grad 0.0000 }" shape=record]
+	"139674145469392+" [label="+"]
+	"139674145469392+" -> 139674145469392
+	139674184791040 [label="{ WEIGHT | data 1.0452 | grad 0.0244 }" shape=record]
+	139674133869568 [label="{ MUL_RESULT | data -0.4080 | grad 0.0000 }" shape=record]
+	"139674133869568*" [label="*"]
+	"139674133869568*" -> 139674133869568
+	139674145666048 [label="{ ADD_RESULT | data 0.7485 | grad 0.0000 }" shape=record]
+	"139674145666048+" [label="+"]
+	"139674145666048+" -> 139674145666048
+	139674184791136 [label="{ WEIGHT | data 1.0290 | grad 0.0178 }" shape=record]
+	139674145600608 [label="{ ADD_RESULT | data -2.1502 | grad 0.0000 }" shape=record]
+	"139674145600608+" [label="+"]
+	"139674145600608+" -> 139674145600608
+	139674184791184 [label="{ BIAS | data -0.4352 | grad 0.0359 }" shape=record]
+	139674133869712 [label="{ ADD_RESULT | data -0.0671 | grad 0.0000 }" shape=record]
+	"139674133869712+" [label="+"]
+	"139674133869712+" -> 139674133869712
+	139674145666240 [label="{ ADD_RESULT | data 0.7485 | grad 0.0000 }" shape=record]
+	"139674145666240+" [label="+"]
+	"139674145666240+" -> 139674145666240
+	139674145600704 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145600704ReLU" [label=ReLU]
+	"139674145600704ReLU" -> 139674145600704
+	139674145469680 [label="{ ADD_RESULT | data -2.7132 | grad 0.0000 }" shape=record]
+	"139674145469680+" [label="+"]
+	"139674145469680+" -> 139674145469680
+	139674133869904 [label="{ ADD_RESULT | data -0.4751 | grad 0.0000 }" shape=record]
+	"139674133869904+" [label="+"]
+	"139674133869904+" -> 139674133869904
+	139674184791376 [label="{ WEIGHT | data -0.4702 | grad -0.0005 }" shape=record]
+	139674145666432 [label="{ ADD_RESULT | data 0.7485 | grad 0.0000 }" shape=record]
+	"139674145666432+" [label="+"]
+	"139674145666432+" -> 139674145666432
+	139674133870000 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133870000ReLU" [label=ReLU]
+	"139674133870000ReLU" -> 139674133870000
+	139674145469872 [label="{ ADD_RESULT | data -2.7132 | grad 0.0000 }" shape=record]
+	"139674145469872+" [label="+"]
+	"139674145469872+" -> 139674145469872
+	139674184791472 [label="{ WEIGHT | data 0.8233 | grad 0.0008 }" shape=record]
+	139674145600992 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145600992*" [label="*"]
+	"139674145600992*" -> 139674145600992
+	139674184791520 [label="{ WEIGHT | data -0.1972 | grad -0.0002 }" shape=record]
+	139674145469968 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145469968ReLU" [label=ReLU]
+	"139674145469968ReLU" -> 139674145469968
+	139674145718176 [label="{ ADD_RESULT | data 0.4523 | grad 0.0000 }" shape=record]
+	"139674145718176+" [label="+"]
+	"139674145718176+" -> 139674145718176
+	139674184791568 [label="{ WEIGHT | data -0.6024 | grad -0.0006 }" shape=record]
+	139674145666624 [label="{ ADD_RESULT | data 0.7485 | grad 0.0000 }" shape=record]
+	"139674145666624+" [label="+"]
+	"139674145666624+" -> 139674145666624
+	139674184791616 [label="{ WEIGHT | data 0.6408 | grad 0.0006 }" shape=record]
+	139674184791664 [label="{ WEIGHT | data -0.6255 | grad -0.0006 }" shape=record]
+	139674145666720 [label="{ RELU_RESULT | data 0.7485 | grad 0.0000 }" shape=record]
+	"139674145666720ReLU" [label=ReLU]
+	"139674145666720ReLU" -> 139674145666720
+	139674145601184 [label="{ MUL_RESULT | data -0.7232 | grad 0.0000 }" shape=record]
+	"139674145601184*" [label="*"]
+	"139674145601184*" -> 139674145601184
+	139674184791712 [label="{ WEIGHT | data -0.5975 | grad -0.0006 }" shape=record]
+	139674133870288 [label="{ MUL_RESULT | data -0.0364 | grad 0.0000 }" shape=record]
+	"139674133870288*" [label="*"]
+	"139674133870288*" -> 139674133870288
+	139674184791760 [label="{ WEIGHT | data -0.3603 | grad -0.0004 }" shape=record]
+	139674184791808 [label="{ WEIGHT | data -0.4726 | grad -0.0005 }" shape=record]
+	139674145470256 [label="{ MUL_RESULT | data -0.1903 | grad 0.0000 }" shape=record]
+	"139674145470256*" [label="*"]
+	"139674145470256*" -> 139674145470256
+	139674184791856 [label="{ WEIGHT | data 0.5451 | grad 0.0005 }" shape=record]
+	139674145470304 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145470304*" [label="*"]
+	"139674145470304*" -> 139674145470304
+	139674145601376 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145601376*" [label="*"]
+	"139674145601376*" -> 139674145601376
+	139674184791904 [label="{ WEIGHT | data 1.2401 | grad 0.0012 }" shape=record]
+	139674133870480 [label="{ MUL_RESULT | data 0.4647 | grad 0.0000 }" shape=record]
+	"139674133870480*" [label="*"]
+	"139674133870480*" -> 139674133870480
+	139674184791952 [label="{ WEIGHT | data -0.3349 | grad -0.0003 }" shape=record]
+	139674145667008 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145667008*" [label="*"]
+	"139674145667008*" -> 139674145667008
+	139674184792000 [label="{ WEIGHT | data 0.1642 | grad 0.0002 }" shape=record]
+	139674184792048 [label="{ WEIGHT | data -0.3886 | grad -0.0004 }" shape=record]
+	139674133870624 [label="{ ADD_RESULT | data -0.4716 | grad 0.0000 }" shape=record]
+	"139674133870624+" [label="+"]
+	"139674133870624+" -> 139674133870624
+	139674145470496 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145470496*" [label="*"]
+	"139674145470496*" -> 139674145470496
+	139674145601568 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145601568*" [label="*"]
+	"139674145601568*" -> 139674145601568
+	139674184792096 [label="{ WEIGHT | data 0.7200 | grad 0.0007 }" shape=record]
+	139674184792144 [label="{ WEIGHT | data -0.1122 | grad -0.0001 }" shape=record]
+	139674145667200 [label="{ MUL_RESULT | data -0.4812 | grad 0.0000 }" shape=record]
+	"139674145667200*" [label="*"]
+	"139674145667200*" -> 139674145667200
+	139674184792192 [label="{ BIAS | data -0.0527 | grad -0.0001 }" shape=record]
+	139674133870816 [label="{ ADD_RESULT | data -0.0068 | grad 0.0000 }" shape=record]
+	"139674133870816+" [label="+"]
+	"139674133870816+" -> 139674133870816
+	139674145470688 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145470688*" [label="*"]
+	"139674145470688*" -> 139674145470688
+	139674145601760 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145601760*" [label="*"]
+	"139674145601760*" -> 139674145601760
+	139674184792288 [label="{ WEIGHT | data 0.8069 | grad 0.0008 }" shape=record]
+	139674133870912 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133870912ReLU" [label=ReLU]
+	"139674133870912ReLU" -> 139674133870912
+	139674145667392 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145667392*" [label="*"]
+	"139674145667392*" -> 139674145667392
+	139674184792384 [label="{ WEIGHT | data -0.7932 | grad -0.0008 }" shape=record]
+	139674184792432 [label="{ WEIGHT | data 0.7563 | grad 0.0008 }" shape=record]
+	139674145470880 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145470880*" [label="*"]
+	"139674145470880*" -> 139674145470880
+	139674145601952 [label="{ MUL_RESULT | data -0.0150 | grad 0.0000 }" shape=record]
+	"139674145601952*" [label="*"]
+	"139674145601952*" -> 139674145601952
+	139674184792480 [label="{ WEIGHT | data -0.7168 | grad -0.0007 }" shape=record]
+	139674184792528 [label="{ WEIGHT | data 0.8576 | grad 0.0009 }" shape=record]
+	139674145667584 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145667584*" [label="*"]
+	"139674145667584*" -> 139674145667584
+	139674184792576 [label="{ WEIGHT | data -0.5298 | grad -0.0005 }" shape=record]
+	139674184792624 [label="{ WEIGHT | data -0.7642 | grad -0.0008 }" shape=record]
+	139674145602144 [label="{ MUL_RESULT | data 0.3877 | grad 0.0000 }" shape=record]
+	"139674145602144*" [label="*"]
+	"139674145602144*" -> 139674145602144
+	139674133871200 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133871200*" [label="*"]
+	"139674133871200*" -> 139674133871200
+	139674184792672 [label="{ WEIGHT | data -0.1903 | grad -0.0002 }" shape=record]
+	139674184792720 [label="{ WEIGHT | data 0.2628 | grad 0.0003 }" shape=record]
+	139674145667776 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145667776*" [label="*"]
+	"139674145667776*" -> 139674145667776
+	139674184792768 [label="{ WEIGHT | data -0.3429 | grad -0.0003 }" shape=record]
+	139674145471216 [label="{ ADD_RESULT | data -0.6331 | grad 0.0000 }" shape=record]
+	"139674145471216+" [label="+"]
+	"139674145471216+" -> 139674145471216
+	139674184792816 [label="{ WEIGHT | data 0.1529 | grad 0.0002 }" shape=record]
+	139674145602336 [label="{ MUL_RESULT | data 0.0098 | grad 0.0000 }" shape=record]
+	"139674145602336*" [label="*"]
+	"139674145602336*" -> 139674145602336
+	139674133871392 [label="{ MUL_RESULT | data 0.8284 | grad 0.0000 }" shape=record]
+	"139674133871392*" [label="*"]
+	"139674133871392*" -> 139674133871392
+	139674184792864 [label="{ WEIGHT | data -0.0522 | grad -0.0001 }" shape=record]
+	139674184792912 [label="{ WEIGHT | data -0.2001 | grad -0.0002 }" shape=record]
+	139674145667968 [label="{ MUL_RESULT | data 0.0124 | grad 0.0000 }" shape=record]
+	"139674145667968*" [label="*"]
+	"139674145667968*" -> 139674145667968
+	139674184792960 [label="{ WEIGHT | data 0.1640 | grad 0.0002 }" shape=record]
+	139674145471408 [label="{ ADD_RESULT | data -1.1143 | grad 0.0000 }" shape=record]
+	"139674145471408+" [label="+"]
+	"139674145471408+" -> 139674145471408
+	139674184793008 [label="{ WEIGHT | data -0.4489 | grad -0.0004 }" shape=record]
+	139674145471456 [label="{ ADD_RESULT | data -1.1143 | grad 0.0000 }" shape=record]
+	"139674145471456+" [label="+"]
+	"139674145471456+" -> 139674145471456
+	139674145602528 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145602528*" [label="*"]
+	"139674145602528*" -> 139674145602528
+	139674133871584 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133871584*" [label="*"]
+	"139674133871584*" -> 139674133871584
+	139674184793104 [label="{ BIAS | data -0.1525 | grad -0.0002 }" shape=record]
+	139674184793056 [label="{ WEIGHT | data 0.3897 | grad 0.0004 }" shape=record]
+	139674145668160 [label="{ MUL_RESULT | data -1.4521 | grad 0.0000 }" shape=record]
+	"139674145668160*" [label="*"]
+	"139674145668160*" -> 139674145668160
+	139674184793200 [label="{ WEIGHT | data -0.9416 | grad -0.0009 }" shape=record]
+	139674145471648 [label="{ ADD_RESULT | data -1.1019 | grad 0.0000 }" shape=record]
+	"139674145471648+" [label="+"]
+	"139674145471648+" -> 139674145471648
+	139674145602720 [label="{ MUL_RESULT | data 0.0021 | grad 0.0000 }" shape=record]
+	"139674145602720*" [label="*"]
+	"139674145602720*" -> 139674145602720
+	139674133871776 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133871776*" [label="*"]
+	"139674133871776*" -> 139674133871776
+	139674184793296 [label="{ WEIGHT | data 0.7806 | grad -0.0015 }" shape=record]
+	139674145668352 [label="{ MUL_RESULT | data 0.0162 | grad 0.0000 }" shape=record]
+	"139674145668352*" [label="*"]
+	"139674145668352*" -> 139674145668352
+	139674184793344 [label="{ WEIGHT | data 0.0204 | grad 0.0000 }" shape=record]
+	139674184793392 [label="{ WEIGHT | data 0.1000 | grad 0.0001 }" shape=record]
+	139674145471840 [label="{ ADD_RESULT | data -2.5378 | grad 0.0000 }" shape=record]
+	"139674145471840+" [label="+"]
+	"139674145471840+" -> 139674145471840
+	139674145602912 [label="{ MUL_RESULT | data 0.0084 | grad 0.0000 }" shape=record]
+	"139674145602912*" [label="*"]
+	"139674145602912*" -> 139674145602912
+	139674133871968 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133871968*" [label="*"]
+	"139674133871968*" -> 139674133871968
+	139674184793440 [label="{ WEIGHT | data 0.4563 | grad 0.0005 }" shape=record]
+	139674184793488 [label="{ WEIGHT | data 0.1572 | grad -0.0003 }" shape=record]
+	139674145668544 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145668544*" [label="*"]
+	"139674145668544*" -> 139674145668544
+	139674184793536 [label="{ WEIGHT | data -0.3102 | grad -0.0030 }" shape=record]
+	139674184793584 [label="{ WEIGHT | data -0.7950 | grad -0.0008 }" shape=record]
+	139674145603104 [label="{ MUL_RESULT | data -0.5070 | grad 0.0000 }" shape=record]
+	"139674145603104*" [label="*"]
+	"139674145603104*" -> 139674145603104
+	139674145472032 [label="{ ADD_RESULT | data -2.5306 | grad 0.0000 }" shape=record]
+	"139674145472032+" [label="+"]
+	"139674145472032+" -> 139674145472032
+	139674133872160 [label="{ MUL_RESULT | data -0.0161 | grad 0.0000 }" shape=record]
+	"139674133872160*" [label="*"]
+	"139674133872160*" -> 139674133872160
+	139674184793632 [label="{ WEIGHT | data 0.2823 | grad 0.0003 }" shape=record]
+	139674184793680 [label="{ WEIGHT | data -0.3921 | grad -0.0009 }" shape=record]
+	139674145668736 [label="{ MUL_RESULT | data 0.0072 | grad 0.0000 }" shape=record]
+	"139674145668736*" [label="*"]
+	"139674145668736*" -> 139674145668736
+	139674184793728 [label="{ WEIGHT | data -0.3372 | grad -0.0003 }" shape=record]
+	139674184793776 [label="{ WEIGHT | data 0.6832 | grad -0.0009 }" shape=record]
+	139674145472224 [label="{ ADD_RESULT | data -2.7132 | grad 0.0000 }" shape=record]
+	"139674145472224+" [label="+"]
+	"139674145472224+" -> 139674145472224
+	139674145603296 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145603296*" [label="*"]
+	"139674145603296*" -> 139674145603296
+	139674133872352 [label="{ MUL_RESULT | data -0.8002 | grad 0.0000 }" shape=record]
+	"139674133872352*" [label="*"]
+	"139674133872352*" -> 139674133872352
+	139674184793824 [label="{ WEIGHT | data 0.3439 | grad 0.0003 }" shape=record]
+	139674184793872 [label="{ WEIGHT | data -0.5011 | grad -0.0005 }" shape=record]
+	139674145668928 [label="{ MUL_RESULT | data 0.0076 | grad 0.0000 }" shape=record]
+	"139674145668928*" [label="*"]
+	"139674145668928*" -> 139674145668928
+	139674184793920 [label="{ WEIGHT | data -0.4976 | grad -0.0005 }" shape=record]
+	139674184793968 [label="{ WEIGHT | data -0.2727 | grad -0.0009 }" shape=record]
+	139674145603488 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145603488*" [label="*"]
+	"139674145603488*" -> 139674145603488
+	139674133872544 [label="{ MUL_RESULT | data -0.0083 | grad 0.0000 }" shape=record]
+	"139674133872544*" [label="*"]
+	"139674133872544*" -> 139674133872544
+	139674184794016 [label="{ BIAS | data -0.1958 | grad -0.0024 }" shape=record]
+	139674145472464 [label="{ ADD_RESULT | data -2.7132 | grad 0.0000 }" shape=record]
+	"139674145472464+" [label="+"]
+	"139674145472464+" -> 139674145472464
+	139674133807168 [label="{ MUL_RESULT | data -0.4154 | grad 0.0000 }" shape=record]
+	"139674133807168*" [label="*"]
+	"139674133807168*" -> 139674133807168
+	139674145570928 [label="{ MUL_RESULT | data 0.0028 | grad 0.0000 }" shape=record]
+	"139674145570928*" [label="*"]
+	"139674145570928*" -> 139674145570928
+	139674133807216 [label="{ ADD_RESULT | data 0.1455 | grad 0.0000 }" shape=record]
+	"139674133807216+" [label="+"]
+	"139674133807216+" -> 139674133807216
+	139674133807312 [label="{ MUL_RESULT | data -0.0184 | grad 0.0000 }" shape=record]
+	"139674133807312*" [label="*"]
+	"139674133807312*" -> 139674133807312
+	139674145571072 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145571072*" [label="*"]
+	"139674145571072*" -> 139674145571072
+	139674133807456 [label="{ MUL_RESULT | data -0.0045 | grad 0.0000 }" shape=record]
+	"139674133807456*" [label="*"]
+	"139674133807456*" -> 139674133807456
+	139674145571312 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145571312*" [label="*"]
+	"139674145571312*" -> 139674145571312
+	139674133807648 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133807648*" [label="*"]
+	"139674133807648*" -> 139674133807648
+	139674145571408 [label="{ MUL_RESULT | data -0.6370 | grad 0.0000 }" shape=record]
+	"139674145571408*" [label="*"]
+	"139674145571408*" -> 139674145571408
+	139674133807936 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133807936*" [label="*"]
+	"139674133807936*" -> 139674133807936
+	139674145571792 [label="{ MUL_RESULT | data -0.2683 | grad 0.0000 }" shape=record]
+	"139674145571792*" [label="*"]
+	"139674145571792*" -> 139674145571792
+	139674133808080 [label="{ MUL_RESULT | data -0.0098 | grad 0.0000 }" shape=record]
+	"139674133808080*" [label="*"]
+	"139674133808080*" -> 139674133808080
+	139674193810096 [label="{ WEIGHT | data -0.6561 | grad -0.0007 }" shape=record]
+	139674145571936 [label="{ MUL_RESULT | data -0.0484 | grad 0.0000 }" shape=record]
+	"139674145571936*" [label="*"]
+	"139674145571936*" -> 139674145571936
+	139674133808272 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133808272*" [label="*"]
+	"139674133808272*" -> 139674133808272
+	139674133808512 [label="{ ADD_RESULT | data -0.1958 | grad 0.0000 }" shape=record]
+	"139674133808512+" [label="+"]
+	"139674133808512+" -> 139674133808512
+	139674133808704 [label="{ ADD_RESULT | data 0.5897 | grad 0.0000 }" shape=record]
+	"139674133808704+" [label="+"]
+	"139674133808704+" -> 139674133808704
+	139674145572416 [label="{ ADD_RESULT | data -2.5186 | grad 0.0000 }" shape=record]
+	"139674145572416+" [label="+"]
+	"139674145572416+" -> 139674145572416
+	139674145572608 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145572608*" [label="*"]
+	"139674145572608*" -> 139674145572608
+	139674133808896 [label="{ ADD_RESULT | data 0.5897 | grad 0.0000 }" shape=record]
+	"139674133808896+" [label="+"]
+	"139674133808896+" -> 139674133808896
+	139674145572704 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145572704*" [label="*"]
+	"139674145572704*" -> 139674145572704
+	139674145572800 [label="{ MUL_RESULT | data -0.0201 | grad 0.0000 }" shape=record]
+	"139674145572800*" [label="*"]
+	"139674145572800*" -> 139674145572800
+	139674133809088 [label="{ ADD_RESULT | data 0.5897 | grad 0.0000 }" shape=record]
+	"139674133809088+" [label="+"]
+	"139674133809088+" -> 139674133809088
+	139674133809280 [label="{ ADD_RESULT | data 0.5897 | grad 0.0000 }" shape=record]
+	"139674133809280+" [label="+"]
+	"139674133809280+" -> 139674133809280
+	139674145573040 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145573040ReLU" [label=ReLU]
+	"139674145573040ReLU" -> 139674145573040
+	139674145573088 [label="{ ADD_RESULT | data -2.5186 | grad 0.0000 }" shape=record]
+	"139674145573088+" [label="+"]
+	"139674145573088+" -> 139674145573088
+	139674145573136 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145573136*" [label="*"]
+	"139674145573136*" -> 139674145573136
+	139674133809472 [label="{ ADD_RESULT | data 0.5937 | grad 0.0000 }" shape=record]
+	"139674133809472+" [label="+"]
+	"139674133809472+" -> 139674133809472
+	139674145573232 [label="{ MUL_RESULT | data -0.0229 | grad 0.0000 }" shape=record]
+	"139674145573232*" [label="*"]
+	"139674145573232*" -> 139674145573232
+	139674133809664 [label="{ ADD_RESULT | data 0.1783 | grad 0.0000 }" shape=record]
+	"139674133809664+" [label="+"]
+	"139674133809664+" -> 139674133809664
+	139674145573520 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145573520*" [label="*"]
+	"139674145573520*" -> 139674145573520
+	139674133809856 [label="{ ADD_RESULT | data 0.1599 | grad 0.0000 }" shape=record]
+	"139674133809856+" [label="+"]
+	"139674133809856+" -> 139674133809856
+	139674145573664 [label="{ MUL_RESULT | data 0.0031 | grad 0.0000 }" shape=record]
+	"139674145573664*" [label="*"]
+	"139674145573664*" -> 139674145573664
+	139674133810048 [label="{ ADD_RESULT | data 0.1599 | grad 0.0000 }" shape=record]
+	"139674133810048+" [label="+"]
+	"139674133810048+" -> 139674133810048
+	139674145573808 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145573808*" [label="*"]
+	"139674145573808*" -> 139674145573808
+	139674145573904 [label="{ ADD_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145573904+" [label="+"]
+	"139674145573904+" -> 139674145573904
+	139674133810240 [label="{ ADD_RESULT | data 0.1554 | grad 0.0000 }" shape=record]
+	"139674133810240+" [label="+"]
+	"139674133810240+" -> 139674133810240
+	139674145574144 [label="{ ADD_RESULT | data -2.5186 | grad 0.0000 }" shape=record]
+	"139674145574144+" [label="+"]
+	"139674145574144+" -> 139674145574144
+	139674133810624 [label="{ MUL_RESULT | data 0.0040 | grad 0.0000 }" shape=record]
+	"139674133810624*" [label="*"]
+	"139674133810624*" -> 139674133810624
+	139674145574336 [label="{ ADD_RESULT | data -2.5186 | grad 0.0000 }" shape=record]
+	"139674145574336+" [label="+"]
+	"139674145574336+" -> 139674145574336
+	139674133810768 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133810768*" [label="*"]
+	"139674133810768*" -> 139674133810768
+	139674145574528 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145574528*" [label="*"]
+	"139674145574528*" -> 139674145574528
+	139674133810912 [label="{ MUL_RESULT | data 0.4564 | grad 0.0000 }" shape=record]
+	"139674133810912*" [label="*"]
+	"139674133810912*" -> 139674133810912
+	139674145574816 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145574816*" [label="*"]
+	"139674145574816*" -> 139674145574816
+	139674133811152 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133811152*" [label="*"]
+	"139674133811152*" -> 139674133811152
+	139674193743936 [label="{ WEIGHT | data -0.4583 | grad -0.0005 }" shape=record]
+	139674193809472 [label="{ WEIGHT | data 0.1122 | grad 0.0001 }" shape=record]
+	139674193743984 [label="{ BIAS | data -0.1807 | grad -0.0002 }" shape=record]
+	139674133778544 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133778544*" [label="*"]
+	"139674133778544*" -> 139674133778544
+	139674193809520 [label="{ WEIGHT | data 0.1815 | grad 0.0002 }" shape=record]
+	139674212815008 [label="{ MUL_RESULT | data 0.0110 | grad 0.0000 }" shape=record]
+	"139674212815008*" [label="*"]
+	"139674212815008*" -> 139674212815008
+	139674193809568 [label="{ WEIGHT | data 0.0004 | grad 0.0000 }" shape=record]
+	139674145575120 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145575120*" [label="*"]
+	"139674145575120*" -> 139674145575120
+	139674193744080 [label="{ WEIGHT | data -0.9237 | grad -0.0009 }" shape=record]
+	139674193809616 [label="{ WEIGHT | data 0.1216 | grad 0.0001 }" shape=record]
+	139674193809664 [label="{ WEIGHT | data -0.5737 | grad -0.0006 }" shape=record]
+	139674193744176 [label="{ WEIGHT | data -0.7188 | grad -0.0007 }" shape=record]
+	139674133778736 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133778736*" [label="*"]
+	"139674133778736*" -> 139674133778736
+	139674193809712 [label="{ WEIGHT | data -0.8249 | grad -0.0008 }" shape=record]
+	139674212815200 [label="{ MUL_RESULT | data -0.3372 | grad 0.0000 }" shape=record]
+	"139674212815200*" [label="*"]
+	"139674212815200*" -> 139674212815200
+	139674145575264 [label="{ ADD_RESULT | data -0.0611 | grad 0.0000 }" shape=record]
+	"139674145575264+" [label="+"]
+	"139674145575264+" -> 139674145575264
+	139674193744224 [label="{ WEIGHT | data -0.7017 | grad -0.0007 }" shape=record]
+	139674145575312 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145575312*" [label="*"]
+	"139674145575312*" -> 139674145575312
+	139674193744272 [label="{ WEIGHT | data 0.3761 | grad 0.0004 }" shape=record]
+	139674193809808 [label="{ WEIGHT | data -0.4352 | grad -0.0004 }" shape=record]
+	139674193744320 [label="{ WEIGHT | data 0.0892 | grad 0.0001 }" shape=record]
+	139674193809856 [label="{ WEIGHT | data -0.4086 | grad -0.0004 }" shape=record]
+	139674193809760 [label="{ WEIGHT | data -0.4093 | grad -0.0004 }" shape=record]
+	139674212815344 [label="{ ADD_RESULT | data -0.3306 | grad 0.0000 }" shape=record]
+	"139674212815344+" [label="+"]
+	"139674212815344+" -> 139674212815344
+	139674193744368 [label="{ WEIGHT | data -0.5848 | grad -0.0006 }" shape=record]
+	139674133778928 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133778928*" [label="*"]
+	"139674133778928*" -> 139674133778928
+	139674145575456 [label="{ ADD_RESULT | data 0.2526 | grad 0.0000 }" shape=record]
+	"139674145575456+" [label="+"]
+	"139674145575456+" -> 139674145575456
+	139674193744416 [label="{ WEIGHT | data 0.2895 | grad 0.0003 }" shape=record]
+	139674193809904 [label="{ BIAS | data -0.3081 | grad -0.0003 }" shape=record]
+	139674193744464 [label="{ WEIGHT | data 0.4215 | grad 0.0004 }" shape=record]
+	139674193810000 [label="{ WEIGHT | data 0.1057 | grad 0.0001 }" shape=record]
+	139674193744512 [label="{ WEIGHT | data -0.6270 | grad -0.0006 }" shape=record]
+	139674212815536 [label="{ ADD_RESULT | data -0.6678 | grad 0.0000 }" shape=record]
+	"139674212815536+" [label="+"]
+	"139674212815536+" -> 139674212815536
+	139674193744560 [label="{ WEIGHT | data 0.1868 | grad 0.0002 }" shape=record]
+	139674133779120 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133779120*" [label="*"]
+	"139674133779120*" -> 139674133779120
+	139674145575648 [label="{ ADD_RESULT | data 0.2526 | grad 0.0000 }" shape=record]
+	"139674145575648+" [label="+"]
+	"139674145575648+" -> 139674145575648
+	139674193744608 [label="{ WEIGHT | data 0.2865 | grad 0.0003 }" shape=record]
+	139674193810144 [label="{ WEIGHT | data -0.6193 | grad -0.0006 }" shape=record]
+	139674193744656 [label="{ WEIGHT | data -0.7589 | grad -0.0008 }" shape=record]
+	139674212815632 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674212815632ReLU" [label=ReLU]
+	"139674212815632ReLU" -> 139674212815632
+	139674193810192 [label="{ WEIGHT | data 0.0527 | grad 0.0001 }" shape=record]
+	139674193744704 [label="{ WEIGHT | data 0.6044 | grad 0.0006 }" shape=record]
+	139674133779264 [label="{ ADD_RESULT | data -0.0169 | grad 0.0000 }" shape=record]
+	"139674133779264+" [label="+"]
+	"139674133779264+" -> 139674133779264
+	139674193810240 [label="{ WEIGHT | data 0.3982 | grad 0.0004 }" shape=record]
+	139674193744752 [label="{ WEIGHT | data 0.9416 | grad 0.0009 }" shape=record]
+	139674193810288 [label="{ WEIGHT | data -0.9283 | grad -0.0009 }" shape=record]
+	139674145575840 [label="{ ADD_RESULT | data 0.2281 | grad 0.0000 }" shape=record]
+	"139674145575840+" [label="+"]
+	"139674145575840+" -> 139674145575840
+	139674193744800 [label="{ WEIGHT | data -0.6800 | grad -0.0007 }" shape=record]
+	139674193810336 [label="{ WEIGHT | data -0.1704 | grad -0.0002 }" shape=record]
+	139674193744848 [label="{ WEIGHT | data -0.9638 | grad -0.0010 }" shape=record]
+	139674193810384 [label="{ WEIGHT | data 0.1254 | grad 0.0001 }" shape=record]
+	139674193744896 [label="{ BIAS | data 0.1590 | grad 0.0002 }" shape=record]
+	139674133779456 [label="{ ADD_RESULT | data -0.0690 | grad 0.0000 }" shape=record]
+	"139674133779456+" [label="+"]
+	"139674133779456+" -> 139674133779456
+	139674193810432 [label="{ WEIGHT | data -0.2920 | grad -0.0003 }" shape=record]
+	139674212815920 [label="{ MUL_RESULT | data 0.0226 | grad 0.0000 }" shape=record]
+	"139674212815920*" [label="*"]
+	"139674212815920*" -> 139674212815920
+	139674193810480 [label="{ WEIGHT | data -0.6718 | grad -0.0007 }" shape=record]
+	139674145576032 [label="{ ADD_RESULT | data 0.6499 | grad 0.0000 }" shape=record]
+	"139674145576032+" [label="+"]
+	"139674145576032+" -> 139674145576032
+	139674193744992 [label="{ WEIGHT | data -0.3784 | grad -0.0004 }" shape=record]
+	139674193810528 [label="{ WEIGHT | data -0.0949 | grad -0.0001 }" shape=record]
+	139674193810576 [label="{ WEIGHT | data 0.7905 | grad 0.0008 }" shape=record]
+	139674193745088 [label="{ WEIGHT | data 0.3117 | grad -0.0040 }" shape=record]
+	139674133779648 [label="{ ADD_RESULT | data -0.0690 | grad 0.0000 }" shape=record]
+	"139674133779648+" [label="+"]
+	"139674133779648+" -> 139674133779648
+	139674193810624 [label="{ WEIGHT | data 0.0447 | grad 0.0000 }" shape=record]
+	139674212816112 [label="{ MUL_RESULT | data 0.5672 | grad 0.0000 }" shape=record]
+	"139674212816112*" [label="*"]
+	"139674212816112*" -> 139674212816112
+	139674193745136 [label="{ WEIGHT | data 0.8673 | grad 0.0009 }" shape=record]
+	139674193810672 [label="{ WEIGHT | data 0.1146 | grad 0.0001 }" shape=record]
+	139674193745184 [label="{ WEIGHT | data -0.1426 | grad 0.0004 }" shape=record]
+	139674193810720 [label="{ WEIGHT | data 0.4218 | grad 0.0004 }" shape=record]
+	139674193745232 [label="{ WEIGHT | data 0.3816 | grad 0.0004 }" shape=record]
+	139674193810768 [label="{ WEIGHT | data 0.3358 | grad 0.0003 }" shape=record]
+	139674212816256 [label="{ ADD_RESULT | data 0.4391 | grad 0.0000 }" shape=record]
+	"139674212816256+" [label="+"]
+	"139674212816256+" -> 139674212816256
+	139674193745280 [label="{ WEIGHT | data -0.9536 | grad 0.0017 }" shape=record]
+	139674145576320 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145576320*" [label="*"]
+	"139674145576320*" -> 139674145576320
+	139674193745328 [label="{ WEIGHT | data 0.3149 | grad 0.0001 }" shape=record]
+	139674133779840 [label="{ ADD_RESULT | data -0.0690 | grad 0.0000 }" shape=record]
+	"139674133779840+" [label="+"]
+	"139674133779840+" -> 139674133779840
+	139674193810816 [label="{ BIAS | data -0.2879 | grad -0.0003 }" shape=record]
+	139674193745376 [label="{ WEIGHT | data 0.0845 | grad 0.0001 }" shape=record]
+	139674193810912 [label="{ WEIGHT | data -0.2261 | grad -0.0002 }" shape=record]
+	139674193745424 [label="{ WEIGHT | data -0.7551 | grad -0.0008 }" shape=record]
+	139674212816448 [label="{ ADD_RESULT | data 1.0062 | grad 0.0000 }" shape=record]
+	"139674212816448+" [label="+"]
+	"139674212816448+" -> 139674212816448
+	139674145576512 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145576512*" [label="*"]
+	"139674145576512*" -> 139674145576512
+	139674193745472 [label="{ WEIGHT | data 0.4258 | grad 0.0026 }" shape=record]
+	139674193745520 [label="{ WEIGHT | data 0.4727 | grad 0.0005 }" shape=record]
+	139674133780032 [label="{ ADD_RESULT | data -0.0690 | grad 0.0000 }" shape=record]
+	"139674133780032+" [label="+"]
+	"139674133780032+" -> 139674133780032
+	139674193811008 [label="{ WEIGHT | data -1.0269 | grad -0.0004 }" shape=record]
+	139674212816544 [label="{ RELU_RESULT | data 1.0062 | grad 0.0000 }" shape=record]
+	"139674212816544ReLU" [label=ReLU]
+	"139674212816544ReLU" -> 139674212816544
+	139674193745568 [label="{ WEIGHT | data 0.1167 | grad -0.0007 }" shape=record]
+	139674193811056 [label="{ WEIGHT | data -0.3147 | grad -0.0003 }" shape=record]
+	139674193745616 [label="{ WEIGHT | data -0.7219 | grad -0.0008 }" shape=record]
+	139674193811104 [label="{ WEIGHT | data 0.6431 | grad 0.0030 }" shape=record]
+	139674193811152 [label="{ WEIGHT | data 0.6690 | grad 0.0007 }" shape=record]
+	139674193745664 [label="{ WEIGHT | data 0.9004 | grad 0.0050 }" shape=record]
+	139674133780224 [label="{ ADD_RESULT | data -0.0630 | grad 0.0000 }" shape=record]
+	"139674133780224+" [label="+"]
+	"139674133780224+" -> 139674133780224
+	139674193811200 [label="{ WEIGHT | data 0.9541 | grad 0.0243 }" shape=record]
+	139674193745712 [label="{ WEIGHT | data 0.6128 | grad 0.0020 }" shape=record]
+	139674193811248 [label="{ WEIGHT | data -0.5723 | grad 0.0157 }" shape=record]
+	139674193745760 [label="{ WEIGHT | data -0.4614 | grad 0.0033 }" shape=record]
+	139674193811296 [label="{ WEIGHT | data 0.4420 | grad 0.0004 }" shape=record]
+	139674145576848 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145576848*" [label="*"]
+	"139674145576848*" -> 139674145576848
+	139674193745808 [label="{ BIAS | data -0.0611 | grad 0.0042 }" shape=record]
+	139674193811344 [label="{ WEIGHT | data 0.0319 | grad 0.0000 }" shape=record]
+	139674212816832 [label="{ MUL_RESULT | data -0.0087 | grad 0.0000 }" shape=record]
+	"139674212816832*" [label="*"]
+	"139674212816832*" -> 139674212816832
+	139674133780416 [label="{ ADD_RESULT | data -0.8384 | grad 0.0000 }" shape=record]
+	"139674133780416+" [label="+"]
+	"139674133780416+" -> 139674133780416
+	139674193811392 [label="{ WEIGHT | data 0.4069 | grad 0.0223 }" shape=record]
+	139674193745904 [label="{ WEIGHT | data -0.1435 | grad -0.0001 }" shape=record]
+	139674193811440 [label="{ WEIGHT | data -0.5322 | grad -0.0005 }" shape=record]
+	139674193811488 [label="{ WEIGHT | data -0.5237 | grad 0.0125 }" shape=record]
+	139674193746000 [label="{ WEIGHT | data -0.4782 | grad 0.0001 }" shape=record]
+	139674145577040 [label="{ MUL_RESULT | data -0.0245 | grad 0.0000 }" shape=record]
+	"139674145577040*" [label="*"]
+	"139674145577040*" -> 139674145577040
+	139674193811536 [label="{ WEIGHT | data -0.0421 | grad -0.0000 }" shape=record]
+	139674212817024 [label="{ MUL_RESULT | data 0.0821 | grad 0.0000 }" shape=record]
+	"139674212817024*" [label="*"]
+	"139674212817024*" -> 139674212817024
+	139674193746048 [label="{ WEIGHT | data -0.1991 | grad -0.0002 }" shape=record]
+	139674133780608 [label="{ ADD_RESULT | data -0.8299 | grad 0.0000 }" shape=record]
+	"139674133780608+" [label="+"]
+	"139674133780608+" -> 139674133780608
+	139674193746096 [label="{ WEIGHT | data -0.3819 | grad 0.0016 }" shape=record]
+	139674193811584 [label="{ WEIGHT | data -0.7973 | grad 0.0140 }" shape=record]
+	139674193811632 [label="{ WEIGHT | data -0.1704 | grad 0.0023 }" shape=record]
+	139674193746144 [label="{ WEIGHT | data 0.6477 | grad 0.0006 }" shape=record]
+	139674193811680 [label="{ WEIGHT | data 0.5162 | grad 0.0325 }" shape=record]
+	139674212817168 [label="{ ADD_RESULT | data -0.6510 | grad 0.0000 }" shape=record]
+	"139674212817168+" [label="+"]
+	"139674212817168+" -> 139674212817168
+	139674193746192 [label="{ WEIGHT | data 0.4830 | grad 0.0208 }" shape=record]
+	139674145577232 [label="{ MUL_RESULT | data 0.4218 | grad 0.0000 }" shape=record]
+	"139674145577232*" [label="*"]
+	"139674145577232*" -> 139674145577232
+	139674193746240 [label="{ WEIGHT | data -1.0842 | grad 0.0131 }" shape=record]
+	139674133780800 [label="{ ADD_RESULT | data -0.8299 | grad 0.0000 }" shape=record]
+	"139674133780800+" [label="+"]
+	"139674133780800+" -> 139674133780800
+	139674193811728 [label="{ BIAS | data -0.3928 | grad 0.0309 }" shape=record]
+	139674193746288 [label="{ WEIGHT | data 0.7000 | grad 0.0007 }" shape=record]
+	139674193811824 [label="{ WEIGHT | data -0.1809 | grad -0.0002 }" shape=record]
+	139674193746336 [label="{ WEIGHT | data -0.0106 | grad -0.0000 }" shape=record]
+	139674212817360 [label="{ ADD_RESULT | data -0.5689 | grad 0.0000 }" shape=record]
+	"139674212817360+" [label="+"]
+	"139674212817360+" -> 139674212817360
+	139674193746384 [label="{ WEIGHT | data 0.6292 | grad 0.0197 }" shape=record]
+	139674145577424 [label="{ MUL_RESULT | data 0.0020 | grad 0.0000 }" shape=record]
+	"139674145577424*" [label="*"]
+	"139674145577424*" -> 139674145577424
+	139674193746432 [label="{ WEIGHT | data 0.2622 | grad 0.0003 }" shape=record]
+	139674193811920 [label="{ WEIGHT | data -0.6331 | grad -0.0006 }" shape=record]
+	139674193811968 [label="{ WEIGHT | data -0.0616 | grad -0.0001 }" shape=record]
+	139674212817456 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674212817456ReLU" [label=ReLU]
+	"139674212817456ReLU" -> 139674212817456
+	139674193746480 [label="{ WEIGHT | data -0.2848 | grad 0.0111 }" shape=record]
+	139674193812016 [label="{ WEIGHT | data -0.7038 | grad -0.0007 }" shape=record]
+	139674193746528 [label="{ WEIGHT | data 0.4113 | grad 0.0004 }" shape=record]
+	139674193812064 [label="{ WEIGHT | data 0.2311 | grad 0.0002 }" shape=record]
+	139674133780992 [label="{ ADD_RESULT | data -0.8356 | grad 0.0000 }" shape=record]
+	"139674133780992+" [label="+"]
+	"139674133780992+" -> 139674133780992
+	139674193746576 [label="{ WEIGHT | data 0.8251 | grad 0.0137 }" shape=record]
+	139674145577616 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145577616*" [label="*"]
+	"139674145577616*" -> 139674145577616
+	139674193812112 [label="{ WEIGHT | data -0.8941 | grad -0.0009 }" shape=record]
+	139674193746624 [label="{ WEIGHT | data -0.4146 | grad 0.0017 }" shape=record]
+	139674193812160 [label="{ WEIGHT | data -0.2003 | grad -0.0002 }" shape=record]
+	139674133781184 [label="{ ADD_RESULT | data -0.8271 | grad 0.0000 }" shape=record]
+	"139674133781184+" [label="+"]
+	"139674133781184+" -> 139674133781184
+	139674193746672 [label="{ WEIGHT | data 0.5203 | grad 0.0283 }" shape=record]
+	139674193812208 [label="{ WEIGHT | data 0.1217 | grad 0.0001 }" shape=record]
+	139674193746720 [label="{ BIAS | data -0.6331 | grad 0.0266 }" shape=record]
+	139674193812256 [label="{ WEIGHT | data -0.8938 | grad -0.0009 }" shape=record]
+	139674212817744 [label="{ MUL_RESULT | data -0.0331 | grad 0.0000 }" shape=record]
+	"139674212817744*" [label="*"]
+	"139674212817744*" -> 139674212817744
+	139674145577808 [label="{ MUL_RESULT | data 0.0049 | grad 0.0000 }" shape=record]
+	"139674145577808*" [label="*"]
+	"139674145577808*" -> 139674145577808
+	139674193812304 [label="{ WEIGHT | data 0.2698 | grad 0.0003 }" shape=record]
+	139674193746816 [label="{ WEIGHT | data 0.0573 | grad 0.0001 }" shape=record]
+	139674193812352 [label="{ WEIGHT | data -0.6886 | grad -0.0007 }" shape=record]
+	139674133781376 [label="{ ADD_RESULT | data -1.4549 | grad 0.0000 }" shape=record]
+	"139674133781376+" [label="+"]
+	"139674133781376+" -> 139674133781376
+	139674193812400 [label="{ WEIGHT | data -0.0724 | grad -0.0001 }" shape=record]
+	139674193746912 [label="{ WEIGHT | data 0.1215 | grad -0.0111 }" shape=record]
+	139674193812448 [label="{ WEIGHT | data -0.8500 | grad -0.0009 }" shape=record]
+	139674212817936 [label="{ MUL_RESULT | data -0.4947 | grad 0.0000 }" shape=record]
+	"139674212817936*" [label="*"]
+	"139674212817936*" -> 139674212817936
+	139674193746960 [label="{ WEIGHT | data -0.2303 | grad -0.0002 }" shape=record]
+	139674145578000 [label="{ MUL_RESULT | data 0.0138 | grad 0.0000 }" shape=record]
+	"139674145578000*" [label="*"]
+	"139674145578000*" -> 139674145578000
+	139674193747008 [label="{ WEIGHT | data 0.3087 | grad 0.0003 }" shape=record]
+	139674193812544 [label="{ WEIGHT | data -0.5450 | grad -0.0005 }" shape=record]
+	139674193812496 [label="{ WEIGHT | data -0.2285 | grad -0.0002 }" shape=record]
+	139674193747056 [label="{ WEIGHT | data -0.4664 | grad -0.0005 }" shape=record]
+	139674193812592 [label="{ WEIGHT | data -0.3273 | grad -0.0003 }" shape=record]
+	139674133781568 [label="{ ADD_RESULT | data -1.4549 | grad 0.0000 }" shape=record]
+	"139674133781568+" [label="+"]
+	"139674133781568+" -> 139674133781568
+	139674193747104 [label="{ WEIGHT | data 0.1235 | grad -0.0022 }" shape=record]
+	139674212818080 [label="{ ADD_RESULT | data -0.9402 | grad 0.0000 }" shape=record]
+	"139674212818080+" [label="+"]
+	"139674212818080+" -> 139674212818080
+	139674193812640 [label="{ BIAS | data 0.0000 | grad 0.0000 }" shape=record]
+	139674193747152 [label="{ WEIGHT | data 0.7807 | grad -0.0127 }" shape=record]
+	139674145578192 [label="{ MUL_RESULT | data 0.0780 | grad 0.0000 }" shape=record]
+	"139674145578192*" [label="*"]
+	"139674145578192*" -> 139674145578192
+	139674193747200 [label="{ WEIGHT | data -1.0523 | grad -0.0011 }" shape=record]
+	139674193812736 [label="{ WEIGHT | data 0.4520 | grad 0.0005 }" shape=record]
+	139674133781760 [label="{ ADD_RESULT | data -1.4549 | grad 0.0000 }" shape=record]
+	"139674133781760+" [label="+"]
+	"139674133781760+" -> 139674133781760
+	139674193747248 [label="{ WEIGHT | data 0.5804 | grad 0.0006 }" shape=record]
+	139674193747296 [label="{ WEIGHT | data -0.6623 | grad -0.0030 }" shape=record]
+	139674212818272 [label="{ ADD_RESULT | data -1.4348 | grad 0.0000 }" shape=record]
+	"139674212818272+" [label="+"]
+	"139674212818272+" -> 139674212818272
+	139674193812832 [label="{ WEIGHT | data -0.6134 | grad -0.0006 }" shape=record]
+	139674193747344 [label="{ WEIGHT | data -0.4220 | grad -0.0004 }" shape=record]
+	139674145578384 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145578384*" [label="*"]
+	"139674145578384*" -> 139674145578384
+	139674193812880 [label="{ WEIGHT | data 0.1836 | grad 0.0002 }" shape=record]
+	139674193747392 [label="{ WEIGHT | data 0.1661 | grad -0.0075 }" shape=record]
+	139674212818368 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674212818368ReLU" [label=ReLU]
+	"139674212818368ReLU" -> 139674212818368
+	139674193812928 [label="{ WEIGHT | data 0.7870 | grad 0.0008 }" shape=record]
+	139674193747440 [label="{ WEIGHT | data -0.2422 | grad -0.0004 }" shape=record]
+	139674193812976 [label="{ WEIGHT | data -0.4981 | grad -0.0005 }" shape=record]
+	139674133781952 [label="{ ADD_RESULT | data -1.4549 | grad 0.0000 }" shape=record]
+	"139674133781952+" [label="+"]
+	"139674133781952+" -> 139674133781952
+	139674193747488 [label="{ WEIGHT | data -0.8136 | grad -0.0008 }" shape=record]
+	139674193813024 [label="{ WEIGHT | data -0.8933 | grad -0.0009 }" shape=record]
+	139674193747536 [label="{ WEIGHT | data 0.8179 | grad 0.0008 }" shape=record]
+	139674145578576 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145578576*" [label="*"]
+	"139674145578576*" -> 139674145578576
+	139674193813072 [label="{ WEIGHT | data -1.0533 | grad -0.0011 }" shape=record]
+	139674193747584 [label="{ WEIGHT | data -0.9782 | grad -0.0040 }" shape=record]
+	139674193813120 [label="{ WEIGHT | data -0.3197 | grad -0.0003 }" shape=record]
+	139674133782144 [label="{ ADD_RESULT | data -1.4549 | grad 0.0000 }" shape=record]
+	"139674133782144+" [label="+"]
+	"139674133782144+" -> 139674133782144
+	139674193747632 [label="{ BIAS | data 0.3300 | grad -0.0106 }" shape=record]
+	139674193813168 [label="{ WEIGHT | data 0.5426 | grad 0.0005 }" shape=record]
+	139674212818656 [label="{ MUL_RESULT | data 0.0095 | grad 0.0000 }" shape=record]
+	"139674212818656*" [label="*"]
+	"139674212818656*" -> 139674212818656
+	139674145578720 [label="{ ADD_RESULT | data 0.2526 | grad 0.0000 }" shape=record]
+	"139674145578720+" [label="+"]
+	"139674145578720+" -> 139674145578720
+	139674193813216 [label="{ WEIGHT | data -0.2180 | grad -0.0002 }" shape=record]
+	139674193813264 [label="{ WEIGHT | data -0.0370 | grad -0.0000 }" shape=record]
+	139674133782240 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133782240ReLU" [label=ReLU]
+	"139674133782240ReLU" -> 139674133782240
+	139674193813312 [label="{ WEIGHT | data 0.1384 | grad 0.0001 }" shape=record]
+	139674193813360 [label="{ WEIGHT | data 0.3404 | grad 0.0003 }" shape=record]
+	139674193747824 [label="{ WEIGHT | data -0.6710 | grad -0.0007 }" shape=record]
+	139674145578912 [label="{ ADD_RESULT | data 0.2526 | grad 0.0000 }" shape=record]
+	"139674145578912+" [label="+"]
+	"139674145578912+" -> 139674145578912
+	139674212818848 [label="{ MUL_RESULT | data -0.3544 | grad 0.0000 }" shape=record]
+	"139674212818848*" [label="*"]
+	"139674212818848*" -> 139674212818848
+	139674193813408 [label="{ WEIGHT | data 0.7872 | grad 0.0008 }" shape=record]
+	139674193813456 [label="{ WEIGHT | data 1.1231 | grad 0.0011 }" shape=record]
+	139674193747920 [label="{ WEIGHT | data 0.3972 | grad 0.0004 }" shape=record]
+	139674133717104 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133717104*" [label="*"]
+	"139674133717104*" -> 139674133717104
+	139674145546400 [label="{ ADD_RESULT | data 1.6512 | grad 0.0000 }" shape=record]
+	"139674145546400+" [label="+"]
+	"139674145546400+" -> 139674145546400
+	139674133749920 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133749920*" [label="*"]
+	"139674133749920*" -> 139674133749920
+	139674145513680 [label="{ ADD_RESULT | data -0.5642 | grad 0.0000 }" shape=record]
+	"139674145513680+" [label="+"]
+	"139674145513680+" -> 139674145513680
+	139674133913808 [label="{ ADD_RESULT | data 0.6019 | grad 0.0000 }" shape=record]
+	"139674133913808+" [label="+"]
+	"139674133913808+" -> 139674133913808
+	139674133815504 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133815504*" [label="*"]
+	"139674133815504*" -> 139674133815504
+	139674212622640 [label="{ MUL_RESULT | data -0.0269 | grad 0.0000 }" shape=record]
+	"139674212622640*" [label="*"]
+	"139674212622640*" -> 139674212622640
+	139674133717296 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133717296*" [label="*"]
+	"139674133717296*" -> 139674133717296
+	139674133815648 [label="{ ADD_RESULT | data 0.1824 | grad 0.0000 }" shape=record]
+	"139674133815648+" [label="+"]
+	"139674133815648+" -> 139674133815648
+	139674133750112 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133750112*" [label="*"]
+	"139674133750112*" -> 139674133750112
+	139674145513872 [label="{ ADD_RESULT | data -0.5642 | grad 0.0000 }" shape=record]
+	"139674145513872+" [label="+"]
+	"139674145513872+" -> 139674145513872
+	139674133914000 [label="{ ADD_RESULT | data 0.6019 | grad 0.0000 }" shape=record]
+	"139674133914000+" [label="+"]
+	"139674133914000+" -> 139674133914000
+	139674193846720 [label="{ WEIGHT | data 0.7215 | grad 0.0005 }" shape=record]
+	139674212622832 [label="{ MUL_RESULT | data 0.3908 | grad 0.0000 }" shape=record]
+	"139674212622832*" [label="*"]
+	"139674212622832*" -> 139674212622832
+	139674193846768 [label="{ WEIGHT | data 0.2294 | grad 0.0002 }" shape=record]
+	139674133717488 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133717488*" [label="*"]
+	"139674133717488*" -> 139674133717488
+	139674193846816 [label="{ WEIGHT | data 0.2232 | grad -0.0055 }" shape=record]
+	139674133815840 [label="{ ADD_RESULT | data -0.0780 | grad 0.0000 }" shape=record]
+	"139674133815840+" [label="+"]
+	"139674133815840+" -> 139674133815840
+	139674133750304 [label="{ MUL_RESULT | data -0.0165 | grad 0.0000 }" shape=record]
+	"139674133750304*" [label="*"]
+	"139674133750304*" -> 139674133750304
+	139674145514064 [label="{ ADD_RESULT | data -0.5793 | grad 0.0000 }" shape=record]
+	"139674145514064+" [label="+"]
+	"139674145514064+" -> 139674145514064
+	139674193846864 [label="{ WEIGHT | data -0.0216 | grad -0.0000 }" shape=record]
+	139674133914192 [label="{ ADD_RESULT | data 0.6019 | grad 0.0000 }" shape=record]
+	"139674133914192+" [label="+"]
+	"139674133914192+" -> 139674133914192
+	139674212622976 [label="{ ADD_RESULT | data -0.3793 | grad 0.0000 }" shape=record]
+	"139674212622976+" [label="+"]
+	"139674212622976+" -> 139674212622976
+	139674193846912 [label="{ WEIGHT | data 0.6626 | grad 0.0007 }" shape=record]
+	139674193846960 [label="{ WEIGHT | data 0.4849 | grad 0.0005 }" shape=record]
+	139674133717680 [label="{ MUL_RESULT | data -0.7754 | grad 0.0000 }" shape=record]
+	"139674133717680*" [label="*"]
+	"139674133717680*" -> 139674133717680
+	139674133816032 [label="{ ADD_RESULT | data -0.0780 | grad 0.0000 }" shape=record]
+	"139674133816032+" [label="+"]
+	"139674133816032+" -> 139674133816032
+	139674133750496 [label="{ MUL_RESULT | data -1.0850 | grad 0.0000 }" shape=record]
+	"139674133750496*" [label="*"]
+	"139674133750496*" -> 139674133750496
+	139674193847008 [label="{ WEIGHT | data 1.0203 | grad 0.0123 }" shape=record]
+	139674133914384 [label="{ ADD_RESULT | data 0.6019 | grad 0.0000 }" shape=record]
+	"139674133914384+" [label="+"]
+	"139674133914384+" -> 139674133914384
+	139674212623168 [label="{ ADD_RESULT | data 0.0115 | grad 0.0000 }" shape=record]
+	"139674212623168+" [label="+"]
+	"139674212623168+" -> 139674212623168
+	139674145514304 [label="{ ADD_RESULT | data -0.1915 | grad 0.0000 }" shape=record]
+	"139674145514304+" [label="+"]
+	"139674145514304+" -> 139674145514304
+	139674133717872 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133717872*" [label="*"]
+	"139674133717872*" -> 139674133717872
+	139674212623264 [label="{ RELU_RESULT | data 0.0115 | grad 0.0000 }" shape=record]
+	"139674212623264ReLU" [label=ReLU]
+	"139674212623264ReLU" -> 139674212623264
+	139674133816224 [label="{ ADD_RESULT | data -0.0780 | grad 0.0000 }" shape=record]
+	"139674133816224+" [label="+"]
+	"139674133816224+" -> 139674133816224
+	139674133750688 [label="{ MUL_RESULT | data -0.0011 | grad 0.0000 }" shape=record]
+	"139674133750688*" [label="*"]
+	"139674133750688*" -> 139674133750688
+	139674133914576 [label="{ ADD_RESULT | data 0.6019 | grad 0.0000 }" shape=record]
+	"139674133914576+" [label="+"]
+	"139674133914576+" -> 139674133914576
+	139674145514496 [label="{ ADD_RESULT | data -0.1818 | grad 0.0000 }" shape=record]
+	"139674145514496+" [label="+"]
+	"139674145514496+" -> 139674145514496
+	139674133914672 [label="{ RELU_RESULT | data 0.6019 | grad 0.0000 }" shape=record]
+	"139674133914672ReLU" [label=ReLU]
+	"139674133914672ReLU" -> 139674133914672
+	139674133718064 [label="{ MUL_RESULT | data 0.0085 | grad 0.0000 }" shape=record]
+	"139674133718064*" [label="*"]
+	"139674133718064*" -> 139674133718064
+	139674133816416 [label="{ ADD_RESULT | data -0.0780 | grad 0.0000 }" shape=record]
+	"139674133816416+" [label="+"]
+	"139674133816416+" -> 139674133816416
+	139674133750880 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133750880*" [label="*"]
+	"139674133750880*" -> 139674133750880
+	139674133718160 [label="{ MUL_RESULT | data -0.6278 | grad 0.0000 }" shape=record]
+	"139674133718160*" [label="*"]
+	"139674133718160*" -> 139674133718160
+	139674212623552 [label="{ MUL_RESULT | data 0.0537 | grad 0.0000 }" shape=record]
+	"139674212623552*" [label="*"]
+	"139674212623552*" -> 139674212623552
+	139674145514688 [label="{ ADD_RESULT | data -0.1818 | grad 0.0000 }" shape=record]
+	"139674145514688+" [label="+"]
+	"139674145514688+" -> 139674145514688
+	139674133816608 [label="{ ADD_RESULT | data -0.0806 | grad 0.0000 }" shape=record]
+	"139674133816608+" [label="+"]
+	"139674133816608+" -> 139674133816608
+	139674133751072 [label="{ MUL_RESULT | data -0.0036 | grad 0.0000 }" shape=record]
+	"139674133751072*" [label="*"]
+	"139674133751072*" -> 139674133751072
+	139674133914960 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133914960*" [label="*"]
+	"139674133914960*" -> 139674133914960
+	139674133718352 [label="{ ADD_RESULT | data -1.8031 | grad 0.0000 }" shape=record]
+	"139674133718352+" [label="+"]
+	"139674133718352+" -> 139674133718352
+	139674212623744 [label="{ MUL_RESULT | data 0.1356 | grad 0.0000 }" shape=record]
+	"139674212623744*" [label="*"]
+	"139674212623744*" -> 139674212623744
+	139674145514880 [label="{ ADD_RESULT | data -0.1796 | grad 0.0000 }" shape=record]
+	"139674145514880+" [label="+"]
+	"139674145514880+" -> 139674145514880
+	139674133816800 [label="{ ADD_RESULT | data 0.8846 | grad 0.0000 }" shape=record]
+	"139674133816800+" [label="+"]
+	"139674133816800+" -> 139674133816800
+	139674133751264 [label="{ MUL_RESULT | data 0.0151 | grad 0.0000 }" shape=record]
+	"139674133751264*" [label="*"]
+	"139674133751264*" -> 139674133751264
+	139674212623888 [label="{ ADD_RESULT | data -0.1064 | grad 0.0000 }" shape=record]
+	"139674212623888+" [label="+"]
+	"139674212623888+" -> 139674212623888
+	139674133915152 [label="{ MUL_RESULT | data -0.2604 | grad 0.0000 }" shape=record]
+	"139674133915152*" [label="*"]
+	"139674133915152*" -> 139674133915152
+	139674133718544 [label="{ ADD_RESULT | data -1.8067 | grad 0.0000 }" shape=record]
+	"139674133718544+" [label="+"]
+	"139674133718544+" -> 139674133718544
+	139674145515072 [label="{ ADD_RESULT | data -0.1713 | grad 0.0000 }" shape=record]
+	"139674145515072+" [label="+"]
+	"139674145515072+" -> 139674145515072
+	139674133816992 [label="{ ADD_RESULT | data 0.8871 | grad 0.0000 }" shape=record]
+	"139674133816992+" [label="+"]
+	"139674133816992+" -> 139674133816992
+	139674133751456 [label="{ MUL_RESULT | data 0.2765 | grad 0.0000 }" shape=record]
+	"139674133751456*" [label="*"]
+	"139674133751456*" -> 139674133751456
+	139674212624080 [label="{ ADD_RESULT | data 0.0292 | grad 0.0000 }" shape=record]
+	"139674212624080+" [label="+"]
+	"139674212624080+" -> 139674212624080
+	139674133915344 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133915344*" [label="*"]
+	"139674133915344*" -> 139674133915344
+	139674133718736 [label="{ ADD_RESULT | data -1.7916 | grad 0.0000 }" shape=record]
+	"139674133718736+" [label="+"]
+	"139674133718736+" -> 139674133718736
+	139674145515264 [label="{ ADD_RESULT | data -0.6783 | grad 0.0000 }" shape=record]
+	"139674145515264+" [label="+"]
+	"139674145515264+" -> 139674145515264
+	139674212624176 [label="{ RELU_RESULT | data 0.0292 | grad 0.0000 }" shape=record]
+	"139674212624176ReLU" [label=ReLU]
+	"139674212624176ReLU" -> 139674212624176
+	139674133817184 [label="{ ADD_RESULT | data 0.8871 | grad 0.0000 }" shape=record]
+	"139674133817184+" [label="+"]
+	"139674133817184+" -> 139674133817184
+	139674133751648 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133751648*" [label="*"]
+	"139674133751648*" -> 139674133751648
+	139674133915536 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133915536*" [label="*"]
+	"139674133915536*" -> 139674133915536
+	139674133718928 [label="{ ADD_RESULT | data -1.5151 | grad 0.0000 }" shape=record]
+	"139674133718928+" [label="+"]
+	"139674133718928+" -> 139674133718928
+	139674145515456 [label="{ ADD_RESULT | data -0.6783 | grad 0.0000 }" shape=record]
+	"139674145515456+" [label="+"]
+	"139674145515456+" -> 139674145515456
+	139674133817376 [label="{ ADD_RESULT | data 0.8846 | grad 0.0000 }" shape=record]
+	"139674133817376+" [label="+"]
+	"139674133817376+" -> 139674133817376
+	139674133751840 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133751840*" [label="*"]
+	"139674133751840*" -> 139674133751840
+	139674212624464 [label="{ MUL_RESULT | data -0.0029 | grad 0.0000 }" shape=record]
+	"139674212624464*" [label="*"]
+	"139674212624464*" -> 139674212624464
+	139674133915728 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133915728*" [label="*"]
+	"139674133915728*" -> 139674133915728
+	139674133719120 [label="{ ADD_RESULT | data -1.5151 | grad 0.0000 }" shape=record]
+	"139674133719120+" [label="+"]
+	"139674133719120+" -> 139674133719120
+	139674145515648 [label="{ ADD_RESULT | data -0.6783 | grad 0.0000 }" shape=record]
+	"139674145515648+" [label="+"]
+	"139674145515648+" -> 139674145515648
+	139674133817568 [label="{ ADD_RESULT | data 0.8507 | grad 0.0000 }" shape=record]
+	"139674133817568+" [label="+"]
+	"139674133817568+" -> 139674133817568
+	139674133752032 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133752032*" [label="*"]
+	"139674133752032*" -> 139674133752032
+	139674212624656 [label="{ MUL_RESULT | data 0.3880 | grad 0.0000 }" shape=record]
+	"139674212624656*" [label="*"]
+	"139674212624656*" -> 139674212624656
+	139674133915920 [label="{ MUL_RESULT | data -0.0026 | grad 0.0000 }" shape=record]
+	"139674133915920*" [label="*"]
+	"139674133915920*" -> 139674133915920
+	139674133719312 [label="{ ADD_RESULT | data -1.5151 | grad 0.0000 }" shape=record]
+	"139674133719312+" [label="+"]
+	"139674133719312+" -> 139674133719312
+	139674145515840 [label="{ ADD_RESULT | data -0.6783 | grad 0.0000 }" shape=record]
+	"139674145515840+" [label="+"]
+	"139674145515840+" -> 139674145515840
+	139674212624800 [label="{ ADD_RESULT | data 0.2800 | grad 0.0000 }" shape=record]
+	"139674212624800+" [label="+"]
+	"139674212624800+" -> 139674212624800
+	139674145515936 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145515936ReLU" [label=ReLU]
+	"139674145515936ReLU" -> 139674145515936
+	139674133817760 [label="{ ADD_RESULT | data 0.5953 | grad 0.0000 }" shape=record]
+	"139674133817760+" [label="+"]
+	"139674133817760+" -> 139674133817760
+	139674133916112 [label="{ MUL_RESULT | data 0.9651 | grad 0.0000 }" shape=record]
+	"139674133916112*" [label="*"]
+	"139674133916112*" -> 139674133916112
+	139674133752224 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133752224*" [label="*"]
+	"139674133752224*" -> 139674133752224
+	139674133719504 [label="{ ADD_RESULT | data -1.5151 | grad 0.0000 }" shape=record]
+	"139674133719504+" [label="+"]
+	"139674133719504+" -> 139674133719504
+	139674145516032 [label="{ ADD_RESULT | data -0.6783 | grad 0.0000 }" shape=record]
+	"139674145516032+" [label="+"]
+	"139674145516032+" -> 139674145516032
+	139674133752368 [label="{ ADD_RESULT | data -0.0935 | grad 0.0000 }" shape=record]
+	"139674133752368+" [label="+"]
+	"139674133752368+" -> 139674133752368
+	139674212624992 [label="{ ADD_RESULT | data 0.6680 | grad 0.0000 }" shape=record]
+	"139674212624992+" [label="+"]
+	"139674212624992+" -> 139674212624992
+	139674133817952 [label="{ ADD_RESULT | data 0.5953 | grad 0.0000 }" shape=record]
+	"139674133817952+" [label="+"]
+	"139674133817952+" -> 139674133817952
+	139674133916304 [label="{ MUL_RESULT | data 0.0025 | grad 0.0000 }" shape=record]
+	"139674133916304*" [label="*"]
+	"139674133916304*" -> 139674133916304
+	139674133719696 [label="{ ADD_RESULT | data -1.5151 | grad 0.0000 }" shape=record]
+	"139674133719696+" [label="+"]
+	"139674133719696+" -> 139674133719696
+	139674212625088 [label="{ RELU_RESULT | data 0.6680 | grad 0.0000 }" shape=record]
+	"139674212625088ReLU" [label=ReLU]
+	"139674212625088ReLU" -> 139674212625088
+	139674133752560 [label="{ ADD_RESULT | data -0.7004 | grad 0.0000 }" shape=record]
+	"139674133752560+" [label="+"]
+	"139674133752560+" -> 139674133752560
+	139674133818144 [label="{ ADD_RESULT | data 0.5953 | grad 0.0000 }" shape=record]
+	"139674133818144+" [label="+"]
+	"139674133818144+" -> 139674133818144
+	139674133916496 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133916496*" [label="*"]
+	"139674133916496*" -> 139674133916496
+	139674145516416 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145516416*" [label="*"]
+	"139674145516416*" -> 139674145516416
+	139674133719984 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133719984ReLU" [label=ReLU]
+	"139674133719984ReLU" -> 139674133719984
+	139674133752752 [label="{ ADD_RESULT | data -0.7004 | grad 0.0000 }" shape=record]
+	"139674133752752+" [label="+"]
+	"139674133752752+" -> 139674133752752
+	139674212625376 [label="{ MUL_RESULT | data 0.0029 | grad 0.0000 }" shape=record]
+	"139674212625376*" [label="*"]
+	"139674212625376*" -> 139674212625376
+	139674145516512 [label="{ MUL_RESULT | data 0.3137 | grad 0.0000 }" shape=record]
+	"139674145516512*" [label="*"]
+	"139674145516512*" -> 139674145516512
+	139674133818336 [label="{ ADD_RESULT | data 0.5953 | grad 0.0000 }" shape=record]
+	"139674133818336+" [label="+"]
+	"139674133818336+" -> 139674133818336
+	139674133916688 [label="{ MUL_RESULT | data -0.0025 | grad 0.0000 }" shape=record]
+	"139674133916688*" [label="*"]
+	"139674133916688*" -> 139674133916688
+	139674145516608 [label="{ ADD_RESULT | data 0.1590 | grad 0.0000 }" shape=record]
+	"139674145516608+" [label="+"]
+	"139674145516608+" -> 139674145516608
+	139674133720128 [label="{ MUL_RESULT | data -0.0521 | grad 0.0000 }" shape=record]
+	"139674133720128*" [label="*"]
+	"139674133720128*" -> 139674133720128
+	139674133752944 [label="{ ADD_RESULT | data -0.7004 | grad 0.0000 }" shape=record]
+	"139674133752944+" [label="+"]
+	"139674133752944+" -> 139674133752944
+	139674212625568 [label="{ MUL_RESULT | data 0.4144 | grad 0.0000 }" shape=record]
+	"139674212625568*" [label="*"]
+	"139674212625568*" -> 139674212625568
+	139674145516704 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145516704*" [label="*"]
+	"139674145516704*" -> 139674145516704
+	139674133818528 [label="{ ADD_RESULT | data 0.5953 | grad 0.0000 }" shape=record]
+	"139674133818528+" [label="+"]
+	"139674133818528+" -> 139674133818528
+	139674133916880 [label="{ MUL_RESULT | data -0.0338 | grad 0.0000 }" shape=record]
+	"139674133916880*" [label="*"]
+	"139674133916880*" -> 139674133916880
+	139674133818624 [label="{ RELU_RESULT | data 0.5953 | grad 0.0000 }" shape=record]
+	"139674133818624ReLU" [label=ReLU]
+	"139674133818624ReLU" -> 139674133818624
+	139674133720320 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133720320*" [label="*"]
+	"139674133720320*" -> 139674133720320
+	139674212625712 [label="{ ADD_RESULT | data -0.5029 | grad 0.0000 }" shape=record]
+	"139674212625712+" [label="+"]
+	"139674212625712+" -> 139674212625712
+	139674145516848 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145516848*" [label="*"]
+	"139674145516848*" -> 139674145516848
+	139674133753136 [label="{ ADD_RESULT | data -0.7004 | grad 0.0000 }" shape=record]
+	"139674133753136+" [label="+"]
+	"139674133753136+" -> 139674133753136
+	139674133917072 [label="{ MUL_RESULT | data -0.2554 | grad 0.0000 }" shape=record]
+	"139674133917072*" [label="*"]
+	"139674133917072*" -> 139674133917072
+	139674133720512 [label="{ MUL_RESULT | data 0.0060 | grad 0.0000 }" shape=record]
+	"139674133720512*" [label="*"]
+	"139674133720512*" -> 139674133720512
+	139674212625904 [label="{ ADD_RESULT | data -0.0885 | grad 0.0000 }" shape=record]
+	"139674212625904+" [label="+"]
+	"139674212625904+" -> 139674212625904
+	139674133753328 [label="{ ADD_RESULT | data -0.7170 | grad 0.0000 }" shape=record]
+	"139674133753328+" [label="+"]
+	"139674133753328+" -> 139674133753328
+	139674193849888 [label="{ WEIGHT | data 0.4199 | grad -0.0009 }" shape=record]
+	139674133818912 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133818912*" [label="*"]
+	"139674133818912*" -> 139674133818912
+	139674212626000 [label="{ RELU_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674212626000ReLU" [label=ReLU]
+	"139674212626000ReLU" -> 139674212626000
+	139674145517136 [label="{ ADD_RESULT | data -0.5642 | grad 0.0000 }" shape=record]
+	"139674145517136+" [label="+"]
+	"139674145517136+" -> 139674145517136
+	139674133917264 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133917264*" [label="*"]
+	"139674133917264*" -> 139674133917264
+	139674133720704 [label="{ MUL_RESULT | data 0.0085 | grad 0.0000 }" shape=record]
+	"139674133720704*" [label="*"]
+	"139674133720704*" -> 139674133720704
+	139674193849936 [label="{ WEIGHT | data -1.0773 | grad 0.0357 }" shape=record]
+	139674193849984 [label="{ WEIGHT | data 0.4738 | grad 0.0005 }" shape=record]
+	139674133753520 [label="{ ADD_RESULT | data -1.8020 | grad 0.0000 }" shape=record]
+	"139674133753520+" [label="+"]
+	"139674133753520+" -> 139674133753520
+	139674193850032 [label="{ WEIGHT | data -0.5192 | grad -0.0005 }" shape=record]
+	139674133819104 [label="{ MUL_RESULT | data -0.6070 | grad 0.0000 }" shape=record]
+	"139674133819104*" [label="*"]
+	"139674133819104*" -> 139674133819104
+	139674193850080 [label="{ WEIGHT | data -0.4207 | grad -0.0004 }" shape=record]
+	139674193850128 [label="{ WEIGHT | data 1.0874 | grad -0.0101 }" shape=record]
+	139674145517328 [label="{ ADD_RESULT | data -0.5642 | grad 0.0000 }" shape=record]
+	"139674145517328+" [label="+"]
+	"139674145517328+" -> 139674145517328
+	139674133917456 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133917456*" [label="*"]
+	"139674133917456*" -> 139674133917456
+	139674193850176 [label="{ BIAS | data -0.1244 | grad 0.0403 }" shape=record]
+	139674133720896 [label="{ MUL_RESULT | data -0.0057 | grad 0.0000 }" shape=record]
+	"139674133720896*" [label="*"]
+	"139674133720896*" -> 139674133720896
+	139674212626288 [label="{ MUL_RESULT | data -0.0155 | grad 0.0000 }" shape=record]
+	"139674212626288*" [label="*"]
+	"139674212626288*" -> 139674212626288
+	139674133753712 [label="{ ADD_RESULT | data -1.8031 | grad 0.0000 }" shape=record]
+	"139674133753712+" [label="+"]
+	"139674133753712+" -> 139674133753712
+	139674193850272 [label="{ WEIGHT | data 0.8853 | grad 0.0142 }" shape=record]
+	139674133819296 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133819296*" [label="*"]
+	"139674133819296*" -> 139674133819296
+	139674133917648 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133917648*" [label="*"]
+	"139674133917648*" -> 139674133917648
+	139674133786688 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133786688*" [label="*"]
+	"139674133786688*" -> 139674133786688
+	139674145583216 [label="{ MUL_RESULT | data 0.0102 | grad 0.0000 }" shape=record]
+	"139674145583216*" [label="*"]
+	"139674145583216*" -> 139674145583216
+	139674145714384 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145714384*" [label="*"]
+	"139674145714384*" -> 139674145714384
+	139674145681616 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145681616*" [label="*"]
+	"139674145681616*" -> 139674145681616
+	139674133786880 [label="{ MUL_RESULT | data 0.4998 | grad 0.0000 }" shape=record]
+	"139674133786880*" [label="*"]
+	"139674133786880*" -> 139674133786880
+	139674145583408 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145583408*" [label="*"]
+	"139674145583408*" -> 139674145583408
+	139674145714576 [label="{ MUL_RESULT | data 0.1222 | grad 0.0000 }" shape=record]
+	"139674145714576*" [label="*"]
+	"139674145714576*" -> 139674145714576
+	139674145681808 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145681808*" [label="*"]
+	"139674145681808*" -> 139674145681808
+	139674133787072 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133787072*" [label="*"]
+	"139674133787072*" -> 139674133787072
+	139674145583600 [label="{ MUL_RESULT | data 0.0047 | grad 0.0000 }" shape=record]
+	"139674145583600*" [label="*"]
+	"139674145583600*" -> 139674145583600
+	139674145714768 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145714768*" [label="*"]
+	"139674145714768*" -> 139674145714768
+	139674145682000 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145682000*" [label="*"]
+	"139674145682000*" -> 139674145682000
+	139674133787264 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133787264*" [label="*"]
+	"139674133787264*" -> 139674133787264
+	139674145583792 [label="{ MUL_RESULT | data -0.0155 | grad 0.0000 }" shape=record]
+	"139674145583792*" [label="*"]
+	"139674145583792*" -> 139674145583792
+	139674145714960 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145714960*" [label="*"]
+	"139674145714960*" -> 139674145714960
+	139674145682192 [label="{ MUL_RESULT | data 0.3143 | grad 0.0000 }" shape=record]
+	"139674145682192*" [label="*"]
+	"139674145682192*" -> 139674145682192
+	139674133787456 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674133787456*" [label="*"]
+	"139674133787456*" -> 139674133787456
+	139674145583984 [label="{ MUL_RESULT | data -0.3498 | grad 0.0000 }" shape=record]
+	"139674145583984*" [label="*"]
+	"139674145583984*" -> 139674145583984
+	139674145715152 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145715152*" [label="*"]
+	"139674145715152*" -> 139674145715152
+	139674145682384 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145682384*" [label="*"]
+	"139674145682384*" -> 139674145682384
+	139674133787648 [label="{ MUL_RESULT | data 0.0224 | grad 0.0000 }" shape=record]
+	"139674133787648*" [label="*"]
+	"139674133787648*" -> 139674133787648
+	139674145584176 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145584176*" [label="*"]
+	"139674145584176*" -> 139674145584176
+	139674145682576 [label="{ MUL_RESULT | data 1.7048 | grad 0.0000 }" shape=record]
+	"139674145682576*" [label="*"]
+	"139674145682576*" -> 139674145682576
+	139674145715344 [label="{ MUL_RESULT | data 0.0032 | grad 0.0000 }" shape=record]
+	"139674145715344*" [label="*"]
+	"139674145715344*" -> 139674145715344
+	139674133787840 [label="{ MUL_RESULT | data -0.0738 | grad 0.0000 }" shape=record]
+	"139674133787840*" [label="*"]
+	"139674133787840*" -> 139674133787840
+	139674145584368 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145584368*" [label="*"]
+	"139674145584368*" -> 139674145584368
+	139674145682720 [label="{ ADD_RESULT | data -0.1244 | grad 0.0000 }" shape=record]
+	"139674145682720+" [label="+"]
+	"139674145682720+" -> 139674145682720
+	139674145715536 [label="{ MUL_RESULT | data 1.0456 | grad 0.0000 }" shape=record]
+	"139674145715536*" [label="*"]
+	"139674145715536*" -> 139674145715536
+	139674133788032 [label="{ MUL_RESULT | data 0.0228 | grad 0.0000 }" shape=record]
+	"139674133788032*" [label="*"]
+	"139674133788032*" -> 139674133788032
+	139674145584560 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145584560*" [label="*"]
+	"139674145584560*" -> 139674145584560
+	139674145682912 [label="{ ADD_RESULT | data -0.1244 | grad 0.0000 }" shape=record]
+	"139674145682912+" [label="+"]
+	"139674145682912+" -> 139674145682912
+	139674145715728 [label="{ MUL_RESULT | data -0.0244 | grad 0.0000 }" shape=record]
+	"139674145715728*" [label="*"]
+	"139674145715728*" -> 139674145715728
+	139674133788224 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133788224*" [label="*"]
+	"139674133788224*" -> 139674133788224
+	139674145584752 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145584752*" [label="*"]
+	"139674145584752*" -> 139674145584752
+	139674145683104 [label="{ ADD_RESULT | data 0.0100 | grad 0.0000 }" shape=record]
+	"139674145683104+" [label="+"]
+	"139674145683104+" -> 139674145683104
+	139674145715920 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145715920*" [label="*"]
+	"139674145715920*" -> 139674145715920
+	139674133788416 [label="{ MUL_RESULT | data 0.0094 | grad 0.0000 }" shape=record]
+	"139674133788416*" [label="*"]
+	"139674133788416*" -> 139674133788416
+	139674145584896 [label="{ ADD_RESULT | data -0.3928 | grad 0.0000 }" shape=record]
+	"139674145584896+" [label="+"]
+	"139674145584896+" -> 139674145584896
+	139674145683296 [label="{ ADD_RESULT | data 0.4395 | grad 0.0000 }" shape=record]
+	"139674145683296+" [label="+"]
+	"139674145683296+" -> 139674145683296
+	139674145716112 [label="{ MUL_RESULT | data -0.0076 | grad 0.0000 }" shape=record]
+	"139674145716112*" [label="*"]
+	"139674145716112*" -> 139674145716112
+	139674133788608 [label="{ MUL_RESULT | data 0.0244 | grad 0.0000 }" shape=record]
+	"139674133788608*" [label="*"]
+	"139674133788608*" -> 139674133788608
+	139674145585088 [label="{ ADD_RESULT | data -1.4261 | grad 0.0000 }" shape=record]
+	"139674145585088+" [label="+"]
+	"139674145585088+" -> 139674145585088
+	139674145683488 [label="{ ADD_RESULT | data 0.4395 | grad 0.0000 }" shape=record]
+	"139674145683488+" [label="+"]
+	"139674145683488+" -> 139674145683488
+	139674145716304 [label="{ MUL_RESULT | data -0.0123 | grad 0.0000 }" shape=record]
+	"139674145716304*" [label="*"]
+	"139674145716304*" -> 139674145716304
+	139674133788800 [label="{ MUL_RESULT | data 0.4903 | grad 0.0000 }" shape=record]
+	"139674133788800*" [label="*"]
+	"139674133788800*" -> 139674133788800
+	139674145585280 [label="{ ADD_RESULT | data -1.4261 | grad 0.0000 }" shape=record]
+	"139674145585280+" [label="+"]
+	"139674145585280+" -> 139674145585280
+	139674145683680 [label="{ ADD_RESULT | data 0.4395 | grad 0.0000 }" shape=record]
+	"139674145683680+" [label="+"]
+	"139674145683680+" -> 139674145683680
+	139674145716496 [label="{ MUL_RESULT | data 0.1109 | grad 0.0000 }" shape=record]
+	"139674145716496*" [label="*"]
+	"139674145716496*" -> 139674145716496
+	139674133788992 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133788992*" [label="*"]
+	"139674133788992*" -> 139674133788992
+	139674145585472 [label="{ ADD_RESULT | data -1.4261 | grad 0.0000 }" shape=record]
+	"139674145585472+" [label="+"]
+	"139674145585472+" -> 139674145585472
+	139674145683872 [label="{ ADD_RESULT | data -0.3679 | grad 0.0000 }" shape=record]
+	"139674145683872+" [label="+"]
+	"139674145683872+" -> 139674145683872
+	139674145716688 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145716688*" [label="*"]
+	"139674145716688*" -> 139674145716688
+	139674133789184 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133789184*" [label="*"]
+	"139674133789184*" -> 139674133789184
+	139674145585664 [label="{ ADD_RESULT | data -1.4261 | grad 0.0000 }" shape=record]
+	"139674145585664+" [label="+"]
+	"139674145585664+" -> 139674145585664
+	139674145684064 [label="{ ADD_RESULT | data -0.3679 | grad 0.0000 }" shape=record]
+	"139674145684064+" [label="+"]
+	"139674145684064+" -> 139674145684064
+	139674145716880 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145716880*" [label="*"]
+	"139674145716880*" -> 139674145716880
+	139674133789376 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133789376*" [label="*"]
+	"139674133789376*" -> 139674133789376
+	139674145585856 [label="{ ADD_RESULT | data -1.4016 | grad 0.0000 }" shape=record]
+	"139674145585856+" [label="+"]
+	"139674145585856+" -> 139674145585856
+	139674145684256 [label="{ ADD_RESULT | data -0.3679 | grad 0.0000 }" shape=record]
+	"139674145684256+" [label="+"]
+	"139674145684256+" -> 139674145684256
+	139674145717072 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674145717072*" [label="*"]
+	"139674145717072*" -> 139674145717072
+	139674133789568 [label="{ MUL_RESULT | data -0.0000 | grad 0.0000 }" shape=record]
+	"139674133789568*" [label="*"]
+	"139674133789568*" -> 139674133789568
+	139674145586048 [label="{ ADD_RESULT | data -2.1681 | grad 0.0000 }" shape=record]
+	"139674145586048+" [label="+"]
+	"139674145586048+" -> 139674145586048
+	139674145684448 [label="{ ADD_RESULT | data -0.3679 | grad 0.0000 }" shape=record]
+	"139674145684448+" [label="+"]
+	"139674145684448+" -> 139674145684448
+	139674145717264 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674145717264*" [label="*"]
+	"139674145717264*" -> 139674145717264
+	139674133789712 [label="{ ADD_RESULT | data -0.2459 | grad 0.0000 }" shape=record]
+	"139674133789712+" [label="+"]
+	"139674133789712+" -> 139674133789712
+	139674145586240 [label="{ ADD_RESULT | data -2.1579 | grad 0.0000 }" shape=record]
+	"139674145586240+" [label="+"]
+	"139674145586240+" -> 139674145586240
+	139674145717408 [label="{ ADD_RESULT | data 0.3300 | grad 0.0000 }" shape=record]
+	"139674145717408+" [label="+"]
+	"139674145717408+" -> 139674145717408
+	139674145684640 [label="{ ADD_RESULT | data -0.3679 | grad 0.0000 }" shape=record]
+	"139674145684640+" [label="+"]
+	"139674145684640+" -> 139674145684640
+	139674212695200 [label="{ MUL_RESULT | data 0.0000 | grad 0.0000 }" shape=record]
+	"139674212695200*" [label="*"]
+	"139674212695200*" -> 139674212695200
+	139674133789904 [label="{ ADD_RESULT | data 0.2540 | grad 0.0000 }" shape=record]
+	"139674133789904+" [label="+"]
+	"139674133789904+" -> 139674133789904
+	139674145586432 [label="{ ADD_RESULT | data -2.1579 | grad 0.0000 }" shape=record]
+	"139674145586432+" [label="+"]
+	"139674145586432+" -> 139674145586432
+	139674145717600 [label="{ ADD_RESULT | data 0.4523 | grad 0.0000 }" shape=record]
+	"139674145717600+" [label="+"]
+	"139674145717600+" -> 139674145717600
+	139674145684832 [label="{ ADD_RESULT | data -0.3679 | grad 0.0000 }" shape=record]
+	"139674145684832+" [label="+"]
+	"139674145684832+" -> 139674145684832
+	139674212695440 [label="{ INPUT | data 0.4516 | grad 0.0000 }" shape=record]
+	139674133790096 [label="{ ADD_RESULT | data 0.2540 | grad 0.0000 }" shape=record]
+	"139674133790096+" [label="+"]
+	"139674133790096+" -> 139674133790096
+	139674145586624 [label="{ ADD_RESULT | data -2.1532 | grad 0.0000 }" shape=record]
+	"139674145586624+" [label="+"]
+	"139674145586624+" -> 139674145586624
+	139674212695536 [label="{ INPUT | data -0.0348 | grad 0.0000 }" shape=record]
+	139674145717792 [label="{ ADD_RESULT | data 0.4523 | grad 0.0000 }" shape=record]
+	"139674145717792+" [label="+"]
+	"139674145717792+" -> 139674145717792
+	139674145685024 [label="{ ADD_RESULT | data -0.3679 | grad 0.0000 }" shape=record]
+	"139674145685024+" [label="+"]
+	"139674145685024+" -> 139674145685024
+	139674133790288 [label="{ ADD_RESULT | data 0.2540 | grad 0.0000 }" shape=record]
+	"139674133790288+" [label="+"]
+	"139674133790288+" -> 139674133790288
+	139674145586816 [label="{ ADD_RESULT | data -2.1687 | grad 0.0000 }" shape=record]
+	"139674145586816+" [label="+"]
+	"139674145586816+" -> 139674145586816
+	139674145717984 [label="{ ADD_RESULT | data 0.4523 | grad 0.0000 }" shape=record]
+	"139674145717984+" [label="+"]
+	"139674145717984+" -> 139674145717984
+	139674145685216 [label="{ ADD_RESULT | data -0.0536 | grad 0.0000 }" shape=record]
+	"139674145685216+" [label="+"]
+	"139674145685216+" -> 139674145685216
+	139674133790480 [label="{ ADD_RESULT | data 0.2540 | grad 0.0000 }" shape=record]
+	"139674133790480+" [label="+"]
+	"139674133790480+" -> 139674133790480
+	139674145587008 [label="{ ADD_RESULT | data -2.5186 | grad 0.0000 }" shape=record]
+	"139674145587008+" [label="+"]
+	"139674145587008+" -> 139674145587008
+	139674145685408 [label="{ ADD_RESULT | data -0.0536 | grad 0.0000 }" shape=record]
+	"139674145685408+" [label="+"]
+	"139674145685408+" -> 139674145685408
+	139674133790672 [label="{ ADD_RESULT | data 0.2764 | grad 0.0000 }" shape=record]
+	"139674133790672+" [label="+"]
+	"139674133790672+" -> 139674133790672
+	139674212816544 -> "139674145516512*"
+	139674133780608 -> "139674133780800+"
+	139674212623264 -> "139674133916688*"
+	139674133782144 -> "139674133782240ReLU"
+	139674193811680 -> "139674145584752*"
+	139674184792096 -> "139674133734112*"
+	139674145471408 -> "139674145468576+"
+	139674212695440 -> "139674133868656*"
+	139674193746432 -> "139674145668928*"
+	139674145716880 -> "139674145599152+"
+	139674133818528 -> "139674133818624ReLU"
+	139674212624080 -> "139674212624176ReLU"
+	139674212667792 -> "139674133717488*"
+	139674212625088 -> "139674145692256*"
+	139674145583792 -> "139674145586816+"
+	139674145561040 -> "139674145597808*"
+	139674184790464 -> "139674212625712+"
+	139674145561520 -> "139674145585088+"
+	139674212622832 -> "139674212623168+"
+	139674133719696 -> "139674133719984ReLU"
+	139674185051824 -> "139674212622976+"
+	139674193746912 -> "139674145714576*"
+	139674184793968 -> "139674133807936*"
+	139674212670528 -> "139674133916304*"
+	139674212667792 -> "139674133871968*"
+	139674145571936 -> "139674145499216+"
+	139674193811392 -> "139674145583600*"
+	139674145499216 -> "139674145499408+"
+	139674133824080 -> "139674133827104+"
+	139674212818368 -> "139674133865904*"
+	139674193809664 -> "139674133823888*"
+	139674193746144 -> "139674145667776*"
+	139674133749920 -> "139674133752944+"
+	139674145587008 -> "139674145572416+"
+	139674145692640 -> "139674145560560+"
+	139674193745472 -> "139674145577808*"
+	139674133751456 -> "139674133718928+"
+	139674145657808 -> "139674145660832+"
+	139674133916688 -> "139674133817376+"
+	139674212817456 -> "139674145601376*"
+	139674133718160 -> "139674133781376+"
+	139674212670528 -> "139674133807312*"
+	139674145596128 -> "139674145599152+"
+	139674212669616 -> "139674145668160*"
+	139674212671008 -> "139674212671344+"
+	139674133789712 -> "139674133789904+"
+	139674193812064 -> "139674145572608*"
+	139674184979792 -> "139674133916880*"
+	139674145560176 -> "139674145560368+"
+	139674184792720 -> "139674133866864*"
+	139674193812592 -> "139674145573136*"
+	139674212625088 -> "139674133751456*"
+	139674193744512 -> "139674145602528*"
+	139674212667792 -> "139674133915728*"
+	139674193812496 -> "139674145574816*"
+	139674145684832 -> "139674145685024+"
+	139674184981184 -> "139674133720128*"
+	139674212626000 -> "139674145470304*"
+	139674145691680 -> "139674145559600+"
+	139674212815632 -> "139674133865328*"
+	139674184981904 -> "139674133787456*"
+	139674145472464 -> "139674145469680+"
+	139674212671440 -> "139674145577616*"
+	139674212669616 -> "139674145691296*"
+	139674145717600 -> "139674145717792+"
+	139674193811056 -> "139674145561712*"
+	139674184980128 -> "139674133917456*"
+	139674133694592 -> "139674133694784+"
+	139674145666720 -> "139674145682192*"
+	139674212816544 -> "139674133695744*"
+	139674212695440 -> "139674212623744*"
+	139674184978976 -> "139674133788032*"
+	139674212625568 -> "139674212625904+"
+	139674185051344 -> "139674212670240+"
+	139674133866480 -> "139674133693440+"
+	139674184791712 -> "139674133872352*"
+	139674212671440 -> "139674145715920*"
+	139674133718736 -> "139674133718928+"
+	139674145515264 -> "139674145515456+"
+	139674145575264 -> "139674145578720+"
+	139674145667968 -> "139674145471648+"
+	139674145513872 -> "139674145517328+"
+	139674133778736 -> "139674133781760+"
+	139674184792192 -> "139674133734256+"
+	139674184978688 -> "139674133786880*"
+	139674133720320 -> "139674133779840+"
+	139674212817456 -> "139674133819296*"
+	139674133870912 -> "139674145575312*"
+	139674193810144 -> "139674145690528*"
+	139674193745568 -> "139674145578192*"
+	139674184980752 -> "139674133751456*"
+	139674133734256 -> "139674133737280+"
+	139674145574144 -> "139674145573088+"
+	139674184793200 -> "139674133695552*"
+	139674145561328 -> "139674145584896+"
+	139674133826720 -> "139674133826912+"
+	139674133869088 -> "139674145692640*"
+	139674212624176 -> "139674133788608*"
+	139674193747488 -> "139674145716880*"
+	139674145659104 -> "139674145659296+"
+	139674212624176 -> "139674145658000*"
+	139674133865520 -> "139674133692480+"
+	139674145562096 -> "139674145585664+"
+	139674184792816 -> "139674133867248*"
+	139674145715536 -> "139674145598336+"
+	139674185049616 -> "139674212815200*"
+	139674193813072 -> "139674145657232*"
+	139674145517136 -> "139674145513872+"
+	139674145516032 -> "139674145515936ReLU"
+	139674193810624 -> "139674145692448*"
+	139674133780224 -> "139674133780416+"
+	139674133717104 -> "139674133779264+"
+	139674212668704 -> "139674145715344*"
+	139674133929360 -> "139674133825952+"
+	139674184979504 -> "139674133915344*"
+	139674133750496 -> "139674133753520+"
+	139674212670816 -> "139674212671152+"
+	139674193811824 -> "139674145573520*"
+	139674145599840 -> "139674145600032+"
+	139674193744800 -> "139674145516704*"
+	139674133917264 -> "139674133817952+"
+	139674184982144 -> "139674133789184*"
+	139674212671440 -> "139674145602528*"
+	139674145583408 -> "139674145586432+"
+	139674193745760 -> "139674145575312*"
+	139674145689760 -> "139674145689856ReLU"
+	139674145690336 -> "139674145693360+"
+	139674133808704 -> "139674133808896+"
+	139674185050624 -> "139674212667504+"
+	139674212695440 -> "139674212671008*"
+	139674212695536 -> "139674212669904*"
+	139674145498832 -> "139674145499024+"
+	139674145573040 -> "139674145598000*"
+	139674133779264 -> "139674133779456+"
+	139674212816448 -> "139674212816544ReLU"
+	139674145573808 -> "139674145499792+"
+	139674212818368 -> "139674133787264*"
+	139674212815200 -> "139674212815536+"
+	139674133734784 -> "139674133734976+"
+	139674133870912 -> "139674145658960*"
+	139674133871584 -> "139674133734448+"
+	139674184980848 -> "139674133751840*"
+	139674145692256 -> "139674145560176+"
+	139674133815648 -> "139674133815840+"
+	139674212625376 -> "139674212625712+"
+	139674133751072 -> "139674133718544+"
+	139674133916304 -> "139674133816992+"
+	139674184978928 -> "139674133788608*"
+	139674145658960 -> "139674145600608+"
+	139674212625088 -> "139674145583984*"
+	139674193747584 -> "139674145717264*"
+	139674145516416 -> "139674145575264+"
+	139674145575120 -> "139674145666240+"
+	139674212815632 -> "139674145516416*"
+	139674193811728 -> "139674145584896+"
+	139674212668704 -> "139674145601952*"
+	139674145559792 -> "139674145559984+"
+	139674193809568 -> "139674133929936*"
+	139674145684448 -> "139674145684640+"
+	139674212625088 -> "139674133810912*"
+	139674145681808 -> "139674145684832+"
+	139674185051200 -> "139674212669904*"
+	139674212816544 -> "139674133720128*"
+	139674133809856 -> "139674133810048+"
+	139674212815632 -> "139674133786688*"
+	139674193811968 -> "139674145572704*"
+	139674133695552 -> "139674133808512+"
+	139674133737136 -> "139674133864944+"
+	139674133866096 -> "139674133693056+"
+	139674133872160 -> "139674133734976+"
+	139674212667792 -> "139674133696320*"
+	139674133867440 -> "139674133694400+"
+	139674133718352 -> "139674133718544+"
+	139674133825568 -> "139674133825760+"
+	139674145514880 -> "139674145515072+"
+	139674193745328 -> "139674145577232*"
+	139674212625088 -> "139674133917072*"
+	139674193744464 -> "139674145602336*"
+	139674193846816 -> "139674145596656*"
+	139674184794016 -> "139674133808512+"
+	139674133868208 -> "139674133695168+"
+	139674133826336 -> "139674133826528+"
+	139674145597616 -> "139674145684064+"
+	139674184982384 -> "139674133928784*"
+	139674193745088 -> "139674145516512*"
+	139674193850080 -> "139674145597232*"
+	139674133870000 -> "139674133734112*"
+	139674145561712 -> "139674145585280+"
+	139674184979312 -> "139674133929360*"
+	139674193810384 -> "139674145691488*"
+	139674212624176 -> "139674145668928*"
+	139674193813456 -> "139674145658768*"
+	139674193746960 -> "139674145714768*"
+	139674212816544 -> "139674145714576*"
+	139674193811440 -> "139674145583792*"
+	139674145577616 -> "139674145665280+"
+	139674133779840 -> "139674133780032+"
+	139674193809712 -> "139674133824080*"
+	139674145516848 -> "139674145516032+"
+	139674133928976 -> "139674133825568+"
+	139674133810912 -> "139674133913808+"
+	139674133750112 -> "139674133753136+"
+	139674133927920 -> "139674145597424*"
+	139674133816224 -> "139674133816416+"
+	139674133869088 -> "139674145584368*"
+	139674184793056 -> "139674133868208*"
+	139674145578384 -> "139674145666048+"
+	139674133733920 -> "139674133736320+"
+	139674145584752 -> "139674145574336+"
+	139674133719504 -> "139674133719696+"
+	139674145717072 -> "139674145596320+"
+	139674193812256 -> "139674145574528*"
+	139674133870816 -> "139674133870912ReLU"
+	139674212624176 -> "139674145692064*"
+	139674133869568 -> "139674133869904+"
+	139674145560944 -> "139674145561040ReLU"
+	139674145498448 -> "139674145498640+"
+	139674184982240 -> "139674133788800*"
+	139674212815536 -> "139674212815632ReLU"
+	139674184791040 -> "139674133870288*"
+	139674212817456 -> "139674133865712*"
+	139674193813024 -> "139674145657040*"
+	139674212670528 -> "139674133720704*"
+	139674193812640 -> "139674145573904+"
+	139674212626000 -> "139674145716688*"
+	139674212671440 -> "139674133733488*"
+	139674145691872 -> "139674145559792+"
+	139674212670240 -> "139674212670432+"
+	139674133926096 -> "139674133926288+"
+	139674145577040 -> "139674145575840+"
+	139674184981952 -> "139674133787648*"
+	139674145717792 -> "139674145717984+"
+	139674145470256 -> "139674145472224+"
+	139674145715152 -> "139674145718176+"
+	139674145658576 -> "139674145600224+"
+	139674145576032 -> "139674145665088+"
+	139674212816544 -> "139674145601184*"
+	139674145598768 -> "139674145595936+"
+	139674145470496 -> "139674145472464+"
+	139674212695440 -> "139674212817936*"
+	139674212695536 -> "139674212816832*"
+	139674185049904 -> "139674212816256+"
+	139674184791760 -> "139674133872544*"
+	139674133790288 -> "139674133790480+"
+	139674145666432 -> "139674145666624+"
+	139674133869088 -> "139674133917456*"
+	139674133787648 -> "139674133790672+"
+	139674184790656 -> "139674133868656*"
+	139674133868016 -> "139674133694976+"
+	139674145603104 -> "139674145515264+"
+	139674193809808 -> "139674133824464*"
+	139674133870000 -> "139674145470688*"
+	139674133809472 -> "139674133809664+"
+	139674212818368 -> "139674145690720*"
+	139674133810624 -> "139674133809472+"
+	139674212624800 -> "139674212624992+"
+	139674145716496 -> "139674145598960+"
+	139674133695264 -> "139674145599440*"
+	139674133718064 -> "139674133781184+"
+	139674193745616 -> "139674145578384*"
+	139674212818368 -> "139674145571312*"
+	139674184980800 -> "139674133751648*"
+	139674212623264 -> "139674145716112*"
+	139674212670528 -> "139674145577424*"
+	139674133752752 -> "139674133752944+"
+	139674212695440 -> "139674133869568*"
+	139674193745904 -> "139674145667008*"
+	139674145693024 -> "139674145560944+"
+	139674193746384 -> "139674145668736*"
+	139674212818272 -> "139674212818368ReLU"
+	139674145665472 -> "139674145665664+"
+	139674212626000 -> "139674145603296*"
+	139674145660640 -> "139674145660832+"
+	139674133720704 -> "139674133780608+"
+	139674193744224 -> "139674145601376*"
+	139674133867056 -> "139674133694016+"
+	139674212817024 -> "139674212817360+"
+	139674145585664 -> "139674145585856+"
+	139674145571408 -> "139674145497296+"
+	139674193812976 -> "139674145501136*"
+	139674145574816 -> "139674145499600+"
+	139674212670528 -> "139674145715728*"
+	139674145578192 -> "139674145665856+"
+	139674184981760 -> "139674133779264+"
+	139674193743936 -> "139674145658960*"
+	139674145597232 -> "139674145683680+"
+	139674212816544 -> "139674133819104*"
+	139674133781760 -> "139674133781952+"
+	139674193812352 -> "139674145572800*"
+	139674145573664 -> "139674145498832+"
+	139674133736320 -> "139674133864560+"
+	139674145472032 -> "139674145469200+"
+	139674212815632 -> "139674145690144*"
+	139674133827296 -> "139674133827488+"
+	139674133694016 -> "139674133694208+"
+	139674212667792 -> "139674145572608*"
+	139674212818368 -> "139674133749920*"
+	139674212667792 -> "139674145576848*"
+	139674145659680 -> "139674145659872+"
+	139674133787840 -> "139674133926096+"
+	139674133717488 -> "139674133780032+"
+	139674145668928 -> "139674145469200+"
+	139674212623264 -> "139674145602720*"
+	139674133928592 -> "139674133825184+"
+	139674145714960 -> "139674145717984+"
+	139674212670528 -> "139674145570928*"
+	139674193745280 -> "139674145577040*"
+	139674184793728 -> "139674133808080*"
+	139674133780800 -> "139674133780992+"
+	139674133864752 -> "139674133864944+"
+	139674212667792 -> "139674145715152*"
+	139674184793392 -> "139674133696128*"
+	139674133815840 -> "139674133816032+"
+	139674133926672 -> "139674133926864+"
+	139674133869904 -> "139674133870000ReLU"
+	139674193846768 -> "139674145597040*"
+	139674184790416 -> "139674212625568*"
+	139674133868656 -> "139674133868992+"
+	139674145693552 -> "139674145558640+"
+	139674133817184 -> "139674133817376+"
+	139674185051776 -> "139674212622832*"
+	139674193811008 -> "139674145561520*"
+	139674212695440 -> "139674212624656*"
+	139674212695536 -> "139674212623552*"
+	139674185050144 -> "139674212817168+"
+	139674184979600 -> "139674133916112*"
+	139674184792528 -> "139674133866096*"
+	139674184791808 -> "139674133733488*"
+	139674145693360 -> "139674145693552+"
+	139674193744320 -> "139674145601760*"
+	139674184790896 -> "139674133869568*"
+	139674145572704 -> "139674145497488+"
+	139674212670528 -> "139674133750688*"
+	139674212623264 -> "139674145573664*"
+	139674212669328 -> "139674212669520+"
+	139674212817456 -> "139674133787072*"
+	139674184979936 -> "139674133916688*"
+	139674133735360 -> "139674133735552+"
+	139674184790080 -> "139674212624464*"
+	139674212624176 -> "139674133718064*"
+	139674184981088 -> "139674133752032*"
+	139674184791520 -> "139674133871584*"
+	139674212624176 -> "139674145583792*"
+	139674133914000 -> "139674133914192+"
+	139674184982048 -> "139674133787264*"
+	139674184978544 -> "139674133778736*"
+	139674145666048 -> "139674145666240+"
+	139674212667792 -> "139674145601760*"
+	139674133787264 -> "139674133790288+"
+	139674133867632 -> "139674133694592+"
+	139674145602720 -> "139674145514880+"
+	139674133825760 -> "139674133825952+"
+	139674212817456 -> "139674145572704*"
+	139674133692480 -> "139674133692672+"
+	139674212623888 -> "139674212624080+"
+	139674145584560 -> "139674145573088+"
+	139674193745376 -> "139674145577424*"
+	139674212818368 -> "139674145500944*"
+	139674145682384 -> "139674145685408+"
+	139674212667792 -> "139674133750112*"
+	139674193747296 -> "139674145716112*"
+	139674212625088 -> "139674145470256*"
+	139674185051296 -> "139674212670096*"
+	139674133752368 -> "139674133752560+"
+	139674212669616 -> "139674133787840*"
+	139674133696128 -> "139674133809088+"
+	139674145573232 -> "139674145498064+"
+	139674184792624 -> "139674133866480*"
+	139674133870912 -> "139674133815504*"
+	139674145660256 -> "139674145660448+"
+	139674193812160 -> "139674145571792*"
+	139674184981664 -> "139674133720704*"
+	139674193810432 -> "139674145691680*"
+	139674184981376 -> "139674133720512*"
+	139674212695536 -> "139674212670816*"
+	139674145559216 -> "139674145559408+"
+	139674184979168 -> "139674133789568*"
+	139674193850272 -> "139674145682384*"
+	139674133871200 -> "139674133734256+"
+	139674133718928 -> "139674133719120+"
+	139674193809760 -> "139674133824272*"
+	139674145683872 -> "139674145684064+"
+	139674212624176 -> "139674133916880*"
+	139674212626000 -> "139674133778544*"
+	139674145596848 -> "139674145683296+"
+	139674133781376 -> "139674133781568+"
+	139674145471648 -> "139674145468816+"
+	139674185050960 -> "139674212668992*"
+	139674212818368 -> "139674133871776*"
+	139674133693632 -> "139674133693824+"
+	139674133817760 -> "139674133817952+"
+	139674133788800 -> "139674133927056+"
+	139674145718176 -> "139674145598144+"
+	139674145500560 -> "139674145659296+"
+	139674145714576 -> "139674145717600+"
+	139674145658000 -> "139674145599648+"
+	139674145514304 -> "139674145514496+"
+	139674133735936 -> "139674133736128+"
+	139674193747392 -> "139674145716496*"
+	139674133692672 -> "139674133692864+"
+	139674133816800 -> "139674133816992+"
+	139674145601568 -> "139674145513872+"
+	139674212625088 -> "139674145578192*"
+	139674212668704 -> "139674145573232*"
+	139674212818368 -> "139674133915536*"
+	139674212815632 -> "139674133871200*"
+	139674212668416 -> "139674212668608+"
+	139674212815632 -> "139674133928208*"
+	139674193810528 -> "139674145692064*"
+	139674184982480 -> "139674133915728*"
+	139674133807936 -> "139674133914576+"
+	139674212670528 -> "139674133929552*"
+	139674184793488 -> "139674133810624*"
+	139674212625088 -> "139674145716496*"
+	139674145578912 -> "139674145575648+"
+	139674193850176 -> "139674145682720+"
+	139674133753712 -> "139674133718352+"
+	139674212817456 -> "139674145667392*"
+	139674193746624 -> "139674145470688*"
+	139674145514064 -> "139674145514304+"
+	139674145657424 -> "139674145660448+"
+	139674145585088 -> "139674145585280+"
+	139674133870912 -> "139674133824656*"
+	139674212668704 -> "139674145657040*"
+	139674145595744 -> "139674145598768+"
+	139674212668704 -> "139674145562288*"
+	139674133870912 -> "139674145516848*"
+	139674145665664 -> "139674145665856+"
+	139674133927440 -> "139674133927632+"
+	139674212622976 -> "139674212623168+"
+	139674184981424 -> "139674133717680*"
+	139674145602336 -> "139674145514496+"
+	139674145497872 -> "139674145498064+"
+	139674193744272 -> "139674145601568*"
+	139674212815632 -> "139674133914960*"
+	139674212667792 -> "139674133928976*"
+	139674133870912 -> "139674133868208*"
+	139674145469200 -> "139674145472224+"
+	139674212817456 -> "139674145690528*"
+	139674145691296 -> "139674145559216+"
+	139674145570928 -> "139674145498448+"
+	139674212626000 -> "139674133867632*"
+	139674185052064 -> "139674212623888+"
+	139674212816256 -> "139674212816448+"
+	139674133695744 -> "139674133808704+"
+	139674212669616 -> "139674145577232*"
+	139674193812304 -> "139674145573664*"
+	139674193813264 -> "139674145658000*"
+	139674184791184 -> "139674133870624+"
+	139674133753328 -> "139674133753520+"
+	139674193809472 -> "139674133929552*"
+	139674212669616 -> "139674133717680*"
+	139674212625088 -> "139674145603104*"
+	139674145558832 -> "139674145559024+"
+	139674145668352 -> "139674145471840+"
+	139674184979456 -> "139674133915152*"
+	139674133789376 -> "139674133927632+"
+	139674145586240 -> "139674145586432+"
+	139674145501136 -> "139674145659872+"
+	139674193846960 -> "139674145682000*"
+	139674145683488 -> "139674145683680+"
+	139674184792144 -> "139674133737136*"
+	139674184979120 -> "139674133928208*"
+	139674193747632 -> "139674145717408+"
+	139674184793440 -> "139674133696320*"
+	139674212818368 -> "139674133720320*"
+	139674145597808 -> "139674145684256+"
+	139674133693248 -> "139674133693440+"
+	139674185050576 -> "139674212818848*"
+	139674133817376 -> "139674133817568+"
+	139674212623264 -> "139674133867056*"
+	139674184979648 -> "139674133916304*"
+	139674212671440 -> "139674145574528*"
+	139674184792576 -> "139674133866288*"
+	139674212695536 -> "139674212622640*"
+	139674184791856 -> "139674133736560*"
+	139674212695440 -> "139674212818848*"
+	139674212695536 -> "139674212817744*"
+	139674133788416 -> "139674133926672+"
+	139674193744368 -> "139674145601952*"
+	139674133869088 -> "139674145716880*"
+	139674145573088 -> "139674145574336+"
+	139674212625088 -> "139674133718160*"
+	139674145574336 -> "139674145573040ReLU"
+	139674212669904 -> "139674212670240+"
+	139674133719984 -> "139674145597040*"
+	139674133807312 -> "139674133809856+"
+	139674133816416 -> "139674133816608+"
+	139674185050240 -> "139674212817744*"
+	139674145470880 -> "139674145469872+"
+	139674133927248 -> "139674133927440+"
+	139674212671440 -> "139674145668544*"
+	139674145602144 -> "139674145514304+"
+	139674212668608 -> "139674212668704ReLU"
+	139674184791568 -> "139674133871776*"
+	139674212695440 -> "139674133870480*"
+	139674212695536 -> "139674133869376*"
+	139674212626000 -> "139674145571072*"
+	139674133819104 -> "139674133752560+"
+	139674145599344 -> "139674145599248ReLU"
+	139674145689856 -> "139674145597616*"
+	139674145499984 -> "139674145500080ReLU"
+	139674212669616 -> "139674133750496*"
+	139674133915152 -> "139674133815840+"
+	139674193812928 -> "139674145500944*"
+	139674184792960 -> "139674133867824*"
+	139674193745424 -> "139674145577616*"
+	139674184980608 -> "139674133750880*"
+	139674212624464 -> "139674212624800+"
+	139674193810768 -> "139674145693024*"
+	139674193747344 -> "139674145716304*"
+	139674145657040 -> "139674145660064+"
+	139674212816544 -> "139674145561520*"
+	139674133915920 -> "139674133816608+"
+	139674212818368 -> "139674133696128*"
+	139674193746192 -> "139674145667968*"
+	139674185049856 -> "139674212816112*"
+	139674212623168 -> "139674212623264ReLU"
+	139674212624176 -> "139674133808080*"
+	139674184981328 -> "139674133717488*"
+	139674133752032 -> "139674133719504+"
+	139674145667200 -> "139674145471408+"
+	139674145668544 -> "139674145469008+"
+	139674212668704 -> "139674145667968*"
+	139674145497488 -> "139674145497680+"
+	139674145559408 -> "139674145559600+"
+	139674193810480 -> "139674145691872*"
+	139674133870624 -> "139674133870816+"
+	139674193812112 -> "139674145573232*"
+	139674133869088 -> "139674133751840*"
+	139674145586816 -> "139674145587008+"
+	139674133823696 -> "139674133826720+"
+	139674145560752 -> "139674145560944+"
+	139674212671440 -> "139674133810768*"
+	139674212818368 -> "139674145576512*"
+	139674212817456 -> "139674145500752*"
+	139674145468816 -> "139674145471840+"
+	139674145690912 -> "139674145558832+"
+	139674212815344 -> "139674212815536+"
+	139674133870912 -> "139674133789568*"
+	139674145499600 -> "139674145499792+"
+	139674185049520 -> "139674212815008*"
+	139674212626000 -> "139674145658384*"
+	139674145682576 -> "139674145546400+"
+	139674133752944 -> "139674133753136+"
+	139674212626000 -> "139674133733920*"
+	139674212695440 -> "139674212625568*"
+	139674212695536 -> "139674212624464*"
+	139674212815632 -> "139674133695552*"
+	139674184791904 -> "139674133733728*"
+	139674145575648 -> "139674145575840+"
+	139674133788992 -> "139674133927248+"
+	139674184981712 -> "139674133779120*"
+	139674145500752 -> "139674145659488+"
+	139674145683104 -> "139674145683296+"
+	139674133825184 -> "139674133825376+"
+	139674145514496 -> "139674145514688+"
+	139674133870000 -> "139674133778928*"
+	139674185050480 -> "139674212818656*"
+	139674145515840 -> "139674145516032+"
+	139674212816544 -> "139674145571408*"
+	139674133807456 -> "139674133810240+"
+	139674212817456 -> "139674133871584*"
+	139674133694208 -> "139674133694400+"
+	139674193850032 -> "139674145597808*"
+	139674184790704 -> "139674133868800+"
+	139674145685216 -> "139674145685408+"
+	139674133782240 -> "139674145597232*"
+	139674184791472 -> "139674133871392*"
+	139674193744752 -> "139674145603488*"
+	139674212623264 -> "139674133788416*"
+	139674212623264 -> "139674145657808*"
+	139674184978496 -> "139674133778544*"
+	139674212668992 -> "139674212669328+"
+	139674184979744 -> "139674133915920*"
+	139674133915728 -> "139674133816416+"
+	139674133926864 -> "139674133927056+"
+	139674193746672 -> "139674145470880*"
+	139674133870912 -> "139674133807936*"
+	139674193849888 -> "139674145682192*"
+	139674212624176 -> "139674145578000*"
+	139674145583984 -> "139674145587008+"
+	139674145469968 -> "139674145682384*"
+	139674212669616 -> "139674133872352*"
+	139674212669616 -> "139674133929360*"
+	139674145667584 -> "139674145471456+"
+	139674212623552 -> "139674212623888+"
+	139674185052016 -> "139674212623744*"
+	139674193747104 -> "139674145715344*"
+	139674133824272 -> "139674133827296+"
+	139674193811584 -> "139674145584368*"
+	139674185051104 -> "139674212669328+"
+	139674145691488 -> "139674145559408+"
+	139674212624176 -> "139674145716304*"
+	139674185049760 -> "139674212815920*"
+	139674184978784 -> "139674133786688*"
+	139674193746336 -> "139674145668544*"
+	139674145660832 -> "139674145599648+"
+	139674212816544 -> "139674145667200*"
+	139674133751648 -> "139674133719120+"
+	139674133916880 -> "139674133817568+"
+	139674133870000 -> "139674133824464*"
+	139674193810240 -> "139674145690912*"
+	139674184978592 -> "139674133718160*"
+	139674193813312 -> "139674145658192*"
+	139674145596320 -> "139674145599344+"
+	139674212667792 -> "139674145562096*"
+	139674133869712 -> "139674133869904+"
+	139674133789904 -> "139674133790096+"
+	139674145586432 -> "139674145586624+"
+	139674133807216 -> "139674133913808+"
+	139674193810912 -> "139674145561328*"
+	139674145560368 -> "139674145560560+"
+	139674212669616 -> "139674133916112*"
+	139674184979984 -> "139674133917648*"
+	139674133790672 -> "139674133926096+"
+	139674184792912 -> "139674133867632*"
+	139674133809088 -> "139674133809280+"
+	139674133870000 -> "139674133868016*"
+	139674145599248 -> "139674145682576*"
+	139674145601184 -> "139674145513680+"
+	139674133694784 -> "139674133694976+"
+	139674193744896 -> "139674145516608+"
+	139674193810816 -> "139674145693168+"
+	139674212816112 -> "139674212816448+"
+	139674212818368 -> "139674145714960*"
+	139674145601376 -> "139674145517136+"
+	139674212695440 -> "139674212668272*"
+	139674193810000 -> "139674145690144*"
+	139674133866672 -> "139674133693632+"
+	139674133824800 -> "139674133824992+"
+	139674184793680 -> "139674133807456*"
+	139674193747200 -> "139674145715728*"
+	139674145684064 -> "139674145684256+"
+	139674145515456 -> "139674145515648+"
+	139674212624176 -> "139674133751264*"
+	139674145575456 -> "139674145578912+"
+	139674133778928 -> "139674133781952+"
+	139674133870912 -> "139674145693024*"
+	139674133810768 -> "139674133810048+"
+	139674133810240 -> "139674133807216+"
+	139674133826912 -> "139674133827104+"
+	139674212626000 -> "139674145692448*"
+	139674193746576 -> "139674145470496*"
+	139674133817952 -> "139674133818144+"
+	139674193810336 -> "139674145691296*"
+	139674193813408 -> "139674145658576*"
+	139674145659296 -> "139674145659488+"
+	139674212668080 -> "139674212668416+"
+	139674145573520 -> "139674145573904+"
+	139674133865712 -> "139674133692672+"
+	139674145667776 -> "139674145468624+"
+	139674145562288 -> "139674145585856+"
+	139674133819296 -> "139674133752752+"
+	139674212815632 -> "139674133717104*"
+	139674212623264 -> "139674145668736*"
+	139674133928208 -> "139674133824800+"
+	139674212815632 -> "139674145714384*"
+	139674184793008 -> "139674133868016*"
+	139674184980656 -> "139674133751072*"
+	139674145517328 -> "139674145514064+"
+	139674133780416 -> "139674133780608+"
+	139674133929552 -> "139674133826144+"
+	139674133750688 -> "139674133753712+"
+	139674212818656 -> "139674212667504+"
+	139674212818368 -> "139674145601568*"
+	139674133825952 -> "139674133826144+"
+	139674133927824 -> "139674133927920ReLU"
+	139674193746240 -> "139674145668160*"
+	139674145600032 -> "139674145600224+"
+	139674133752224 -> "139674133719696+"
+	139674212623264 -> "139674133807456*"
+	139674133917456 -> "139674133818144+"
+	139674145583600 -> "139674145586624+"
+	139674145690528 -> "139674145693552+"
+	139674212623264 -> "139674145691872*"
+	139674133736944 -> "139674133864560+"
+	139674133870912 -> "139674133752224*"
+	139674133808896 -> "139674133809088+"
+	139674145499024 -> "139674145499216+"
+	139674133734448 -> "139674133734640+"
+	139674133779456 -> "139674133779648+"
+	139674184979888 -> "139674133917264*"
+	139674133734976 -> "139674133735168+"
+	139674212671440 -> "139674133866864*"
+	139674133871776 -> "139674133734640+"
+	139674145692448 -> "139674145560368+"
+	139674212815920 -> "139674212816256+"
+	139674133914672 -> "139674145596656*"
+	139674133751264 -> "139674133718736+"
+	139674212817456 -> "139674133695936*"
+	139674133916496 -> "139674133817184+"
+	139674133868800 -> "139674133868992+"
+	139674145595936 -> "139674145598960+"
+	139674212815632 -> "139674145600992*"
+	139674212670528 -> "139674145602336*"
+	139674212667792 -> "139674145667776*"
+	139674212695536 -> "139674212818656*"
+	139674145576320 -> "139674145575456+"
+	139674145559984 -> "139674145560176+"
+	139674133825376 -> "139674133825568+"
+	139674145684640 -> "139674145684832+"
+	139674212816544 -> "139674145500560*"
+	139674185050384 -> "139674212818080+"
+	139674133869088 -> "139674145470496*"
+	139674145682000 -> "139674145685024+"
+	139674133870480 -> "139674133870816+"
+	139674145716688 -> "139674145596128+"
+	139674133870000 -> "139674133789376*"
+	139674133810048 -> "139674133810240+"
+	139674184791136 -> "139674133870480*"
+	139674133870000 -> "139674145658768*"
+	139674145717408 -> "139674145717600+"
+	139674184792384 -> "139674133865520*"
+	139674145576512 -> "139674145578912+"
+	139674212668704 -> "139674133866288*"
+	139674193744176 -> "139674145601184*"
+	139674133870912 -> "139674145573136*"
+	139674212695536 -> "139674133870288*"
+	139674133733728 -> "139674133735936+"
+	139674193809904 -> "139674133824800+"
+	139674133866288 -> "139674133693248+"
+	139674133872352 -> "139674133735168+"
+	139674145717264 -> "139674145599344+"
+	139674145599152 -> "139674145596320+"
+	139674133718544 -> "139674133718736+"
+	139674145515072 -> "139674145515264+"
+	139674193849936 -> "139674145597424*"
+	139674145513680 -> "139674145517136+"
+	139674184790800 -> "139674133869376*"
+	139674145600704 -> "139674145681808*"
+	139674145668160 -> "139674145468816+"
+	139674145572608 -> "139674145497872+"
+	139674193746816 -> "139674145714384*"
+	139674133826528 -> "139674133826720+"
+	139674145515936 -> "139674145682000*"
+	139674145561904 -> "139674145585472+"
+	139674212695440 -> "139674212815200*"
+	139674193745232 -> "139674145576848*"
+	139674184980416 -> "139674133750112*"
+	139674212671440 -> "139674133717872*"
+	139674145685408 -> "139674145546400+"
+	139674193745712 -> "139674145578576*"
+	139674184793344 -> "139674133695936*"
+	139674185051536 -> "139674212671008*"
+	139674145571312 -> "139674145497680+"
+	139674212671344 -> "139674212671440ReLU"
+	139674193846720 -> "139674145596848*"
+	139674193747152 -> "139674145715536*"
+	139674145577808 -> "139674145665472+"
+	139674133780032 -> "139674133780224+"
+	139674184982288 -> "139674133928400*"
+	139674193811632 -> "139674145584560*"
+	139674212670096 -> "139674212670432+"
+	139674145572800 -> "139674145499024+"
+	139674193746000 -> "139674145667200*"
+	139674133929168 -> "139674133825760+"
+	139674185049664 -> "139674212815344+"
+	139674133750304 -> "139674133753328+"
+	139674133870912 -> "139674145584752*"
+	139674184792480 -> "139674133865904*"
+	139674145599648 -> "139674145599840+"
+	139674212626000 -> "139674145584176*"
+	139674133786688 -> "139674133789712+"
+	139674145471216 -> "139674145471408+"
+	139674145583216 -> "139674145586240+"
+	139674193810288 -> "139674145691104*"
+	139674184980080 -> "139674133815648+"
+	139674212818368 -> "139674133928784*"
+	139674193813360 -> "139674145658384*"
+	139674145690144 -> "139674145693168+"
+	139674212695536 -> "139674212625376*"
+	139674133808512 -> "139674133808704+"
+	139674145498640 -> "139674145498832+"
+	139674193809616 -> "139674133823696*"
+	139674133870288 -> "139674133870624+"
+	139674184980992 -> "139674133752368+"
+	139674184793632 -> "139674133810768*"
+	139674212625904 -> "139674212626000ReLU"
+	139674133720512 -> "139674133780224+"
+	139674212815008 -> "139674212815344+"
+	139674212624656 -> "139674212624992+"
+	139674184980272 -> "139674133819104*"
+	139674133868992 -> "139674133869088ReLU"
+	139674145692064 -> "139674145559984+"
+	139674212671440 -> "139674133788224*"
+	139674133926288 -> "139674133926480+"
+	139674145577232 -> "139674145576032+"
+	139674145598336 -> "139674145598576+"
+	139674212671440 -> "139674145657616*"
+	139674145717984 -> "139674145718176+"
+	139674145658768 -> "139674145600416+"
+	139674145598960 -> "139674145596128+"
+	139674184793824 -> "139674133808272*"
+	139674212623264 -> "139674145583600*"
+	139674193846912 -> "139674145681808*"
+	139674212623264 -> "139674133736560*"
+	139674212818080 -> "139674212818272+"
+	139674184979264 -> "139674133928976*"
+	139674185051920 -> "139674212623552*"
+	139674133790480 -> "139674133790672+"
+	139674133717296 -> "139674133779648+"
+	139674193747248 -> "139674145715920*"
+	139674145603296 -> "139674145515456+"
+	139674145681616 -> "139674145684640+"
+	139674212816544 -> "139674133865520*"
+	139674133809664 -> "139674133809856+"
+	139674212669616 -> "139674145571792*"
+	139674133734640 -> "139674133734784+"
+	139674193744560 -> "139674145602720*"
+	139674193812400 -> "139674145571936*"
+	139674212668704 -> "139674133787648*"
+	139674133871968 -> "139674133734784+"
+	139674212625088 -> "139674133736752*"
+	139674193811104 -> "139674145561904*"
+	139674212626000 -> "139674133824080*"
+	139674133867248 -> "139674133694208+"
+	139674133808272 -> "139674133914000+"
+	139674145585856 -> "139674145586048+"
+	139674145514688 -> "139674145514880+"
+	139674212817744 -> "139674212818080+"
+	139674133929744 -> "139674133826336+"
+	139674193811536 -> "139674145584176*"
+	139674184790224 -> "139674212624800+"
+	139674212818848 -> "139674212667696+"
+	139674133826144 -> "139674133826336+"
+	139674145597424 -> "139674145683872+"
+	139674133870000 -> "139674145692832*"
+	139674133781952 -> "139674133782144+"
+	139674145600224 -> "139674145600416+"
+	139674145472224 -> "139674145469392+"
+	139674193746288 -> "139674145668352*"
+	139674145575312 -> "139674145666624+"
+	139674184981280 -> "139674133717104*"
+	139674133818624 -> "139674145596848*"
+	139674193811920 -> "139674145571408*"
+	139674185051440 -> "139674212670816*"
+	139674145659872 -> "139674145660064+"
+	139674133788032 -> "139674133926288+"
+	139674184793536 -> "139674133807168*"
+	139674145577424 -> "139674145665088+"
+	139674133779648 -> "139674133779840+"
+	139674133928784 -> "139674133825376+"
+	139674212669616 -> "139674145715536*"
+	139674184793920 -> "139674133811152*"
+	139674184792864 -> "139674133867440*"
+	139674133780992 -> "139674133781184+"
+	139674133816032 -> "139674133816224+"
+	139674212667696 -> "139674212667792ReLU"
+	139674193813120 -> "139674145657424*"
+	139674193744656 -> "139674145603104*"
+	139674133719312 -> "139674133719504+"
+	139674212668704 -> "139674133810624*"
+	139674145666624 -> "139674145666720ReLU"
+	139674133807648 -> "139674133914192+"
+	139674193747920 -> "139674145599440*"
+	139674133869376 -> "139674133869712+"
+	139674193744992 -> "139674145516416*"
+	139674193811200 -> "139674145562288*"
+	139674133870000 -> "139674133752032*"
+	139674212624992 -> "139674212625088ReLU"
+	139674212695440 -> "139674212669184*"
+	139674212695536 -> "139674212668080*"
+	139674184982192 -> "139674133789376*"
+	139674185051056 -> "139674212669184*"
+	139674133870912 -> "139674145470880*"
+	139674184979024 -> "139674133789712+"
+	139674184981472 -> "139674133720320*"
+	139674145573904 -> "139674145497296+"
+	139674184793296 -> "139674133695744*"
+	139674145716112 -> "139674145598768+"
+	139674184791376 -> "139674133871200*"
+	139674184793776 -> "139674133810912*"
+	139674133869088 -> "139674145575120*"
+	139674133695168 -> "139674133695264ReLU"
+	139674133734112 -> "139674133864752+"
+	139674145576848 -> "139674145575648+"
+	139674212670528 -> "139674133866672*"
+	139674133735552 -> "139674133735744+"
+	139674145599440 -> "139674145682912+"
+	139674145516704 -> "139674145515840+"
+	139674133871392 -> "139674133737280+"
+	139674145658384 -> "139674145600032+"
+	139674184792432 -> "139674133865712*"
+	139674145598576 -> "139674145595744+"
+	139674193812736 -> "139674145500368*"
+	139674145470304 -> "139674145469392+"
+	139674133914192 -> "139674133914384+"
+	139674212623264 -> "139674133720896*"
+	139674212669616 -> "139674145602144*"
+	139674133737280 -> "139674133734448+"
+	139674193745184 -> "139674145576512*"
+	139674185050720 -> "139674212668080*"
+	139674145666240 -> "139674145666432+"
+	139674133787456 -> "139674133790480+"
+	139674193812208 -> "139674145570928*"
+	139674133867824 -> "139674133694784+"
+	139674145602912 -> "139674145515072+"
+	139674133869088 -> "139674133807648*"
+	139674193849984 -> "139674145597616*"
+	139674145578576 -> "139674145666432+"
+	139674184979216 -> "139674133929168*"
+	139674212816544 -> "139674133786880*"
+	139674193813216 -> "139674145657808*"
+	139674193812544 -> "139674145573808*"
+	139674212671440 -> "139674145691680*"
+	139674212667792 -> "139674133866096*"
+	139674133752560 -> "139674133752752+"
+	139674193850128 -> "139674145682576*"
+	139674212668704 -> "139674145577040*"
+	139674133696320 -> "139674133809280+"
+	139674145469872 -> "139674145469968ReLU"
+	139674133869088 -> "139674145603488*"
+	139674145665280 -> "139674145665472+"
+	139674145660448 -> "139674145660640+"
+	139674133866864 -> "139674133693824+"
+	139674184980464 -> "139674133750304*"
+	139674145585472 -> "139674145585664+"
+	139674145578000 -> "139674145665664+"
+	139674133719120 -> "139674133719312+"
+	139674184982336 -> "139674133928592*"
+	139674193745808 -> "139674145575264+"
+	139674193746048 -> "139674145667392*"
+	139674145597040 -> "139674145683488+"
+	139674133736560 -> "139674133735744+"
+	139674193746480 -> "139674145470256*"
+	139674133781568 -> "139674133781760+"
+	139674145471840 -> "139674145469008+"
+	139674193743984 -> "139674145659104+"
+	139674133827104 -> "139674133827296+"
+	139674133693824 -> "139674133694016+"
+	139674212626000 -> "139674133788992*"
+	139674212668704 -> "139674145691104*"
+	139674133868352 -> "139674133692480+"
+	139674212671440 -> "139674133750880*"
+	139674145716304 -> "139674145595936+"
+	139674184979696 -> "139674133916496*"
+	139674184981232 -> "139674133717296*"
+	139674133928400 -> "139674133824992+"
+	139674145714768 -> "139674145717792+"
+	139674145658192 -> "139674145599840+"
+	139674133864560 -> "139674133864752+"
+	139674212818368 -> "139674145561904*"
+	139674133926480 -> "139674133926672+"
+	139674193811488 -> "139674145583984*"
+	139674133870000 -> "139674145584560*"
+	139674133736128 -> "139674133736320+"
+	139674133692864 -> "139674133693056+"
+	139674133816992 -> "139674133817184+"
+	139674133917648 -> "139674133818336+"
+	139674133720896 -> "139674133780992+"
+	139674212817456 -> "139674133928592*"
+	139674145693168 -> "139674145693360+"
+	139674193812880 -> "139674145500752*"
+	139674184980560 -> "139674133750688*"
+	139674184791616 -> "139674133871968*"
+	139674193810720 -> "139674145692832*"
+	139674184790944 -> "139674133869712+"
+	139674212668704 -> "139674133750304*"
+	139674133735168 -> "139674133735360+"
+	139674212817360 -> "139674212817456ReLU"
+	139674184791952 -> "139674133736752*"
+	139674184980896 -> "139674133751264*"
+	139674212670528 -> "139674133788032*"
+	139674145665088 -> "139674145665280+"
+	139674193744608 -> "139674145602912*"
+	139674212670528 -> "139674145657424*"
+	139674212815632 -> "139674145561328*"
+	139674145657616 -> "139674145660640+"
+	139674145585280 -> "139674145585472+"
+	139674133717680 -> "139674133780416+"
+	139674145667392 -> "139674145468576+"
+	139674133913808 -> "139674133914000+"
+	139674212695440 -> "139674212816112*"
+	139674212695536 -> "139674212815008*"
+	139674145665856 -> "139674145666048+"
+	139674133927632 -> "139674133927824+"
+	139674193811152 -> "139674145562096*"
+	139674212817456 -> "139674133915344*"
+	139674133787072 -> "139674133790096+"
+	139674133870000 -> "139674133917648*"
+	139674185050336 -> "139674212817936*"
+	139674145602528 -> "139674145514688+"
+	139674145498064 -> "139674145498256+"
+	139674212817936 -> "139674212818272+"
+	139674145682192 -> "139674145685216+"
+	139674193809856 -> "139674133824656*"
+	139674133695936 -> "139674133808896+"
+	139674145574528 -> "139674145498640+"
+	139674133720128 -> "139674133779456+"
+	139674212667792 -> "139674133787456*"
+	139674145598144 -> "139674145598336+"
+	139674212695536 -> "139674212626288*"
+	139674133753520 -> "139674133753712+"
+	139674145660064 -> "139674145660256+"
+	139674133872544 -> "139674133735360+"
+	139674185050000 -> "139674212816832*"
+	139674212625088 -> "139674145571936*"
+	139674193745136 -> "139674145576320*"
+	139674212625088 -> "139674133823888*"
+	139674145559024 -> "139674145559216+"
+	139674184790320 -> "139674212625376*"
+	139674133789568 -> "139674133927824+"
+	139674212668704 -> "139674133720512*"
+	139674185051680 -> "139674212622640*"
+	139674145468576 -> "139674145471456+"
+	139674145683680 -> "139674145683872+"
+	139674133869088 -> "139674133778736*"
+	139674145596656 -> "139674145683104+"
+	139674193812016 -> "139674145571312*"
+	139674133781184 -> "139674133781376+"
+	139674212815632 -> "139674145573520*"
+	139674133778544 -> "139674133781568+"
+	139674145471456 -> "139674145468624+"
+	139674193810096 -> "139674145690336*"
+	139674212671440 -> "139674145583408*"
+	139674193813168 -> "139674145657616*"
+	139674212816544 -> "139674145690336*"
+	139674193744704 -> "139674145603296*"
+	139674145598000 -> "139674145684448+"
+	139674184978832 -> "139674133788224*"
+	139674133693440 -> "139674133693632+"
+	139674212625088 -> "139674133867440*"
+	139674133817568 -> "139674133817760+"
+	139674212626000 -> "139674145578384*"
+	139674145600992 -> "139674145516608+"
+	139674212671440 -> "139674133929744*"
+	139674193811248 -> "139674145562480*"
+	139674193846864 -> "139674145681616*"
+	139674133788608 -> "139674133926864+"
+	139674145500080 -> "139674145681616*"
+	139674184792768 -> "139674133867056*"
+	139674145469392 -> "139674145472464+"
+	139674145584176 -> "139674145572416+"
+	139674133870912 -> "139674145717264*"
+	139674212624176 -> "139674145602912*"
+	139674145500368 -> "139674145659104+"
+	139674133865328 -> "139674133868352+"
+	139674145682720 -> "139674145682912+"
+	139674145715344 -> "139674145598144+"
+	139674145714384 -> "139674145717408+"
+	139674145668736 -> "139674145472032+"
+	139674184792000 -> "139674133733920*"
+	139674145573136 -> "139674145499984+"
+	139674133735744 -> "139674133735936+"
+	139674212818368 -> "139674145667584*"
+	139674184980032 -> "139674133815504*"
+	139674133816608 -> "139674133816800+"
+	139674133870000 -> "139674145516704*"
+	139674212624176 -> "139674133733728*"
+	139674133786880 -> "139674133789904+"
+	139674193812448 -> "139674145571072*"
+	139674133914384 -> "139674133914576+"
+	139674212695440 -> "139674212622832*"
+	139674133717872 -> "139674133780800+"
+	139674184980944 -> "139674133752224*"
+	139674184981568 -> "139674133720896*"
+	139674193747056 -> "139674145715152*"
+	139674212623264 -> "139674145577808*"
+	139674145584368 -> "139674145574144+"
+	139674212671440 -> "139674133916496*"
+	139674212668704 -> "139674133872160*"
+	139674184979360 -> "139674133915536*"
+	139674133811152 -> "139674133914384+"
+	139674212668704 -> "139674133929168*"
+	139674133915344 -> "139674133816032+"
+	139674145578720 -> "139674145575456+"
+	139674184978736 -> "139674133787072*"
+	139674193810192 -> "139674145690720*"
+	139674212669616 -> "139674133866480*"
+	139674133750880 -> "139674133718352+"
+	139674212669616 -> "139674133807168*"
+	139674145657232 -> "139674145660256+"
+	139674212671152 -> "139674212671344+"
+	139674133916112 -> "139674133816800+"
+	139674145584896 -> "139674145585088+"
+	139674212815632 -> "139674145667008*"
+	139674185051584 -> "139674212671152+"
+	139674212670528 -> "139674145668352*"
+	139674133870000 -> "139674145578576*"
+	139674133869088 -> "139674133824272*"
+	139674145497680 -> "139674145497872+"
+	139674184790560 -> "139674212626288*"
+	139674212622640 -> "139674212622976+"
+	139674193812832 -> "139674145500560*"
+	139674145559600 -> "139674145559792+"
+	139674193811344 -> "139674145583408*"
+	139674184979552 -> "139674133914960*"
+	139674145603488 -> "139674145515648+"
+	139674212626000 -> "139674133751648*"
+	139674212817456 -> "139674133717296*"
+	139674185050816 -> "139674212668272*"
+	139674133823888 -> "139674133826912+"
+	139674212668704 -> "139674133915920*"
+	139674145469008 -> "139674145472032+"
+	139674193746096 -> "139674145667584*"
+	139674145691104 -> "139674145559024+"
+	139674184981856 -> "139674133778928*"
+	139674133869088 -> "139674133867824*"
+	139674145499792 -> "139674145499984+"
+	139674212670528 -> "139674145691488*"
+	139674212625712 -> "139674212625904+"
+	139674184980512 -> "139674133819296*"
+	139674133753136 -> "139674133753328+"
+	139674145715728 -> "139674145598576+"
+	139674145575840 -> "139674145576032+"
+	139674145558640 -> "139674145558832+"
+	139674212626288 -> "139674133868800+"
+	139674145601952 -> "139674145514064+"
+	139674212695440 -> "139674212670096*"
+	139674212695536 -> "139674212668992*"
+	139674133789184 -> "139674133927440+"
+	139674145586048 -> "139674145586240+"
+	139674184790176 -> "139674212624656*"
+	139674184792672 -> "139674133866672*"
+	139674145500944 -> "139674145659680+"
+	139674145683296 -> "139674145683488+"
+	139674145571072 -> "139674145499408+"
+	139674133870000 -> "139674145573808*"
+	139674133929936 -> "139674133826528+"
+	139674193746528 -> "139674145470304*"
+	139674212817456 -> "139674145576320*"
+	139674212623264 -> "139674133751072*"
+	139674133693056 -> "139674133693248+"
+	139674145600416 -> "139674145600608+"
+	139674133694400 -> "139674133694592+"
+	139674212625088 -> "139674133788800*"
+	139674184981616 -> "139674133718064*"
+	139674185050864 -> "139674212668416+"
+	139674133827488 -> "139674145689760+"
+	139674145572416 -> "139674145574144+"
+	139674212625088 -> "139674145658192*"
+	139674212667792 -> "139674145690912*"
+	139674133788224 -> "139674133926480+"
+	139674184791664 -> "139674133872160*"
+	139674212624176 -> "139674145572800*"
+	139674212670432 -> "139674212670528ReLU"
+	139674212669184 -> "139674212669520+"
+	139674133870000 -> "139674133811152*"
+	139674212817456 -> "139674145561712*"
+	139674145470688 -> "139674145469680+"
+	139674193745664 -> "139674145575120*"
+	139674133914576 -> "139674133914672ReLU"
+	139674133927056 -> "139674133927248+"
+	139674193745520 -> "139674145578000*"
+	139674212815632 -> "139674133818912*"
+	139674193847008 -> "139674145598000*"
+	139674212816544 -> "139674133871392*"
+	139674193747440 -> "139674145716688*"
+	139674212816544 -> "139674133928400*"
+	139674184793104 -> "139674133868352+"
+	139674145516608 -> "139674145513680+"
+	139674133808080 -> "139674133807216+"
+	139674193746720 -> "139674145471216+"
+	139674145498256 -> "139674145498448+"
+	139674184792288 -> "139674133865328*"
+	139674133818912 -> "139674133752368+"
+	139674184979840 -> "139674133917072*"
+	139674212695200 -> "139674145682720+"
+	139674133818336 -> "139674133818528+"
+	139674133869088 -> "139674133736944*"
+	139674133914960 -> "139674133815648+"
+	139674212623744 -> "139674212624080+"
+	139674193810576 -> "139674145692256*"
+	139674133824464 -> "139674133827488+"
+	139674133807168 -> "139674133809664+"
+	139674212669616 -> "139674145657232*"
+	139674184793584 -> "139674133807312*"
+	139674184982096 -> "139674133788992*"
+	139674184792048 -> "139674133736944*"
+	139674145715920 -> "139674145595744+"
+	139674212669616 -> "139674145562480*"
+	139674145667008 -> "139674145471216+"
+	139674133751840 -> "139674133719312+"
+	139674212817168 -> "139674212817360+"
+	139674145571792 -> "139674145498256+"
+	139674133917072 -> "139674133817760+"
+	139674212667504 -> "139674212667696+"
+	139674145497296 -> "139674145497488+"
+	139674193747008 -> "139674145714960*"
+	139674193744848 -> "139674145516848*"
+	139674212816544 -> "139674133915152*"
+	139674133870912 -> "139674133779120*"
+	139674133790096 -> "139674133790288+"
+	139674145586624 -> "139674145586816+"
+	139674133870912 -> "139674133737136*"
+	139674145560560 -> "139674145560752+"
+	139674133865040 -> "139674212695200*"
+	139674145468624 -> "139674145471648+"
+	139674145690720 -> "139674145558640+"
+	139674133809280 -> "139674133809472+"
+	139674212815632 -> "139674145500368*"
+	139674145499408 -> "139674145499600+"
+	139674133824656 -> "139674145689760+"
+	139674133869088 -> "139674133789184*"
+	139674184978880 -> "139674133788416*"
+	139674133869088 -> "139674145658576*"
+	139674193747536 -> "139674145717072*"
+	139674133694976 -> "139674133695168+"
+	139674145516512 -> "139674145578720+"
+	139674145692832 -> "139674145560752+"
+	139674133864944 -> "139674133865040ReLU"
+	139674212624176 -> "139674133823696*"
+	139674212816832 -> "139674212817168+"
+	139674145682912 -> "139674145683104+"
+	139674133824992 -> "139674133825184+"
+	139674184793872 -> "139674133807648*"
+	139674193811296 -> "139674145583216*"
+	139674193809520 -> "139674133929744*"
+	139674185050096 -> "139674212817024*"
+	139674193810672 -> "139674145692640*"
+	139674212626000 -> "139674133917264*"
+	139674145600608 -> "139674145600704ReLU"
+	139674145684256 -> "139674145684448+"
+	139674212623264 -> "139674133929936*"
+	139674133869088 -> "139674145574816*"
+	139674145515648 -> "139674145515840+"
+	139674184982000 -> "139674133787840*"
+	139674133779120 -> "139674133782144+"
+	139674212670528 -> "139674145583216*"
+	139674184981520 -> "139674133717872*"
+	139674193744080 -> "139674145600992*"
+	139674184980368 -> "139674133749920*"
+	139674145685024 -> "139674145685216+"
+	139674212624176 -> "139674133867248*"
+	139674212667792 -> "139674145501136*"
+	139674133818144 -> "139674133818336+"
+	139674133733488 -> "139674133735552+"
+	139674184980176 -> "139674133818912*"
+	139674133815504 -> "139674133818528+"
+	139674212669520 -> "139674212669616ReLU"
+	139674212670528 -> "139674133872544*"
+	139674145659488 -> "139674145659680+"
+	139674212668272 -> "139674212668608+"
+	139674212626000 -> "139674133808272*"
+	139674212695440 -> "139674212817024*"
+	139674212695536 -> "139674212815920*"
+	139674133865904 -> "139674133692864+"
+	139674145562480 -> "139674145586048+"
+	139674193747824 -> "139674212695200*"
+	139674212817456 -> "139674145714768*"
+	139674133870000 -> "139674145717072*"
+	139674133736752 -> "139674133736128+"
+	139674133915536 -> "139674133816224+"
+	139674145469680 -> "139674145469872+"
+	139674145601760 -> "139674145517328+"
+	139674184980704 -> "139674133750496*"
+	139674193744416 -> "139674145602144*"
+}
