@@ -1,7 +1,7 @@
 # CapmanGrad
 
 ## What is it?
-CapmanGrad is yet another implementation of [Micrograd](https://github.com/karpathy/micrograd)  done almost entirely from memory, as a personal learning project. It has some added functionality, namely Cross Validation, which is used to compute the best possible L2 Regularization lambda hyperparameter over a range of possible values. It's more of a mean to learn as much something about the subject than a production piece of software. Things could be added in the future as a further exercize about the topic.
+CapmanGrad is yet another implementation of [micrograd](https://github.com/karpathy/micrograd)  done almost entirely from memory, as a personal learning project. It has some added functionality, namely Cross Validation, which is used to compute the best possible L2 Regularization lambda hyperparameter over a range of possible values. It's more of a mean to learn as much something about the subject than a production piece of software. Things could be added in the future as a further exercize about the topic.
 Feel free to use it anyway you see fit.
 
 ## Why is it called like that?
@@ -109,7 +109,7 @@ epoch:57, loss:0.08194466404308966, accuracy:100.0%
 Please keep in mind that  this implementation of the cross validation algorithm could take quite a while.
 
 ## Tests
-To run the tests associated with this project you should first install the pytest framework and then run the following command in your terminal emulator
+To run the tests associated with this project you should first install the pytest framework and, like it happens with micrograd, pytorch (look at the instructions on the project's website) and then you should be able to run the following command in your terminal emulator without any issues
 
 ```python
 python -m pytest

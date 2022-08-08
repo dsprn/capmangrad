@@ -2,12 +2,11 @@
 import numpy as np
 from sklearn.datasets import make_moons
 from capmangrad.xval import xval
-from capmangrad.utils import computational_graph, MSE, SVM_maxmargin, L2, data_ratio
+from capmangrad.utils import computational_graph, MSE, SVM_maxmargin, L2, data_ratio, ANSWER
 from capmangrad.engine import Value
 from capmangrad.nn import Neuron, Layer, Model
 
 
-ANSWER = 42
 # TODO: make this an argument from terminal
 debug_mode = True
 
