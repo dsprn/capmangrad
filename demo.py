@@ -1,4 +1,5 @@
 # import random
+import argparse
 import numpy as np
 from sklearn.datasets import make_moons
 from capmangrad.xval import xval
@@ -8,7 +9,15 @@ from capmangrad.nn import Neuron, Layer, Model
 
 
 # TODO: make this an argument from terminal
-debug_mode = True
+parser = argparse.ArgumentParser()
+parser.add_argument('-d', '--debug', action='store_true',
+                    help='start in debug mode (always generate the same neural network from seeded random values)')
+args = parser.parse_args()
+if args.debug:
+    print('==> Started in debug mode. This mode will always generate the same neural network (from seeded random values)...')
+    debug_mode = True
+else:
+    debug_mode = False
 
 # initial dataset
 if debug_mode:
